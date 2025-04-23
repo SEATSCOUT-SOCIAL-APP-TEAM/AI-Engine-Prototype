@@ -1,0 +1,3802 @@
+[
+  {
+    "id": "user_001",
+    "name": "Crystal",
+    "preferences": [
+      "lunch",
+      "pet friendly",
+      "air-conditioned",
+      "dessert"
+    ],
+    "intent": "romantic dinner",
+    "personality": "extrovert",
+    "time_of_day": "evening",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.780282,
+      "lon": 106.685861
+    },
+    "query": "romantic dinner in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_002",
+    "name": "April",
+    "preferences": [
+      "pet friendly",
+      "tea",
+      "bbq",
+      "vegan"
+    ],
+    "intent": "strong coffee fast",
+    "personality": "extrovert",
+    "time_of_day": "evening",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.765422,
+      "lon": 106.711631
+    },
+    "query": "strong coffee fast in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_003",
+    "name": "Rodney",
+    "preferences": [
+      "tea",
+      "live music",
+      "dessert",
+      "bbq"
+    ],
+    "intent": "cafe for remote work",
+    "personality": "extrovert",
+    "time_of_day": "afternoon",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.773898,
+      "lon": 106.717789
+    },
+    "query": "cafe for remote work in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_004",
+    "name": "Dylan",
+    "preferences": [
+      "bbq",
+      "wifi",
+      "kid friendly",
+      "breakfast"
+    ],
+    "intent": "brunch with friends",
+    "personality": "balanced",
+    "time_of_day": "evening",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.762481,
+      "lon": 106.717913
+    },
+    "query": "brunch with friends in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_005",
+    "name": "Kimberly",
+    "preferences": [
+      "bbq",
+      "outdoor seating",
+      "luxury",
+      "wifi"
+    ],
+    "intent": "cafe for remote work",
+    "personality": "balanced",
+    "time_of_day": "morning",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.776147,
+      "lon": 106.717227
+    },
+    "query": "cafe for remote work in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_006",
+    "name": "Henry",
+    "preferences": [
+      "breakfast",
+      "pet friendly",
+      "quiet",
+      "live music"
+    ],
+    "intent": "meet with clients",
+    "personality": "balanced",
+    "time_of_day": "morning",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.781589,
+      "lon": 106.696316
+    },
+    "query": "meet with clients in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_007",
+    "name": "Lauren",
+    "preferences": [
+      "live music",
+      "lunch",
+      "coffee",
+      "tea"
+    ],
+    "intent": "meet with clients",
+    "personality": "extrovert",
+    "time_of_day": "afternoon",
+    "mobility": "car",
+    "location": {
+      "lat": 10.761923,
+      "lon": 106.708092
+    },
+    "query": "meet with clients in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_008",
+    "name": "Nicholas",
+    "preferences": [
+      "fast service",
+      "casual",
+      "kid friendly",
+      "co-working"
+    ],
+    "intent": "explore hidden gems",
+    "personality": "introvert",
+    "time_of_day": "night",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.790774,
+      "lon": 106.717408
+    },
+    "query": "explore hidden gems in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_009",
+    "name": "Thomas",
+    "preferences": [
+      "casual",
+      "romantic",
+      "kid friendly",
+      "co-working"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "balanced",
+    "time_of_day": "evening",
+    "mobility": "car",
+    "location": {
+      "lat": 10.765785,
+      "lon": 106.688352
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_010",
+    "name": "Courtney",
+    "preferences": [
+      "co-working",
+      "tea",
+      "dessert",
+      "bbq"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "extrovert",
+    "time_of_day": "afternoon",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.769935,
+      "lon": 106.687222
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_011",
+    "name": "Eric",
+    "preferences": [
+      "coffee",
+      "air-conditioned",
+      "bbq",
+      "tea"
+    ],
+    "intent": "explore hidden gems",
+    "personality": "balanced",
+    "time_of_day": "evening",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.79338,
+      "lon": 106.689399
+    },
+    "query": "explore hidden gems in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_012",
+    "name": "Henry",
+    "preferences": [
+      "noodle",
+      "pet friendly",
+      "dinner",
+      "casual"
+    ],
+    "intent": "meet with clients",
+    "personality": "balanced",
+    "time_of_day": "evening",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.762415,
+      "lon": 106.708659
+    },
+    "query": "meet with clients in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_013",
+    "name": "Jonathan",
+    "preferences": [
+      "co-working",
+      "bbq",
+      "romantic",
+      "pet friendly"
+    ],
+    "intent": "romantic dinner",
+    "personality": "extrovert",
+    "time_of_day": "afternoon",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.765316,
+      "lon": 106.697006
+    },
+    "query": "romantic dinner in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_014",
+    "name": "Timothy",
+    "preferences": [
+      "quiet",
+      "tea",
+      "luxury",
+      "wifi"
+    ],
+    "intent": "romantic dinner",
+    "personality": "balanced",
+    "time_of_day": "evening",
+    "mobility": "car",
+    "location": {
+      "lat": 10.758917,
+      "lon": 106.688748
+    },
+    "query": "romantic dinner in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_015",
+    "name": "Lori",
+    "preferences": [
+      "live music",
+      "open late",
+      "breakfast",
+      "air-conditioned"
+    ],
+    "intent": "romantic dinner",
+    "personality": "introvert",
+    "time_of_day": "afternoon",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.768633,
+      "lon": 106.70843
+    },
+    "query": "romantic dinner in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_016",
+    "name": "Susan",
+    "preferences": [
+      "open late",
+      "lunch",
+      "vegan",
+      "quiet"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "introvert",
+    "time_of_day": "night",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.774466,
+      "lon": 106.716313
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_017",
+    "name": "Cindy",
+    "preferences": [
+      "air-conditioned",
+      "live music",
+      "noodle",
+      "co-working"
+    ],
+    "intent": "find a quiet place to study",
+    "personality": "extrovert",
+    "time_of_day": "night",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.793904,
+      "lon": 106.706598
+    },
+    "query": "find a quiet place to study in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_018",
+    "name": "Melinda",
+    "preferences": [
+      "outdoor seating",
+      "coffee",
+      "co-working",
+      "breakfast"
+    ],
+    "intent": "meet with clients",
+    "personality": "extrovert",
+    "time_of_day": "night",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.76268,
+      "lon": 106.717229
+    },
+    "query": "meet with clients in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_019",
+    "name": "Kimberly",
+    "preferences": [
+      "open late",
+      "co-working",
+      "dessert",
+      "dinner"
+    ],
+    "intent": "find a quiet place to study",
+    "personality": "extrovert",
+    "time_of_day": "afternoon",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.785677,
+      "lon": 106.714867
+    },
+    "query": "find a quiet place to study in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_020",
+    "name": "Justin",
+    "preferences": [
+      "breakfast",
+      "live music",
+      "vegan",
+      "lunch"
+    ],
+    "intent": "late-night snack",
+    "personality": "balanced",
+    "time_of_day": "morning",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.758979,
+      "lon": 106.692537
+    },
+    "query": "late-night snack in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_021",
+    "name": "Whitney",
+    "preferences": [
+      "pet friendly",
+      "romantic",
+      "wifi",
+      "outdoor seating"
+    ],
+    "intent": "explore hidden gems",
+    "personality": "extrovert",
+    "time_of_day": "afternoon",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.787757,
+      "lon": 106.695548
+    },
+    "query": "explore hidden gems in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_022",
+    "name": "Andre",
+    "preferences": [
+      "luxury",
+      "pet friendly",
+      "live music",
+      "dessert"
+    ],
+    "intent": "vegan lunch",
+    "personality": "introvert",
+    "time_of_day": "night",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.790944,
+      "lon": 106.6996
+    },
+    "query": "vegan lunch in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_023",
+    "name": "Michelle",
+    "preferences": [
+      "live music",
+      "kid friendly",
+      "wifi",
+      "lunch"
+    ],
+    "intent": "explore hidden gems",
+    "personality": "extrovert",
+    "time_of_day": "night",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.769076,
+      "lon": 106.713159
+    },
+    "query": "explore hidden gems in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_024",
+    "name": "Hailey",
+    "preferences": [
+      "wifi",
+      "coffee",
+      "luxury",
+      "breakfast"
+    ],
+    "intent": "cafe for remote work",
+    "personality": "balanced",
+    "time_of_day": "evening",
+    "mobility": "car",
+    "location": {
+      "lat": 10.762883,
+      "lon": 106.704824
+    },
+    "query": "cafe for remote work in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_025",
+    "name": "Joyce",
+    "preferences": [
+      "pet friendly",
+      "co-working",
+      "fast service",
+      "air-conditioned"
+    ],
+    "intent": "meet with clients",
+    "personality": "extrovert",
+    "time_of_day": "evening",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.783572,
+      "lon": 106.698439
+    },
+    "query": "meet with clients in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_026",
+    "name": "Elizabeth",
+    "preferences": [
+      "quiet",
+      "tea",
+      "open late",
+      "kid friendly"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "extrovert",
+    "time_of_day": "evening",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.776282,
+      "lon": 106.714448
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_027",
+    "name": "Paul",
+    "preferences": [
+      "quiet",
+      "air-conditioned",
+      "pet friendly",
+      "co-working"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "balanced",
+    "time_of_day": "night",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.775938,
+      "lon": 106.692534
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_028",
+    "name": "Christina",
+    "preferences": [
+      "dessert",
+      "fast service",
+      "wifi",
+      "vegan"
+    ],
+    "intent": "explore hidden gems",
+    "personality": "balanced",
+    "time_of_day": "night",
+    "mobility": "car",
+    "location": {
+      "lat": 10.792604,
+      "lon": 106.687569
+    },
+    "query": "explore hidden gems in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_029",
+    "name": "Jennifer",
+    "preferences": [
+      "dessert",
+      "live music",
+      "wifi",
+      "casual"
+    ],
+    "intent": "brunch with friends",
+    "personality": "extrovert",
+    "time_of_day": "morning",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.776419,
+      "lon": 106.702246
+    },
+    "query": "brunch with friends in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_030",
+    "name": "Jesus",
+    "preferences": [
+      "romantic",
+      "coffee",
+      "breakfast",
+      "air-conditioned"
+    ],
+    "intent": "strong coffee fast",
+    "personality": "balanced",
+    "time_of_day": "morning",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.779082,
+      "lon": 106.69195
+    },
+    "query": "strong coffee fast in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_031",
+    "name": "Ronald",
+    "preferences": [
+      "vegan",
+      "air-conditioned",
+      "romantic",
+      "casual"
+    ],
+    "intent": "romantic dinner",
+    "personality": "introvert",
+    "time_of_day": "morning",
+    "mobility": "car",
+    "location": {
+      "lat": 10.774022,
+      "lon": 106.684634
+    },
+    "query": "romantic dinner in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_032",
+    "name": "Alejandro",
+    "preferences": [
+      "fast service",
+      "dinner",
+      "co-working",
+      "dessert"
+    ],
+    "intent": "vegan lunch",
+    "personality": "balanced",
+    "time_of_day": "afternoon",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.764057,
+      "lon": 106.691883
+    },
+    "query": "vegan lunch in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_033",
+    "name": "Meagan",
+    "preferences": [
+      "luxury",
+      "dessert",
+      "tea",
+      "vegan"
+    ],
+    "intent": "late-night snack",
+    "personality": "balanced",
+    "time_of_day": "afternoon",
+    "mobility": "car",
+    "location": {
+      "lat": 10.761481,
+      "lon": 106.686973
+    },
+    "query": "late-night snack in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_034",
+    "name": "Lisa",
+    "preferences": [
+      "dinner",
+      "outdoor seating",
+      "luxury",
+      "pet friendly"
+    ],
+    "intent": "romantic dinner",
+    "personality": "extrovert",
+    "time_of_day": "evening",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.763001,
+      "lon": 106.696284
+    },
+    "query": "romantic dinner in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_035",
+    "name": "Ashley",
+    "preferences": [
+      "dessert",
+      "bbq",
+      "breakfast",
+      "romantic"
+    ],
+    "intent": "meet with clients",
+    "personality": "introvert",
+    "time_of_day": "morning",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.764584,
+      "lon": 106.716523
+    },
+    "query": "meet with clients in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_036",
+    "name": "Pamela",
+    "preferences": [
+      "noodle",
+      "open late",
+      "fast service",
+      "air-conditioned"
+    ],
+    "intent": "brunch with friends",
+    "personality": "introvert",
+    "time_of_day": "morning",
+    "mobility": "car",
+    "location": {
+      "lat": 10.760127,
+      "lon": 106.712499
+    },
+    "query": "brunch with friends in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_037",
+    "name": "Christopher",
+    "preferences": [
+      "open late",
+      "coffee",
+      "quiet",
+      "lunch"
+    ],
+    "intent": "explore hidden gems",
+    "personality": "introvert",
+    "time_of_day": "morning",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.783362,
+      "lon": 106.71867
+    },
+    "query": "explore hidden gems in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_038",
+    "name": "Teresa",
+    "preferences": [
+      "dessert",
+      "romantic",
+      "coffee",
+      "luxury"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "introvert",
+    "time_of_day": "afternoon",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.760009,
+      "lon": 106.707858
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_039",
+    "name": "Terri",
+    "preferences": [
+      "quiet",
+      "fast service",
+      "pet friendly",
+      "breakfast"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "balanced",
+    "time_of_day": "night",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.781499,
+      "lon": 106.7188
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_040",
+    "name": "Evan",
+    "preferences": [
+      "dinner",
+      "kid friendly",
+      "romantic",
+      "lunch"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "introvert",
+    "time_of_day": "afternoon",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.786084,
+      "lon": 106.685045
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_041",
+    "name": "Brandy",
+    "preferences": [
+      "coffee",
+      "pet friendly",
+      "casual",
+      "open late"
+    ],
+    "intent": "late-night snack",
+    "personality": "extrovert",
+    "time_of_day": "afternoon",
+    "mobility": "car",
+    "location": {
+      "lat": 10.792902,
+      "lon": 106.709769
+    },
+    "query": "late-night snack in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_042",
+    "name": "Elizabeth",
+    "preferences": [
+      "pet friendly",
+      "noodle",
+      "air-conditioned",
+      "kid friendly"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "balanced",
+    "time_of_day": "night",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.760823,
+      "lon": 106.690166
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_043",
+    "name": "Paul",
+    "preferences": [
+      "fast service",
+      "air-conditioned",
+      "romantic",
+      "dinner"
+    ],
+    "intent": "strong coffee fast",
+    "personality": "balanced",
+    "time_of_day": "evening",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.761284,
+      "lon": 106.691452
+    },
+    "query": "strong coffee fast in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_044",
+    "name": "Jenna",
+    "preferences": [
+      "tea",
+      "live music",
+      "casual",
+      "bbq"
+    ],
+    "intent": "brunch with friends",
+    "personality": "extrovert",
+    "time_of_day": "afternoon",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.786779,
+      "lon": 106.690714
+    },
+    "query": "brunch with friends in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_045",
+    "name": "Chase",
+    "preferences": [
+      "noodle",
+      "outdoor seating",
+      "dinner",
+      "luxury"
+    ],
+    "intent": "brunch with friends",
+    "personality": "extrovert",
+    "time_of_day": "morning",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.760785,
+      "lon": 106.711342
+    },
+    "query": "brunch with friends in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_046",
+    "name": "Kyle",
+    "preferences": [
+      "lunch",
+      "fast service",
+      "outdoor seating",
+      "kid friendly"
+    ],
+    "intent": "brunch with friends",
+    "personality": "extrovert",
+    "time_of_day": "evening",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.763995,
+      "lon": 106.705037
+    },
+    "query": "brunch with friends in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_047",
+    "name": "Travis",
+    "preferences": [
+      "breakfast",
+      "air-conditioned",
+      "kid friendly",
+      "bbq"
+    ],
+    "intent": "late-night snack",
+    "personality": "balanced",
+    "time_of_day": "morning",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.767008,
+      "lon": 106.71551
+    },
+    "query": "late-night snack in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_048",
+    "name": "John",
+    "preferences": [
+      "luxury",
+      "air-conditioned",
+      "tea",
+      "noodle"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "extrovert",
+    "time_of_day": "evening",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.793772,
+      "lon": 106.694249
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_049",
+    "name": "Melissa",
+    "preferences": [
+      "live music",
+      "coffee",
+      "kid friendly",
+      "outdoor seating"
+    ],
+    "intent": "find a quiet place to study",
+    "personality": "extrovert",
+    "time_of_day": "afternoon",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.772591,
+      "lon": 106.713211
+    },
+    "query": "find a quiet place to study in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_050",
+    "name": "Anthony",
+    "preferences": [
+      "breakfast",
+      "vegan",
+      "noodle",
+      "casual"
+    ],
+    "intent": "cafe for remote work",
+    "personality": "balanced",
+    "time_of_day": "evening",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.790677,
+      "lon": 106.71749
+    },
+    "query": "cafe for remote work in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_051",
+    "name": "Katie",
+    "preferences": [
+      "wifi",
+      "lunch",
+      "fast service",
+      "kid friendly"
+    ],
+    "intent": "vegan lunch",
+    "personality": "balanced",
+    "time_of_day": "afternoon",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.761399,
+      "lon": 106.707542
+    },
+    "query": "vegan lunch in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_052",
+    "name": "Matthew",
+    "preferences": [
+      "coffee",
+      "noodle",
+      "live music",
+      "romantic"
+    ],
+    "intent": "find a quiet place to study",
+    "personality": "balanced",
+    "time_of_day": "night",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.761722,
+      "lon": 106.712755
+    },
+    "query": "find a quiet place to study in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_053",
+    "name": "Elizabeth",
+    "preferences": [
+      "romantic",
+      "kid friendly",
+      "dinner",
+      "live music"
+    ],
+    "intent": "romantic dinner",
+    "personality": "introvert",
+    "time_of_day": "afternoon",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.762723,
+      "lon": 106.690334
+    },
+    "query": "romantic dinner in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_054",
+    "name": "Elizabeth",
+    "preferences": [
+      "pet friendly",
+      "open late",
+      "live music",
+      "air-conditioned"
+    ],
+    "intent": "vegan lunch",
+    "personality": "extrovert",
+    "time_of_day": "morning",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.787381,
+      "lon": 106.707882
+    },
+    "query": "vegan lunch in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_055",
+    "name": "Bradley",
+    "preferences": [
+      "live music",
+      "vegan",
+      "romantic",
+      "bbq"
+    ],
+    "intent": "meet with clients",
+    "personality": "balanced",
+    "time_of_day": "evening",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.784508,
+      "lon": 106.706769
+    },
+    "query": "meet with clients in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_056",
+    "name": "Gregory",
+    "preferences": [
+      "air-conditioned",
+      "casual",
+      "tea",
+      "breakfast"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "extrovert",
+    "time_of_day": "morning",
+    "mobility": "car",
+    "location": {
+      "lat": 10.789398,
+      "lon": 106.71438
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_057",
+    "name": "Richard",
+    "preferences": [
+      "outdoor seating",
+      "kid friendly",
+      "co-working",
+      "luxury"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "extrovert",
+    "time_of_day": "afternoon",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.781327,
+      "lon": 106.69678
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_058",
+    "name": "Michael",
+    "preferences": [
+      "noodle",
+      "casual",
+      "lunch",
+      "live music"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "extrovert",
+    "time_of_day": "morning",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.779281,
+      "lon": 106.684808
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_059",
+    "name": "Kimberly",
+    "preferences": [
+      "air-conditioned",
+      "coffee",
+      "outdoor seating",
+      "co-working"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "introvert",
+    "time_of_day": "night",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.766381,
+      "lon": 106.703049
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_060",
+    "name": "Lindsey",
+    "preferences": [
+      "live music",
+      "tea",
+      "fast service",
+      "co-working"
+    ],
+    "intent": "late-night snack",
+    "personality": "balanced",
+    "time_of_day": "night",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.776418,
+      "lon": 106.712781
+    },
+    "query": "late-night snack in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_061",
+    "name": "Jason",
+    "preferences": [
+      "dessert",
+      "vegan",
+      "breakfast",
+      "quiet"
+    ],
+    "intent": "brunch with friends",
+    "personality": "introvert",
+    "time_of_day": "morning",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.76106,
+      "lon": 106.687892
+    },
+    "query": "brunch with friends in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_062",
+    "name": "Rebecca",
+    "preferences": [
+      "casual",
+      "vegan",
+      "tea",
+      "open late"
+    ],
+    "intent": "late-night snack",
+    "personality": "extrovert",
+    "time_of_day": "night",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.790096,
+      "lon": 106.696955
+    },
+    "query": "late-night snack in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_063",
+    "name": "Jessica",
+    "preferences": [
+      "luxury",
+      "noodle",
+      "outdoor seating",
+      "co-working"
+    ],
+    "intent": "cafe for remote work",
+    "personality": "balanced",
+    "time_of_day": "evening",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.772944,
+      "lon": 106.695478
+    },
+    "query": "cafe for remote work in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_064",
+    "name": "Heather",
+    "preferences": [
+      "coffee",
+      "outdoor seating",
+      "lunch",
+      "casual"
+    ],
+    "intent": "meet with clients",
+    "personality": "extrovert",
+    "time_of_day": "night",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.78367,
+      "lon": 106.709536
+    },
+    "query": "meet with clients in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_065",
+    "name": "Susan",
+    "preferences": [
+      "breakfast",
+      "tea",
+      "vegan",
+      "coffee"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "balanced",
+    "time_of_day": "evening",
+    "mobility": "car",
+    "location": {
+      "lat": 10.786168,
+      "lon": 106.686208
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_066",
+    "name": "Timothy",
+    "preferences": [
+      "co-working",
+      "quiet",
+      "tea",
+      "casual"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "balanced",
+    "time_of_day": "afternoon",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.792276,
+      "lon": 106.690707
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_067",
+    "name": "Matthew",
+    "preferences": [
+      "luxury",
+      "lunch",
+      "vegan",
+      "fast service"
+    ],
+    "intent": "vegan lunch",
+    "personality": "introvert",
+    "time_of_day": "morning",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.760819,
+      "lon": 106.715569
+    },
+    "query": "vegan lunch in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_068",
+    "name": "Russell",
+    "preferences": [
+      "coffee",
+      "dessert",
+      "co-working",
+      "lunch"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "introvert",
+    "time_of_day": "evening",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.788602,
+      "lon": 106.709915
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_069",
+    "name": "Shelia",
+    "preferences": [
+      "dinner",
+      "pet friendly",
+      "live music",
+      "coffee"
+    ],
+    "intent": "brunch with friends",
+    "personality": "extrovert",
+    "time_of_day": "evening",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.761473,
+      "lon": 106.707343
+    },
+    "query": "brunch with friends in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_070",
+    "name": "Elizabeth",
+    "preferences": [
+      "luxury",
+      "breakfast",
+      "co-working",
+      "wifi"
+    ],
+    "intent": "meet with clients",
+    "personality": "introvert",
+    "time_of_day": "evening",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.787714,
+      "lon": 106.684929
+    },
+    "query": "meet with clients in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_071",
+    "name": "Bruce",
+    "preferences": [
+      "air-conditioned",
+      "coffee",
+      "fast service",
+      "pet friendly"
+    ],
+    "intent": "late-night snack",
+    "personality": "introvert",
+    "time_of_day": "night",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.786572,
+      "lon": 106.703292
+    },
+    "query": "late-night snack in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_072",
+    "name": "Whitney",
+    "preferences": [
+      "fast service",
+      "air-conditioned",
+      "open late",
+      "dinner"
+    ],
+    "intent": "late-night snack",
+    "personality": "balanced",
+    "time_of_day": "evening",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.767483,
+      "lon": 106.698848
+    },
+    "query": "late-night snack in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_073",
+    "name": "Denise",
+    "preferences": [
+      "outdoor seating",
+      "tea",
+      "breakfast",
+      "coffee"
+    ],
+    "intent": "find a quiet place to study",
+    "personality": "extrovert",
+    "time_of_day": "afternoon",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.772381,
+      "lon": 106.703629
+    },
+    "query": "find a quiet place to study in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_074",
+    "name": "Mary",
+    "preferences": [
+      "noodle",
+      "luxury",
+      "open late",
+      "quiet"
+    ],
+    "intent": "brunch with friends",
+    "personality": "extrovert",
+    "time_of_day": "morning",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.768414,
+      "lon": 106.689978
+    },
+    "query": "brunch with friends in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_075",
+    "name": "Stacy",
+    "preferences": [
+      "dinner",
+      "luxury",
+      "kid friendly",
+      "romantic"
+    ],
+    "intent": "brunch with friends",
+    "personality": "extrovert",
+    "time_of_day": "night",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.787736,
+      "lon": 106.684665
+    },
+    "query": "brunch with friends in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_076",
+    "name": "Kathryn",
+    "preferences": [
+      "lunch",
+      "noodle",
+      "bbq",
+      "romantic"
+    ],
+    "intent": "find a quiet place to study",
+    "personality": "introvert",
+    "time_of_day": "night",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.787774,
+      "lon": 106.711108
+    },
+    "query": "find a quiet place to study in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_077",
+    "name": "Mary",
+    "preferences": [
+      "vegan",
+      "noodle",
+      "romantic",
+      "luxury"
+    ],
+    "intent": "vegan lunch",
+    "personality": "balanced",
+    "time_of_day": "evening",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.779348,
+      "lon": 106.705866
+    },
+    "query": "vegan lunch in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_078",
+    "name": "Rodney",
+    "preferences": [
+      "romantic",
+      "co-working",
+      "breakfast",
+      "outdoor seating"
+    ],
+    "intent": "romantic dinner",
+    "personality": "balanced",
+    "time_of_day": "night",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.775295,
+      "lon": 106.702669
+    },
+    "query": "romantic dinner in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_079",
+    "name": "Jennifer",
+    "preferences": [
+      "casual",
+      "tea",
+      "co-working",
+      "dessert"
+    ],
+    "intent": "vegan lunch",
+    "personality": "balanced",
+    "time_of_day": "night",
+    "mobility": "car",
+    "location": {
+      "lat": 10.784918,
+      "lon": 106.683218
+    },
+    "query": "vegan lunch in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_080",
+    "name": "Sarah",
+    "preferences": [
+      "coffee",
+      "co-working",
+      "outdoor seating",
+      "fast service"
+    ],
+    "intent": "romantic dinner",
+    "personality": "extrovert",
+    "time_of_day": "evening",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.770061,
+      "lon": 106.704975
+    },
+    "query": "romantic dinner in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_081",
+    "name": "Samuel",
+    "preferences": [
+      "air-conditioned",
+      "quiet",
+      "romantic",
+      "vegan"
+    ],
+    "intent": "brunch with friends",
+    "personality": "balanced",
+    "time_of_day": "afternoon",
+    "mobility": "car",
+    "location": {
+      "lat": 10.762434,
+      "lon": 106.698012
+    },
+    "query": "brunch with friends in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_082",
+    "name": "Tricia",
+    "preferences": [
+      "luxury",
+      "lunch",
+      "co-working",
+      "kid friendly"
+    ],
+    "intent": "meet with clients",
+    "personality": "balanced",
+    "time_of_day": "morning",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.765451,
+      "lon": 106.713084
+    },
+    "query": "meet with clients in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_083",
+    "name": "Steven",
+    "preferences": [
+      "coffee",
+      "pet friendly",
+      "open late",
+      "dessert"
+    ],
+    "intent": "explore hidden gems",
+    "personality": "introvert",
+    "time_of_day": "afternoon",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.789142,
+      "lon": 106.689151
+    },
+    "query": "explore hidden gems in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_084",
+    "name": "Amy",
+    "preferences": [
+      "bbq",
+      "dessert",
+      "vegan",
+      "breakfast"
+    ],
+    "intent": "romantic dinner",
+    "personality": "balanced",
+    "time_of_day": "night",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.774978,
+      "lon": 106.710697
+    },
+    "query": "romantic dinner in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_085",
+    "name": "Paul",
+    "preferences": [
+      "fast service",
+      "quiet",
+      "kid friendly",
+      "live music"
+    ],
+    "intent": "explore hidden gems",
+    "personality": "introvert",
+    "time_of_day": "afternoon",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.7627,
+      "lon": 106.701837
+    },
+    "query": "explore hidden gems in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_086",
+    "name": "Craig",
+    "preferences": [
+      "live music",
+      "coffee",
+      "noodle",
+      "lunch"
+    ],
+    "intent": "vegan lunch",
+    "personality": "extrovert",
+    "time_of_day": "evening",
+    "mobility": "car",
+    "location": {
+      "lat": 10.772488,
+      "lon": 106.690003
+    },
+    "query": "vegan lunch in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_087",
+    "name": "Austin",
+    "preferences": [
+      "air-conditioned",
+      "pet friendly",
+      "luxury",
+      "lunch"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "extrovert",
+    "time_of_day": "afternoon",
+    "mobility": "car",
+    "location": {
+      "lat": 10.787397,
+      "lon": 106.692217
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_088",
+    "name": "Richard",
+    "preferences": [
+      "outdoor seating",
+      "air-conditioned",
+      "romantic",
+      "quiet"
+    ],
+    "intent": "vegan lunch",
+    "personality": "introvert",
+    "time_of_day": "night",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.770679,
+      "lon": 106.693694
+    },
+    "query": "vegan lunch in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_089",
+    "name": "Robert",
+    "preferences": [
+      "outdoor seating",
+      "vegan",
+      "dinner",
+      "breakfast"
+    ],
+    "intent": "find a quiet place to study",
+    "personality": "balanced",
+    "time_of_day": "evening",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.778379,
+      "lon": 106.712961
+    },
+    "query": "find a quiet place to study in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_090",
+    "name": "Benjamin",
+    "preferences": [
+      "kid friendly",
+      "co-working",
+      "fast service",
+      "air-conditioned"
+    ],
+    "intent": "cafe for remote work",
+    "personality": "balanced",
+    "time_of_day": "evening",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.763834,
+      "lon": 106.710166
+    },
+    "query": "cafe for remote work in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_091",
+    "name": "John",
+    "preferences": [
+      "lunch",
+      "noodle",
+      "kid friendly",
+      "dinner"
+    ],
+    "intent": "romantic dinner",
+    "personality": "introvert",
+    "time_of_day": "morning",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.78766,
+      "lon": 106.717792
+    },
+    "query": "romantic dinner in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_092",
+    "name": "Larry",
+    "preferences": [
+      "live music",
+      "lunch",
+      "coffee",
+      "tea"
+    ],
+    "intent": "cafe for remote work",
+    "personality": "extrovert",
+    "time_of_day": "evening",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.79445,
+      "lon": 106.693122
+    },
+    "query": "cafe for remote work in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_093",
+    "name": "Joseph",
+    "preferences": [
+      "dessert",
+      "quiet",
+      "bbq",
+      "noodle"
+    ],
+    "intent": "explore hidden gems",
+    "personality": "extrovert",
+    "time_of_day": "afternoon",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.771301,
+      "lon": 106.713858
+    },
+    "query": "explore hidden gems in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_094",
+    "name": "Jorge",
+    "preferences": [
+      "open late",
+      "bbq",
+      "outdoor seating",
+      "luxury"
+    ],
+    "intent": "meet with clients",
+    "personality": "introvert",
+    "time_of_day": "morning",
+    "mobility": "car",
+    "location": {
+      "lat": 10.760589,
+      "lon": 106.691074
+    },
+    "query": "meet with clients in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_095",
+    "name": "Brandon",
+    "preferences": [
+      "dessert",
+      "bbq",
+      "romantic",
+      "quiet"
+    ],
+    "intent": "vegan lunch",
+    "personality": "balanced",
+    "time_of_day": "afternoon",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.785731,
+      "lon": 106.705825
+    },
+    "query": "vegan lunch in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_096",
+    "name": "Hannah",
+    "preferences": [
+      "noodle",
+      "tea",
+      "bbq",
+      "luxury"
+    ],
+    "intent": "find a quiet place to study",
+    "personality": "introvert",
+    "time_of_day": "morning",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.768952,
+      "lon": 106.707364
+    },
+    "query": "find a quiet place to study in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_097",
+    "name": "Lisa",
+    "preferences": [
+      "open late",
+      "dessert",
+      "pet friendly",
+      "co-working"
+    ],
+    "intent": "cafe for remote work",
+    "personality": "introvert",
+    "time_of_day": "morning",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.763315,
+      "lon": 106.699022
+    },
+    "query": "cafe for remote work in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_098",
+    "name": "Taylor",
+    "preferences": [
+      "kid friendly",
+      "lunch",
+      "vegan",
+      "air-conditioned"
+    ],
+    "intent": "find a quiet place to study",
+    "personality": "extrovert",
+    "time_of_day": "night",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.77949,
+      "lon": 106.6896
+    },
+    "query": "find a quiet place to study in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_099",
+    "name": "William",
+    "preferences": [
+      "lunch",
+      "breakfast",
+      "co-working",
+      "noodle"
+    ],
+    "intent": "strong coffee fast",
+    "personality": "extrovert",
+    "time_of_day": "night",
+    "mobility": "car",
+    "location": {
+      "lat": 10.772689,
+      "lon": 106.706848
+    },
+    "query": "strong coffee fast in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_100",
+    "name": "Todd",
+    "preferences": [
+      "live music",
+      "coffee",
+      "wifi",
+      "dinner"
+    ],
+    "intent": "romantic dinner",
+    "personality": "extrovert",
+    "time_of_day": "morning",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.766553,
+      "lon": 106.701431
+    },
+    "query": "romantic dinner in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_101",
+    "name": "Colin",
+    "preferences": [
+      "luxury",
+      "air-conditioned",
+      "open late",
+      "noodle"
+    ],
+    "intent": "strong coffee fast",
+    "personality": "introvert",
+    "time_of_day": "evening",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.772335,
+      "lon": 106.693971
+    },
+    "query": "strong coffee fast in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_102",
+    "name": "Kimberly",
+    "preferences": [
+      "dessert",
+      "pet friendly",
+      "breakfast",
+      "quiet"
+    ],
+    "intent": "late-night snack",
+    "personality": "extrovert",
+    "time_of_day": "evening",
+    "mobility": "car",
+    "location": {
+      "lat": 10.762378,
+      "lon": 106.699062
+    },
+    "query": "late-night snack in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_103",
+    "name": "Amanda",
+    "preferences": [
+      "casual",
+      "quiet",
+      "open late",
+      "luxury"
+    ],
+    "intent": "cafe for remote work",
+    "personality": "balanced",
+    "time_of_day": "evening",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.772995,
+      "lon": 106.706907
+    },
+    "query": "cafe for remote work in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_104",
+    "name": "Barbara",
+    "preferences": [
+      "breakfast",
+      "luxury",
+      "lunch",
+      "bbq"
+    ],
+    "intent": "vegan lunch",
+    "personality": "balanced",
+    "time_of_day": "night",
+    "mobility": "car",
+    "location": {
+      "lat": 10.779446,
+      "lon": 106.689628
+    },
+    "query": "vegan lunch in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_105",
+    "name": "Vincent",
+    "preferences": [
+      "quiet",
+      "open late",
+      "noodle",
+      "pet friendly"
+    ],
+    "intent": "romantic dinner",
+    "personality": "balanced",
+    "time_of_day": "morning",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.779425,
+      "lon": 106.711523
+    },
+    "query": "romantic dinner in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_106",
+    "name": "Michael",
+    "preferences": [
+      "bbq",
+      "tea",
+      "lunch",
+      "outdoor seating"
+    ],
+    "intent": "find a quiet place to study",
+    "personality": "extrovert",
+    "time_of_day": "night",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.770791,
+      "lon": 106.686863
+    },
+    "query": "find a quiet place to study in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_107",
+    "name": "Jose",
+    "preferences": [
+      "dessert",
+      "tea",
+      "casual",
+      "bbq"
+    ],
+    "intent": "explore hidden gems",
+    "personality": "introvert",
+    "time_of_day": "evening",
+    "mobility": "car",
+    "location": {
+      "lat": 10.792012,
+      "lon": 106.690997
+    },
+    "query": "explore hidden gems in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_108",
+    "name": "Kimberly",
+    "preferences": [
+      "tea",
+      "breakfast",
+      "co-working",
+      "open late"
+    ],
+    "intent": "vegan lunch",
+    "personality": "introvert",
+    "time_of_day": "night",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.78639,
+      "lon": 106.68602
+    },
+    "query": "vegan lunch in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_109",
+    "name": "Mary",
+    "preferences": [
+      "kid friendly",
+      "live music",
+      "breakfast",
+      "dessert"
+    ],
+    "intent": "meet with clients",
+    "personality": "extrovert",
+    "time_of_day": "afternoon",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.761907,
+      "lon": 106.710304
+    },
+    "query": "meet with clients in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_110",
+    "name": "Amanda",
+    "preferences": [
+      "romantic",
+      "quiet",
+      "live music",
+      "air-conditioned"
+    ],
+    "intent": "explore hidden gems",
+    "personality": "introvert",
+    "time_of_day": "evening",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.767853,
+      "lon": 106.700669
+    },
+    "query": "explore hidden gems in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_111",
+    "name": "Linda",
+    "preferences": [
+      "dessert",
+      "outdoor seating",
+      "quiet",
+      "romantic"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "extrovert",
+    "time_of_day": "night",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.785698,
+      "lon": 106.713806
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_112",
+    "name": "Ashley",
+    "preferences": [
+      "lunch",
+      "outdoor seating",
+      "coffee",
+      "romantic"
+    ],
+    "intent": "brunch with friends",
+    "personality": "introvert",
+    "time_of_day": "morning",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.761521,
+      "lon": 106.697517
+    },
+    "query": "brunch with friends in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_113",
+    "name": "Michael",
+    "preferences": [
+      "casual",
+      "fast service",
+      "bbq",
+      "tea"
+    ],
+    "intent": "strong coffee fast",
+    "personality": "introvert",
+    "time_of_day": "night",
+    "mobility": "car",
+    "location": {
+      "lat": 10.763387,
+      "lon": 106.708879
+    },
+    "query": "strong coffee fast in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_114",
+    "name": "Isaiah",
+    "preferences": [
+      "vegan",
+      "quiet",
+      "romantic",
+      "bbq"
+    ],
+    "intent": "late-night snack",
+    "personality": "extrovert",
+    "time_of_day": "night",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.784454,
+      "lon": 106.712577
+    },
+    "query": "late-night snack in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_115",
+    "name": "Stephen",
+    "preferences": [
+      "lunch",
+      "co-working",
+      "wifi",
+      "vegan"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "extrovert",
+    "time_of_day": "afternoon",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.779761,
+      "lon": 106.69597
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_116",
+    "name": "Justin",
+    "preferences": [
+      "quiet",
+      "breakfast",
+      "co-working",
+      "dessert"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "introvert",
+    "time_of_day": "night",
+    "mobility": "car",
+    "location": {
+      "lat": 10.77238,
+      "lon": 106.687521
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_117",
+    "name": "Travis",
+    "preferences": [
+      "tea",
+      "romantic",
+      "coffee",
+      "vegan"
+    ],
+    "intent": "strong coffee fast",
+    "personality": "balanced",
+    "time_of_day": "night",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.763284,
+      "lon": 106.715374
+    },
+    "query": "strong coffee fast in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_118",
+    "name": "Ashley",
+    "preferences": [
+      "romantic",
+      "tea",
+      "noodle",
+      "pet friendly"
+    ],
+    "intent": "strong coffee fast",
+    "personality": "introvert",
+    "time_of_day": "night",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.791848,
+      "lon": 106.691775
+    },
+    "query": "strong coffee fast in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_119",
+    "name": "Melanie",
+    "preferences": [
+      "coffee",
+      "casual",
+      "wifi",
+      "outdoor seating"
+    ],
+    "intent": "late-night snack",
+    "personality": "extrovert",
+    "time_of_day": "evening",
+    "mobility": "car",
+    "location": {
+      "lat": 10.794446,
+      "lon": 106.684042
+    },
+    "query": "late-night snack in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_120",
+    "name": "Amanda",
+    "preferences": [
+      "vegan",
+      "open late",
+      "live music",
+      "air-conditioned"
+    ],
+    "intent": "brunch with friends",
+    "personality": "balanced",
+    "time_of_day": "morning",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.786924,
+      "lon": 106.715842
+    },
+    "query": "brunch with friends in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_121",
+    "name": "Mary",
+    "preferences": [
+      "air-conditioned",
+      "luxury",
+      "lunch",
+      "casual"
+    ],
+    "intent": "explore hidden gems",
+    "personality": "balanced",
+    "time_of_day": "evening",
+    "mobility": "car",
+    "location": {
+      "lat": 10.793194,
+      "lon": 106.695608
+    },
+    "query": "explore hidden gems in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_122",
+    "name": "Chelsea",
+    "preferences": [
+      "air-conditioned",
+      "casual",
+      "wifi",
+      "noodle"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "introvert",
+    "time_of_day": "afternoon",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.765937,
+      "lon": 106.703498
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_123",
+    "name": "Sarah",
+    "preferences": [
+      "vegan",
+      "dessert",
+      "air-conditioned",
+      "tea"
+    ],
+    "intent": "late-night snack",
+    "personality": "balanced",
+    "time_of_day": "night",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.771511,
+      "lon": 106.709346
+    },
+    "query": "late-night snack in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_124",
+    "name": "David",
+    "preferences": [
+      "vegan",
+      "kid friendly",
+      "dessert",
+      "outdoor seating"
+    ],
+    "intent": "brunch with friends",
+    "personality": "balanced",
+    "time_of_day": "evening",
+    "mobility": "car",
+    "location": {
+      "lat": 10.793421,
+      "lon": 106.691682
+    },
+    "query": "brunch with friends in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_125",
+    "name": "Rachel",
+    "preferences": [
+      "outdoor seating",
+      "noodle",
+      "coffee",
+      "casual"
+    ],
+    "intent": "meet with clients",
+    "personality": "extrovert",
+    "time_of_day": "night",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.775454,
+      "lon": 106.710144
+    },
+    "query": "meet with clients in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_126",
+    "name": "Sara",
+    "preferences": [
+      "vegan",
+      "noodle",
+      "air-conditioned",
+      "fast service"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "extrovert",
+    "time_of_day": "night",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.788957,
+      "lon": 106.691808
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_127",
+    "name": "Rachel",
+    "preferences": [
+      "tea",
+      "romantic",
+      "outdoor seating",
+      "bbq"
+    ],
+    "intent": "vegan lunch",
+    "personality": "introvert",
+    "time_of_day": "morning",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.765118,
+      "lon": 106.68435
+    },
+    "query": "vegan lunch in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_128",
+    "name": "Kenneth",
+    "preferences": [
+      "luxury",
+      "lunch",
+      "wifi",
+      "dinner"
+    ],
+    "intent": "cafe for remote work",
+    "personality": "introvert",
+    "time_of_day": "evening",
+    "mobility": "car",
+    "location": {
+      "lat": 10.782423,
+      "lon": 106.694795
+    },
+    "query": "cafe for remote work in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_129",
+    "name": "Aaron",
+    "preferences": [
+      "tea",
+      "outdoor seating",
+      "bbq",
+      "romantic"
+    ],
+    "intent": "explore hidden gems",
+    "personality": "balanced",
+    "time_of_day": "night",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.776988,
+      "lon": 106.717434
+    },
+    "query": "explore hidden gems in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_130",
+    "name": "Stephen",
+    "preferences": [
+      "outdoor seating",
+      "fast service",
+      "romantic",
+      "wifi"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "extrovert",
+    "time_of_day": "afternoon",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.785397,
+      "lon": 106.702769
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_131",
+    "name": "Ronnie",
+    "preferences": [
+      "casual",
+      "dinner",
+      "lunch",
+      "co-working"
+    ],
+    "intent": "romantic dinner",
+    "personality": "balanced",
+    "time_of_day": "evening",
+    "mobility": "car",
+    "location": {
+      "lat": 10.766158,
+      "lon": 106.7084
+    },
+    "query": "romantic dinner in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_132",
+    "name": "Melissa",
+    "preferences": [
+      "luxury",
+      "fast service",
+      "quiet",
+      "casual"
+    ],
+    "intent": "late-night snack",
+    "personality": "extrovert",
+    "time_of_day": "evening",
+    "mobility": "car",
+    "location": {
+      "lat": 10.778839,
+      "lon": 106.706615
+    },
+    "query": "late-night snack in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_133",
+    "name": "Larry",
+    "preferences": [
+      "breakfast",
+      "vegan",
+      "lunch",
+      "dessert"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "introvert",
+    "time_of_day": "afternoon",
+    "mobility": "car",
+    "location": {
+      "lat": 10.761533,
+      "lon": 106.695496
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_134",
+    "name": "Stacy",
+    "preferences": [
+      "dessert",
+      "luxury",
+      "dinner",
+      "breakfast"
+    ],
+    "intent": "find a quiet place to study",
+    "personality": "introvert",
+    "time_of_day": "morning",
+    "mobility": "car",
+    "location": {
+      "lat": 10.769456,
+      "lon": 106.715095
+    },
+    "query": "find a quiet place to study in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_135",
+    "name": "Lori",
+    "preferences": [
+      "vegan",
+      "lunch",
+      "air-conditioned",
+      "live music"
+    ],
+    "intent": "late-night snack",
+    "personality": "introvert",
+    "time_of_day": "night",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.783108,
+      "lon": 106.716232
+    },
+    "query": "late-night snack in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_136",
+    "name": "Robert",
+    "preferences": [
+      "casual",
+      "breakfast",
+      "lunch",
+      "fast service"
+    ],
+    "intent": "meet with clients",
+    "personality": "extrovert",
+    "time_of_day": "morning",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.767304,
+      "lon": 106.700066
+    },
+    "query": "meet with clients in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_137",
+    "name": "Christine",
+    "preferences": [
+      "pet friendly",
+      "coffee",
+      "breakfast",
+      "dessert"
+    ],
+    "intent": "meet with clients",
+    "personality": "extrovert",
+    "time_of_day": "night",
+    "mobility": "car",
+    "location": {
+      "lat": 10.777093,
+      "lon": 106.694826
+    },
+    "query": "meet with clients in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_138",
+    "name": "Daniel",
+    "preferences": [
+      "luxury",
+      "dessert",
+      "quiet",
+      "romantic"
+    ],
+    "intent": "strong coffee fast",
+    "personality": "introvert",
+    "time_of_day": "afternoon",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.781477,
+      "lon": 106.704566
+    },
+    "query": "strong coffee fast in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_139",
+    "name": "Sean",
+    "preferences": [
+      "pet friendly",
+      "coffee",
+      "open late",
+      "romantic"
+    ],
+    "intent": "explore hidden gems",
+    "personality": "extrovert",
+    "time_of_day": "morning",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.766919,
+      "lon": 106.718733
+    },
+    "query": "explore hidden gems in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_140",
+    "name": "Michael",
+    "preferences": [
+      "pet friendly",
+      "romantic",
+      "wifi",
+      "fast service"
+    ],
+    "intent": "find a quiet place to study",
+    "personality": "introvert",
+    "time_of_day": "evening",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.777133,
+      "lon": 106.695328
+    },
+    "query": "find a quiet place to study in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_141",
+    "name": "Olivia",
+    "preferences": [
+      "casual",
+      "breakfast",
+      "co-working",
+      "vegan"
+    ],
+    "intent": "cafe for remote work",
+    "personality": "extrovert",
+    "time_of_day": "afternoon",
+    "mobility": "car",
+    "location": {
+      "lat": 10.758925,
+      "lon": 106.693474
+    },
+    "query": "cafe for remote work in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_142",
+    "name": "Timothy",
+    "preferences": [
+      "air-conditioned",
+      "tea",
+      "wifi",
+      "coffee"
+    ],
+    "intent": "cafe for remote work",
+    "personality": "introvert",
+    "time_of_day": "night",
+    "mobility": "car",
+    "location": {
+      "lat": 10.786194,
+      "lon": 106.692423
+    },
+    "query": "cafe for remote work in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_143",
+    "name": "Marissa",
+    "preferences": [
+      "dessert",
+      "bbq",
+      "co-working",
+      "vegan"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "balanced",
+    "time_of_day": "night",
+    "mobility": "car",
+    "location": {
+      "lat": 10.778968,
+      "lon": 106.711997
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_144",
+    "name": "Teresa",
+    "preferences": [
+      "vegan",
+      "tea",
+      "fast service",
+      "outdoor seating"
+    ],
+    "intent": "vegan lunch",
+    "personality": "balanced",
+    "time_of_day": "night",
+    "mobility": "car",
+    "location": {
+      "lat": 10.765338,
+      "lon": 106.717575
+    },
+    "query": "vegan lunch in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_145",
+    "name": "Dale",
+    "preferences": [
+      "live music",
+      "coffee",
+      "lunch",
+      "quiet"
+    ],
+    "intent": "meet with clients",
+    "personality": "balanced",
+    "time_of_day": "evening",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.772213,
+      "lon": 106.708495
+    },
+    "query": "meet with clients in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_146",
+    "name": "Laura",
+    "preferences": [
+      "dessert",
+      "pet friendly",
+      "vegan",
+      "casual"
+    ],
+    "intent": "find a quiet place to study",
+    "personality": "introvert",
+    "time_of_day": "morning",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.768523,
+      "lon": 106.696424
+    },
+    "query": "find a quiet place to study in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_147",
+    "name": "Jennifer",
+    "preferences": [
+      "tea",
+      "coffee",
+      "noodle",
+      "kid friendly"
+    ],
+    "intent": "cafe for remote work",
+    "personality": "introvert",
+    "time_of_day": "morning",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.773066,
+      "lon": 106.701318
+    },
+    "query": "cafe for remote work in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_148",
+    "name": "Craig",
+    "preferences": [
+      "kid friendly",
+      "romantic",
+      "dinner",
+      "vegan"
+    ],
+    "intent": "vegan lunch",
+    "personality": "introvert",
+    "time_of_day": "night",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.776078,
+      "lon": 106.68712
+    },
+    "query": "vegan lunch in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_149",
+    "name": "Belinda",
+    "preferences": [
+      "vegan",
+      "kid friendly",
+      "breakfast",
+      "air-conditioned"
+    ],
+    "intent": "find a quiet place to study",
+    "personality": "introvert",
+    "time_of_day": "afternoon",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.781693,
+      "lon": 106.683661
+    },
+    "query": "find a quiet place to study in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_150",
+    "name": "Stacey",
+    "preferences": [
+      "lunch",
+      "live music",
+      "tea",
+      "dinner"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "balanced",
+    "time_of_day": "morning",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.792925,
+      "lon": 106.697184
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_151",
+    "name": "Sarah",
+    "preferences": [
+      "live music",
+      "casual",
+      "breakfast",
+      "romantic"
+    ],
+    "intent": "find a quiet place to study",
+    "personality": "introvert",
+    "time_of_day": "afternoon",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.762964,
+      "lon": 106.718044
+    },
+    "query": "find a quiet place to study in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_152",
+    "name": "Vanessa",
+    "preferences": [
+      "air-conditioned",
+      "open late",
+      "wifi",
+      "bbq"
+    ],
+    "intent": "brunch with friends",
+    "personality": "balanced",
+    "time_of_day": "night",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.763432,
+      "lon": 106.706504
+    },
+    "query": "brunch with friends in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_153",
+    "name": "Hannah",
+    "preferences": [
+      "co-working",
+      "bbq",
+      "quiet",
+      "lunch"
+    ],
+    "intent": "late-night snack",
+    "personality": "balanced",
+    "time_of_day": "evening",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.781134,
+      "lon": 106.686678
+    },
+    "query": "late-night snack in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_154",
+    "name": "Michael",
+    "preferences": [
+      "tea",
+      "dessert",
+      "coffee",
+      "luxury"
+    ],
+    "intent": "meet with clients",
+    "personality": "balanced",
+    "time_of_day": "afternoon",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.764644,
+      "lon": 106.700957
+    },
+    "query": "meet with clients in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_155",
+    "name": "Deborah",
+    "preferences": [
+      "quiet",
+      "breakfast",
+      "casual",
+      "dessert"
+    ],
+    "intent": "meet with clients",
+    "personality": "introvert",
+    "time_of_day": "evening",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.763532,
+      "lon": 106.69314
+    },
+    "query": "meet with clients in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_156",
+    "name": "Alexis",
+    "preferences": [
+      "casual",
+      "wifi",
+      "noodle",
+      "pet friendly"
+    ],
+    "intent": "meet with clients",
+    "personality": "extrovert",
+    "time_of_day": "afternoon",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.760941,
+      "lon": 106.689842
+    },
+    "query": "meet with clients in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_157",
+    "name": "April",
+    "preferences": [
+      "lunch",
+      "quiet",
+      "casual",
+      "luxury"
+    ],
+    "intent": "find a quiet place to study",
+    "personality": "introvert",
+    "time_of_day": "morning",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.767145,
+      "lon": 106.686757
+    },
+    "query": "find a quiet place to study in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_158",
+    "name": "Kimberly",
+    "preferences": [
+      "tea",
+      "open late",
+      "casual",
+      "lunch"
+    ],
+    "intent": "find a quiet place to study",
+    "personality": "extrovert",
+    "time_of_day": "evening",
+    "mobility": "car",
+    "location": {
+      "lat": 10.789442,
+      "lon": 106.711132
+    },
+    "query": "find a quiet place to study in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_159",
+    "name": "Billy",
+    "preferences": [
+      "wifi",
+      "noodle",
+      "luxury",
+      "dinner"
+    ],
+    "intent": "vegan lunch",
+    "personality": "extrovert",
+    "time_of_day": "morning",
+    "mobility": "car",
+    "location": {
+      "lat": 10.774904,
+      "lon": 106.695968
+    },
+    "query": "vegan lunch in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_160",
+    "name": "Brandon",
+    "preferences": [
+      "noodle",
+      "pet friendly",
+      "coffee",
+      "dessert"
+    ],
+    "intent": "vegan lunch",
+    "personality": "introvert",
+    "time_of_day": "night",
+    "mobility": "car",
+    "location": {
+      "lat": 10.781452,
+      "lon": 106.714436
+    },
+    "query": "vegan lunch in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_161",
+    "name": "Megan",
+    "preferences": [
+      "pet friendly",
+      "kid friendly",
+      "outdoor seating",
+      "noodle"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "introvert",
+    "time_of_day": "morning",
+    "mobility": "car",
+    "location": {
+      "lat": 10.785695,
+      "lon": 106.687864
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_162",
+    "name": "Angela",
+    "preferences": [
+      "dinner",
+      "noodle",
+      "live music",
+      "coffee"
+    ],
+    "intent": "cafe for remote work",
+    "personality": "extrovert",
+    "time_of_day": "afternoon",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.790372,
+      "lon": 106.706406
+    },
+    "query": "cafe for remote work in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_163",
+    "name": "Daniel",
+    "preferences": [
+      "romantic",
+      "bbq",
+      "coffee",
+      "casual"
+    ],
+    "intent": "find a quiet place to study",
+    "personality": "balanced",
+    "time_of_day": "evening",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.779562,
+      "lon": 106.694977
+    },
+    "query": "find a quiet place to study in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_164",
+    "name": "Karen",
+    "preferences": [
+      "luxury",
+      "coffee",
+      "breakfast",
+      "kid friendly"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "introvert",
+    "time_of_day": "morning",
+    "mobility": "car",
+    "location": {
+      "lat": 10.761411,
+      "lon": 106.695635
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_165",
+    "name": "Jason",
+    "preferences": [
+      "co-working",
+      "casual",
+      "romantic",
+      "quiet"
+    ],
+    "intent": "vegan lunch",
+    "personality": "balanced",
+    "time_of_day": "evening",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.765995,
+      "lon": 106.700123
+    },
+    "query": "vegan lunch in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_166",
+    "name": "Cindy",
+    "preferences": [
+      "dinner",
+      "noodle",
+      "lunch",
+      "live music"
+    ],
+    "intent": "meet with clients",
+    "personality": "extrovert",
+    "time_of_day": "afternoon",
+    "mobility": "car",
+    "location": {
+      "lat": 10.790281,
+      "lon": 106.684154
+    },
+    "query": "meet with clients in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_167",
+    "name": "Ralph",
+    "preferences": [
+      "breakfast",
+      "pet friendly",
+      "luxury",
+      "open late"
+    ],
+    "intent": "explore hidden gems",
+    "personality": "balanced",
+    "time_of_day": "evening",
+    "mobility": "car",
+    "location": {
+      "lat": 10.759534,
+      "lon": 106.692762
+    },
+    "query": "explore hidden gems in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_168",
+    "name": "Vincent",
+    "preferences": [
+      "vegan",
+      "luxury",
+      "outdoor seating",
+      "dessert"
+    ],
+    "intent": "brunch with friends",
+    "personality": "introvert",
+    "time_of_day": "afternoon",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.775345,
+      "lon": 106.688359
+    },
+    "query": "brunch with friends in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_169",
+    "name": "Stephanie",
+    "preferences": [
+      "vegan",
+      "outdoor seating",
+      "pet friendly",
+      "open late"
+    ],
+    "intent": "vegan lunch",
+    "personality": "extrovert",
+    "time_of_day": "morning",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.786666,
+      "lon": 106.711269
+    },
+    "query": "vegan lunch in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_170",
+    "name": "Elizabeth",
+    "preferences": [
+      "coffee",
+      "breakfast",
+      "quiet",
+      "fast service"
+    ],
+    "intent": "romantic dinner",
+    "personality": "extrovert",
+    "time_of_day": "evening",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.78772,
+      "lon": 106.717726
+    },
+    "query": "romantic dinner in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_171",
+    "name": "Christopher",
+    "preferences": [
+      "noodle",
+      "pet friendly",
+      "coffee",
+      "quiet"
+    ],
+    "intent": "vegan lunch",
+    "personality": "extrovert",
+    "time_of_day": "night",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.779856,
+      "lon": 106.6923
+    },
+    "query": "vegan lunch in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_172",
+    "name": "Ashley",
+    "preferences": [
+      "wifi",
+      "bbq",
+      "casual",
+      "kid friendly"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "extrovert",
+    "time_of_day": "evening",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.780792,
+      "lon": 106.705721
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_173",
+    "name": "Amanda",
+    "preferences": [
+      "coffee",
+      "dinner",
+      "quiet",
+      "kid friendly"
+    ],
+    "intent": "find a quiet place to study",
+    "personality": "balanced",
+    "time_of_day": "afternoon",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.788926,
+      "lon": 106.707951
+    },
+    "query": "find a quiet place to study in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_174",
+    "name": "Lori",
+    "preferences": [
+      "fast service",
+      "kid friendly",
+      "co-working",
+      "air-conditioned"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "extrovert",
+    "time_of_day": "night",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.760752,
+      "lon": 106.705929
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_175",
+    "name": "Michelle",
+    "preferences": [
+      "casual",
+      "breakfast",
+      "wifi",
+      "outdoor seating"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "extrovert",
+    "time_of_day": "morning",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.76778,
+      "lon": 106.687654
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_176",
+    "name": "Adam",
+    "preferences": [
+      "breakfast",
+      "vegan",
+      "fast service",
+      "lunch"
+    ],
+    "intent": "late-night snack",
+    "personality": "extrovert",
+    "time_of_day": "morning",
+    "mobility": "car",
+    "location": {
+      "lat": 10.790358,
+      "lon": 106.7166
+    },
+    "query": "late-night snack in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_177",
+    "name": "Elizabeth",
+    "preferences": [
+      "pet friendly",
+      "air-conditioned",
+      "luxury",
+      "bbq"
+    ],
+    "intent": "brunch with friends",
+    "personality": "introvert",
+    "time_of_day": "night",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.7677,
+      "lon": 106.705645
+    },
+    "query": "brunch with friends in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_178",
+    "name": "Anthony",
+    "preferences": [
+      "luxury",
+      "co-working",
+      "dinner",
+      "quiet"
+    ],
+    "intent": "find a quiet place to study",
+    "personality": "extrovert",
+    "time_of_day": "afternoon",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.766748,
+      "lon": 106.683616
+    },
+    "query": "find a quiet place to study in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_179",
+    "name": "Stephen",
+    "preferences": [
+      "dinner",
+      "wifi",
+      "luxury",
+      "live music"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "balanced",
+    "time_of_day": "night",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.782122,
+      "lon": 106.71034
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_180",
+    "name": "Andrew",
+    "preferences": [
+      "air-conditioned",
+      "pet friendly",
+      "lunch",
+      "quiet"
+    ],
+    "intent": "cafe for remote work",
+    "personality": "balanced",
+    "time_of_day": "evening",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.761775,
+      "lon": 106.702195
+    },
+    "query": "cafe for remote work in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_181",
+    "name": "Mark",
+    "preferences": [
+      "co-working",
+      "pet friendly",
+      "luxury",
+      "bbq"
+    ],
+    "intent": "romantic dinner",
+    "personality": "introvert",
+    "time_of_day": "afternoon",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.7741,
+      "lon": 106.683641
+    },
+    "query": "romantic dinner in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_182",
+    "name": "Janet",
+    "preferences": [
+      "bbq",
+      "kid friendly",
+      "open late",
+      "tea"
+    ],
+    "intent": "cafe for remote work",
+    "personality": "introvert",
+    "time_of_day": "night",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.772059,
+      "lon": 106.712583
+    },
+    "query": "cafe for remote work in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_183",
+    "name": "Julie",
+    "preferences": [
+      "air-conditioned",
+      "coffee",
+      "kid friendly",
+      "romantic"
+    ],
+    "intent": "meet with clients",
+    "personality": "balanced",
+    "time_of_day": "afternoon",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.769645,
+      "lon": 106.687072
+    },
+    "query": "meet with clients in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_184",
+    "name": "Joseph",
+    "preferences": [
+      "fast service",
+      "pet friendly",
+      "co-working",
+      "quiet"
+    ],
+    "intent": "meet with clients",
+    "personality": "balanced",
+    "time_of_day": "night",
+    "mobility": "bike",
+    "location": {
+      "lat": 10.781284,
+      "lon": 106.695824
+    },
+    "query": "meet with clients in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_185",
+    "name": "Joshua",
+    "preferences": [
+      "open late",
+      "quiet",
+      "breakfast",
+      "tea"
+    ],
+    "intent": "brunch with friends",
+    "personality": "introvert",
+    "time_of_day": "evening",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.790694,
+      "lon": 106.701003
+    },
+    "query": "brunch with friends in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_186",
+    "name": "Nancy",
+    "preferences": [
+      "dinner",
+      "luxury",
+      "casual",
+      "outdoor seating"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "introvert",
+    "time_of_day": "afternoon",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.767596,
+      "lon": 106.70507
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_187",
+    "name": "Kelli",
+    "preferences": [
+      "quiet",
+      "wifi",
+      "luxury",
+      "dinner"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "introvert",
+    "time_of_day": "afternoon",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.778797,
+      "lon": 106.689024
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_188",
+    "name": "Robin",
+    "preferences": [
+      "romantic",
+      "dessert",
+      "coffee",
+      "vegan"
+    ],
+    "intent": "meet with clients",
+    "personality": "introvert",
+    "time_of_day": "evening",
+    "mobility": "car",
+    "location": {
+      "lat": 10.767538,
+      "lon": 106.701792
+    },
+    "query": "meet with clients in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_189",
+    "name": "Sarah",
+    "preferences": [
+      "bbq",
+      "vegan",
+      "quiet",
+      "romantic"
+    ],
+    "intent": "find a quiet place to study",
+    "personality": "balanced",
+    "time_of_day": "afternoon",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.785514,
+      "lon": 106.710225
+    },
+    "query": "find a quiet place to study in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_190",
+    "name": "Heather",
+    "preferences": [
+      "lunch",
+      "dessert",
+      "pet friendly",
+      "tea"
+    ],
+    "intent": "find a quiet place to study",
+    "personality": "introvert",
+    "time_of_day": "morning",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.78878,
+      "lon": 106.684129
+    },
+    "query": "find a quiet place to study in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_191",
+    "name": "David",
+    "preferences": [
+      "noodle",
+      "dessert",
+      "casual",
+      "pet friendly"
+    ],
+    "intent": "late-night snack",
+    "personality": "balanced",
+    "time_of_day": "morning",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.766731,
+      "lon": 106.714995
+    },
+    "query": "late-night snack in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_192",
+    "name": "Sheila",
+    "preferences": [
+      "luxury",
+      "fast service",
+      "tea",
+      "co-working"
+    ],
+    "intent": "late-night snack",
+    "personality": "extrovert",
+    "time_of_day": "night",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.76776,
+      "lon": 106.689021
+    },
+    "query": "late-night snack in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_193",
+    "name": "Samantha",
+    "preferences": [
+      "wifi",
+      "quiet",
+      "co-working",
+      "outdoor seating"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "balanced",
+    "time_of_day": "evening",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.760824,
+      "lon": 106.695426
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_194",
+    "name": "Valerie",
+    "preferences": [
+      "co-working",
+      "tea",
+      "luxury",
+      "lunch"
+    ],
+    "intent": "find a quiet place to study",
+    "personality": "balanced",
+    "time_of_day": "evening",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.781084,
+      "lon": 106.691027
+    },
+    "query": "find a quiet place to study in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_195",
+    "name": "Patty",
+    "preferences": [
+      "kid friendly",
+      "live music",
+      "coffee",
+      "bbq"
+    ],
+    "intent": "romantic dinner",
+    "personality": "introvert",
+    "time_of_day": "evening",
+    "mobility": "car",
+    "location": {
+      "lat": 10.794802,
+      "lon": 106.699522
+    },
+    "query": "romantic dinner in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_196",
+    "name": "Deanna",
+    "preferences": [
+      "wifi",
+      "noodle",
+      "tea",
+      "air-conditioned"
+    ],
+    "intent": "vegan lunch",
+    "personality": "introvert",
+    "time_of_day": "morning",
+    "mobility": "car",
+    "location": {
+      "lat": 10.773156,
+      "lon": 106.716212
+    },
+    "query": "vegan lunch in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_197",
+    "name": "Chase",
+    "preferences": [
+      "bbq",
+      "pet friendly",
+      "noodle",
+      "coffee"
+    ],
+    "intent": "vegan lunch",
+    "personality": "balanced",
+    "time_of_day": "morning",
+    "mobility": "walking",
+    "location": {
+      "lat": 10.761585,
+      "lon": 106.711275
+    },
+    "query": "vegan lunch in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_198",
+    "name": "Kyle",
+    "preferences": [
+      "kid friendly",
+      "luxury",
+      "outdoor seating",
+      "coffee"
+    ],
+    "intent": "Instagrammable cafes",
+    "personality": "extrovert",
+    "time_of_day": "night",
+    "mobility": "public transport",
+    "location": {
+      "lat": 10.790941,
+      "lon": 106.718533
+    },
+    "query": "Instagrammable cafes in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_199",
+    "name": "Benjamin",
+    "preferences": [
+      "romantic",
+      "dessert",
+      "outdoor seating",
+      "noodle"
+    ],
+    "intent": "find a quiet place to study",
+    "personality": "balanced",
+    "time_of_day": "night",
+    "mobility": "ride-hailing",
+    "location": {
+      "lat": 10.782334,
+      "lon": 106.685617
+    },
+    "query": "find a quiet place to study in District 1, Ho Chi Minh City"
+  },
+  {
+    "id": "user_200",
+    "name": "Sandra",
+    "preferences": [
+      "dinner",
+      "tea",
+      "luxury",
+      "wifi"
+    ],
+    "intent": "brunch with friends",
+    "personality": "extrovert",
+    "time_of_day": "afternoon",
+    "mobility": "car",
+    "location": {
+      "lat": 10.786813,
+      "lon": 106.686552
+    },
+    "query": "brunch with friends in District 1, Ho Chi Minh City"
+  }
+]

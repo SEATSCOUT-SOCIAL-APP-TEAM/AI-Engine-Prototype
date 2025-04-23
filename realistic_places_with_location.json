@@ -1,0 +1,8002 @@
+[
+  {
+    "id": "place_001",
+    "name": "Rodriguez-Perez Cafe",
+    "description": "Drug bank mean month include. Window our major soon expect him up avoid. A employee employee into black.",
+    "tags": [
+      "lunch",
+      "vegan",
+      "outdoor seating",
+      "breakfast",
+      "luxury"
+    ],
+    "ambience": [
+      "cozy",
+      "lively",
+      "quiet"
+    ],
+    "popularity": "high",
+    "rating": 3.4,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "09:00",
+      "18:00"
+    ],
+    "lat": 10.759146,
+    "lon": 106.689027,
+    "busy_hours": [
+      3,
+      21,
+      22
+    ],
+    "photos": [
+      "https://www.lorempixel.com/535/817",
+      "https://placeimg.com/728/825/any"
+    ],
+    "reviews": [
+      "Before state attention.",
+      "Wonder low any technology north whom.",
+      "Edge imagine analysis assume discuss develop customer."
+    ]
+  },
+  {
+    "id": "place_002",
+    "name": "Short-Duke Cafe",
+    "description": "Somebody college want serve grow section you set.\nOfficer with rest raise owner beyond sense economic.",
+    "tags": [
+      "lunch",
+      "fast service",
+      "kid friendly",
+      "luxury",
+      "romantic"
+    ],
+    "ambience": [
+      "dimly lit",
+      "greenery",
+      "bright"
+    ],
+    "popularity": "high",
+    "rating": 3.6,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "09:00",
+      "18:00"
+    ],
+    "lat": 10.769996,
+    "lon": 106.683771,
+    "busy_hours": [
+      2,
+      3,
+      13
+    ],
+    "photos": [
+      "https://www.lorempixel.com/394/24",
+      "https://dummyimage.com/968x546"
+    ],
+    "reviews": [
+      "See now treat car write peace.",
+      "Evidence power ready likely country.",
+      "Nation course month yeah."
+    ]
+  },
+  {
+    "id": "place_003",
+    "name": "Hill-Lee Cafe",
+    "description": "By study capital defense fire. Matter board type concern ask run. Prove pressure play certain need determine only.",
+    "tags": [
+      "pet friendly",
+      "tea",
+      "outdoor seating",
+      "quiet",
+      "casual"
+    ],
+    "ambience": [
+      "modern",
+      "lively",
+      "greenery"
+    ],
+    "popularity": "high",
+    "rating": 3.5,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "06:00",
+      "21:00"
+    ],
+    "lat": 10.762491,
+    "lon": 106.685918,
+    "busy_hours": [
+      15,
+      8,
+      12
+    ],
+    "photos": [
+      "https://www.lorempixel.com/719/931",
+      "https://placeimg.com/442/573/any"
+    ],
+    "reviews": [
+      "Serious consumer camera again.",
+      "Thank task choice letter science.",
+      "Foot many tend."
+    ]
+  },
+  {
+    "id": "place_004",
+    "name": "Smith-Anderson Cafe",
+    "description": "Particularly new field pay well. Size she magazine sister share.\nSong stand theory rest. Song value majority door indeed serve.",
+    "tags": [
+      "dessert",
+      "kid friendly",
+      "breakfast",
+      "noodle",
+      "casual"
+    ],
+    "ambience": [
+      "minimalist",
+      "vintage",
+      "lively"
+    ],
+    "popularity": "moderate",
+    "rating": 4.5,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "07:00",
+      "21:00"
+    ],
+    "lat": 10.763539,
+    "lon": 106.6863,
+    "busy_hours": [
+      9,
+      20,
+      3
+    ],
+    "photos": [
+      "https://dummyimage.com/912x552",
+      "https://www.lorempixel.com/271/75"
+    ],
+    "reviews": [
+      "Follow few physical.",
+      "Customer lose hit almost parent.",
+      "Real return cost wear."
+    ]
+  },
+  {
+    "id": "place_005",
+    "name": "Velazquez, Stewart and Baker Cafe",
+    "description": "Suddenly member somebody its big. Little music skin apply answer run. Edge particularly fish expect difference traditional.",
+    "tags": [
+      "breakfast",
+      "fast service",
+      "bbq",
+      "open late",
+      "casual"
+    ],
+    "ambience": [
+      "quiet",
+      "bright",
+      "modern"
+    ],
+    "popularity": "low",
+    "rating": 4.2,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "08:00",
+      "23:00"
+    ],
+    "lat": 10.76337,
+    "lon": 106.699322,
+    "busy_hours": [
+      6,
+      15,
+      17
+    ],
+    "photos": [
+      "https://placekitten.com/55/455",
+      "https://www.lorempixel.com/598/833"
+    ],
+    "reviews": [
+      "Go cause produce at try.",
+      "Data book miss what.",
+      "Theory bad risk past."
+    ]
+  },
+  {
+    "id": "place_006",
+    "name": "Padilla-Johnson Cafe",
+    "description": "Get black third agent particularly side prevent reflect. Person to them show me Mrs. Million really specific tonight argue about source.",
+    "tags": [
+      "co-working",
+      "lunch",
+      "romantic",
+      "kid friendly",
+      "bbq"
+    ],
+    "ambience": [
+      "greenery",
+      "dimly lit",
+      "quiet"
+    ],
+    "popularity": "moderate",
+    "rating": 5.0,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "07:00",
+      "20:00"
+    ],
+    "lat": 10.776471,
+    "lon": 106.685925,
+    "busy_hours": [
+      3,
+      13,
+      21
+    ],
+    "photos": [
+      "https://dummyimage.com/10x699",
+      "https://www.lorempixel.com/823/591"
+    ],
+    "reviews": [
+      "Lot group exactly operation.",
+      "Maintain effect anything education.",
+      "Catch voice scientist newspaper."
+    ]
+  },
+  {
+    "id": "place_007",
+    "name": "Lopez PLC Cafe",
+    "description": "Adult book yes believe. Sit decision fight stay. North value speech course should.",
+    "tags": [
+      "noodle",
+      "co-working",
+      "open late",
+      "live music",
+      "air-conditioned"
+    ],
+    "ambience": [
+      "bright",
+      "quiet",
+      "modern"
+    ],
+    "popularity": "high",
+    "rating": 3.5,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "07:00",
+      "18:00"
+    ],
+    "lat": 10.763298,
+    "lon": 106.70985,
+    "busy_hours": [
+      2,
+      10,
+      3
+    ],
+    "photos": [
+      "https://dummyimage.com/796x312",
+      "https://placekitten.com/267/487"
+    ],
+    "reviews": [
+      "Education community make.",
+      "Under kid only pass manage right show.",
+      "Task throw generation language small their."
+    ]
+  },
+  {
+    "id": "place_008",
+    "name": "Hart-Moore Cafe",
+    "description": "Sell describe set career child seek reflect. Usually tend large whom box ground kitchen choice.",
+    "tags": [
+      "noodle",
+      "dinner",
+      "breakfast",
+      "quiet",
+      "dessert"
+    ],
+    "ambience": [
+      "bright",
+      "greenery",
+      "modern"
+    ],
+    "popularity": "moderate",
+    "rating": 4.7,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "09:00",
+      "22:00"
+    ],
+    "lat": 10.780953,
+    "lon": 106.707546,
+    "busy_hours": [
+      1,
+      9,
+      17
+    ],
+    "photos": [
+      "https://dummyimage.com/338x755",
+      "https://dummyimage.com/544x813"
+    ],
+    "reviews": [
+      "Open result three glass career economy.",
+      "Oil ahead guy picture.",
+      "Poor when section smile."
+    ]
+  },
+  {
+    "id": "place_009",
+    "name": "Garcia, Carroll and Munoz Cafe",
+    "description": "Key issue word. He rule whole yourself before pay.\nArea traditional doctor fight. Time thank compare. Way interview mention spend central.",
+    "tags": [
+      "vegan",
+      "noodle",
+      "outdoor seating",
+      "luxury",
+      "coffee"
+    ],
+    "ambience": [
+      "bright",
+      "dimly lit",
+      "vibrant"
+    ],
+    "popularity": "high",
+    "rating": 3.4,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "09:00",
+      "22:00"
+    ],
+    "lat": 10.793196,
+    "lon": 106.688536,
+    "busy_hours": [
+      1,
+      4,
+      12
+    ],
+    "photos": [
+      "https://dummyimage.com/262x663",
+      "https://placeimg.com/538/156/any"
+    ],
+    "reviews": [
+      "Up whose late treat well.",
+      "Success someone maybe keep maintain long animal.",
+      "Man mind perform fight physical."
+    ]
+  },
+  {
+    "id": "place_010",
+    "name": "Allen-Carney Cafe",
+    "description": "Record week speech color. Matter yeah oil maintain.",
+    "tags": [
+      "coffee",
+      "kid friendly",
+      "dinner",
+      "pet friendly",
+      "outdoor seating"
+    ],
+    "ambience": [
+      "greenery",
+      "vintage",
+      "bright"
+    ],
+    "popularity": "high",
+    "rating": 3.5,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "06:00",
+      "21:00"
+    ],
+    "lat": 10.763027,
+    "lon": 106.718695,
+    "busy_hours": [
+      19,
+      4,
+      18
+    ],
+    "photos": [
+      "https://placekitten.com/786/104",
+      "https://placeimg.com/534/842/any"
+    ],
+    "reviews": [
+      "Own need such soldier direction.",
+      "Society while over theory hold.",
+      "Case also manager behavior detail truth arm."
+    ]
+  },
+  {
+    "id": "place_011",
+    "name": "Burns, Henderson and Reyes Cafe",
+    "description": "Child focus phone others something from few. Certain item town such bill page between. Actually development bed opportunity let.",
+    "tags": [
+      "dessert",
+      "vegan",
+      "co-working",
+      "wifi",
+      "bbq"
+    ],
+    "ambience": [
+      "modern",
+      "dimly lit",
+      "bright"
+    ],
+    "popularity": "low",
+    "rating": 3.8,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "06:00",
+      "18:00"
+    ],
+    "lat": 10.79004,
+    "lon": 106.714188,
+    "busy_hours": [
+      5,
+      16,
+      7
+    ],
+    "photos": [
+      "https://www.lorempixel.com/427/525",
+      "https://placekitten.com/210/686"
+    ],
+    "reviews": [
+      "Everything specific order treatment join even.",
+      "Scientist manage about thank seven none.",
+      "Forward war town view at ask investment begin."
+    ]
+  },
+  {
+    "id": "place_012",
+    "name": "Parker LLC Cafe",
+    "description": "Skill drug rather station write candidate. Especially whatever item yeah when kitchen according.",
+    "tags": [
+      "dinner",
+      "luxury",
+      "kid friendly",
+      "co-working",
+      "wifi"
+    ],
+    "ambience": [
+      "bright",
+      "quiet",
+      "lively"
+    ],
+    "popularity": "high",
+    "rating": 3.8,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "08:00",
+      "20:00"
+    ],
+    "lat": 10.773036,
+    "lon": 106.695485,
+    "busy_hours": [
+      9,
+      15,
+      18
+    ],
+    "photos": [
+      "https://placeimg.com/209/934/any",
+      "https://www.lorempixel.com/238/126"
+    ],
+    "reviews": [
+      "Seven least beautiful throughout.",
+      "Director whole travel value TV maintain way middle.",
+      "Commercial cost commercial kitchen teacher table bag."
+    ]
+  },
+  {
+    "id": "place_013",
+    "name": "Taylor-Brown Cafe",
+    "description": "Final pick note stay former wall a. Fight prevent arrive why build Mr end.\nFollow he political.",
+    "tags": [
+      "coffee",
+      "breakfast",
+      "luxury",
+      "live music",
+      "open late"
+    ],
+    "ambience": [
+      "greenery",
+      "bright",
+      "minimalist"
+    ],
+    "popularity": "moderate",
+    "rating": 3.7,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "09:00",
+      "19:00"
+    ],
+    "lat": 10.762437,
+    "lon": 106.713988,
+    "busy_hours": [
+      18,
+      10,
+      20
+    ],
+    "photos": [
+      "https://placeimg.com/870/827/any",
+      "https://www.lorempixel.com/538/27"
+    ],
+    "reviews": [
+      "Expect keep occur nice simple shoulder both.",
+      "Option three onto follow beyond each.",
+      "Maybe guy month attention brother large."
+    ]
+  },
+  {
+    "id": "place_014",
+    "name": "Moss-Mitchell Cafe",
+    "description": "Idea candidate vote. Poor almost any follow current. Claim factor person market.\nLikely analysis still new. Fight work party fly month.",
+    "tags": [
+      "luxury",
+      "breakfast",
+      "open late",
+      "co-working",
+      "outdoor seating"
+    ],
+    "ambience": [
+      "cozy",
+      "quiet",
+      "bright"
+    ],
+    "popularity": "moderate",
+    "rating": 3.3,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "06:00",
+      "23:00"
+    ],
+    "lat": 10.77389,
+    "lon": 106.697225,
+    "busy_hours": [
+      20,
+      13,
+      1
+    ],
+    "photos": [
+      "https://dummyimage.com/972x193",
+      "https://www.lorempixel.com/140/925"
+    ],
+    "reviews": [
+      "Democrat young agree several recent.",
+      "All world happy culture off factor worry.",
+      "Personal agency a wide among answer system."
+    ]
+  },
+  {
+    "id": "place_015",
+    "name": "Lucas-Nichols Cafe",
+    "description": "They individual chair hot those. Doctor stuff student institution amount forward visit.",
+    "tags": [
+      "kid friendly",
+      "luxury",
+      "bbq",
+      "air-conditioned",
+      "lunch"
+    ],
+    "ambience": [
+      "vibrant",
+      "lively",
+      "vintage"
+    ],
+    "popularity": "high",
+    "rating": 3.9,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "08:00",
+      "22:00"
+    ],
+    "lat": 10.768523,
+    "lon": 106.71414,
+    "busy_hours": [
+      6,
+      21,
+      1
+    ],
+    "photos": [
+      "https://placeimg.com/978/28/any",
+      "https://placeimg.com/802/81/any"
+    ],
+    "reviews": [
+      "Buy have important dog up human.",
+      "Face movie music turn.",
+      "Shoulder team mean."
+    ]
+  },
+  {
+    "id": "place_016",
+    "name": "Peters and Sons Cafe",
+    "description": "Prepare rate then suffer hard couple. Black water style bank many effect somebody cover. Other marriage couple camera common affect.",
+    "tags": [
+      "noodle",
+      "dessert",
+      "quiet",
+      "vegan",
+      "dinner"
+    ],
+    "ambience": [
+      "vibrant",
+      "modern",
+      "cozy"
+    ],
+    "popularity": "moderate",
+    "rating": 3.8,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "06:00",
+      "20:00"
+    ],
+    "lat": 10.768446,
+    "lon": 106.688426,
+    "busy_hours": [
+      5,
+      17,
+      6
+    ],
+    "photos": [
+      "https://placeimg.com/121/345/any",
+      "https://www.lorempixel.com/727/371"
+    ],
+    "reviews": [
+      "Member half mind table stand might support.",
+      "Family away full culture customer wear nothing decade.",
+      "Ground turn forget area east example."
+    ]
+  },
+  {
+    "id": "place_017",
+    "name": "Rogers LLC Cafe",
+    "description": "Loss picture you admit again. Bit majority group huge citizen.",
+    "tags": [
+      "dinner",
+      "noodle",
+      "outdoor seating",
+      "tea",
+      "open late"
+    ],
+    "ambience": [
+      "dimly lit",
+      "minimalist",
+      "quiet"
+    ],
+    "popularity": "low",
+    "rating": 3.8,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "09:00",
+      "19:00"
+    ],
+    "lat": 10.759782,
+    "lon": 106.713883,
+    "busy_hours": [
+      2,
+      9,
+      23
+    ],
+    "photos": [
+      "https://dummyimage.com/923x1018",
+      "https://placekitten.com/760/917"
+    ],
+    "reviews": [
+      "Never feel let quality speak.",
+      "Plant operation system feel involve better nearly.",
+      "Late eye impact keep consider property."
+    ]
+  },
+  {
+    "id": "place_018",
+    "name": "Butler, Baird and Eaton Cafe",
+    "description": "Western try affect cover born another. Network special TV first.",
+    "tags": [
+      "breakfast",
+      "lunch",
+      "tea",
+      "live music",
+      "coffee"
+    ],
+    "ambience": [
+      "modern",
+      "lively",
+      "cozy"
+    ],
+    "popularity": "low",
+    "rating": 4.9,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "07:00",
+      "21:00"
+    ],
+    "lat": 10.781857,
+    "lon": 106.697892,
+    "busy_hours": [
+      21,
+      15,
+      12
+    ],
+    "photos": [
+      "https://placekitten.com/413/581",
+      "https://placekitten.com/247/693"
+    ],
+    "reviews": [
+      "Should leg player business away.",
+      "Sit yes draw carry here treat treat performance.",
+      "White poor education interesting loss interview."
+    ]
+  },
+  {
+    "id": "place_019",
+    "name": "Johnson-Sawyer Cafe",
+    "description": "Understand onto court. Course type those away bit good nothing. Miss rich surface thought operation will bank.",
+    "tags": [
+      "tea",
+      "wifi",
+      "air-conditioned",
+      "coffee",
+      "quiet"
+    ],
+    "ambience": [
+      "vintage",
+      "quiet",
+      "minimalist"
+    ],
+    "popularity": "low",
+    "rating": 3.7,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "06:00",
+      "21:00"
+    ],
+    "lat": 10.769266,
+    "lon": 106.689307,
+    "busy_hours": [
+      10,
+      18,
+      4
+    ],
+    "photos": [
+      "https://dummyimage.com/613x550",
+      "https://dummyimage.com/365x588"
+    ],
+    "reviews": [
+      "Prepare ten small.",
+      "Door require inside adult sound.",
+      "Data future back effect garden attention."
+    ]
+  },
+  {
+    "id": "place_020",
+    "name": "Gonzales PLC Cafe",
+    "description": "Occur different artist long billion see property. Piece employee point firm throughout.",
+    "tags": [
+      "breakfast",
+      "vegan",
+      "open late",
+      "coffee",
+      "kid friendly"
+    ],
+    "ambience": [
+      "modern",
+      "cozy",
+      "bright"
+    ],
+    "popularity": "high",
+    "rating": 3.4,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "06:00",
+      "23:00"
+    ],
+    "lat": 10.767876,
+    "lon": 106.700022,
+    "busy_hours": [
+      18,
+      0,
+      2
+    ],
+    "photos": [
+      "https://placekitten.com/386/811",
+      "https://placeimg.com/104/915/any"
+    ],
+    "reviews": [
+      "That ask person certain series whom.",
+      "Attention behind southern join attorney ok player role.",
+      "Job catch himself continue free or."
+    ]
+  },
+  {
+    "id": "place_021",
+    "name": "Casey PLC Cafe",
+    "description": "Right role list condition somebody fight begin site. Policy product factor who cost increase. Thank certainly arm on.",
+    "tags": [
+      "tea",
+      "vegan",
+      "outdoor seating",
+      "pet friendly",
+      "dinner"
+    ],
+    "ambience": [
+      "lively",
+      "bright",
+      "vintage"
+    ],
+    "popularity": "moderate",
+    "rating": 4.6,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "09:00",
+      "20:00"
+    ],
+    "lat": 10.768849,
+    "lon": 106.696789,
+    "busy_hours": [
+      20,
+      12,
+      23
+    ],
+    "photos": [
+      "https://placeimg.com/291/416/any",
+      "https://www.lorempixel.com/238/528"
+    ],
+    "reviews": [
+      "Sit attorney two apply a.",
+      "Goal lead poor rise seven close.",
+      "Return give economy back."
+    ]
+  },
+  {
+    "id": "place_022",
+    "name": "Dyer, Garner and Alvarado Cafe",
+    "description": "Town discuss us five class story up. Itself stock challenge market current actually crime deep. Sell expert about vote.",
+    "tags": [
+      "tea",
+      "quiet",
+      "dessert",
+      "coffee",
+      "wifi"
+    ],
+    "ambience": [
+      "greenery",
+      "quiet",
+      "bright"
+    ],
+    "popularity": "high",
+    "rating": 4.9,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "06:00",
+      "23:00"
+    ],
+    "lat": 10.771252,
+    "lon": 106.700051,
+    "busy_hours": [
+      7,
+      6,
+      14
+    ],
+    "photos": [
+      "https://dummyimage.com/815x396",
+      "https://placeimg.com/661/698/any"
+    ],
+    "reviews": [
+      "Parent approach hear left particular central.",
+      "Wonder bad general.",
+      "Bed never red worker goal."
+    ]
+  },
+  {
+    "id": "place_023",
+    "name": "Shannon Inc Cafe",
+    "description": "Reason than second pull production class. Door expert whose yourself part exactly.\nBrother hour position woman them. Set catch official.",
+    "tags": [
+      "romantic",
+      "kid friendly",
+      "breakfast",
+      "live music",
+      "open late"
+    ],
+    "ambience": [
+      "vintage",
+      "lively",
+      "vibrant"
+    ],
+    "popularity": "low",
+    "rating": 3.6,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "07:00",
+      "20:00"
+    ],
+    "lat": 10.781074,
+    "lon": 106.716165,
+    "busy_hours": [
+      19,
+      18,
+      16
+    ],
+    "photos": [
+      "https://placeimg.com/584/642/any",
+      "https://placekitten.com/863/618"
+    ],
+    "reviews": [
+      "Tax growth either six evidence buy.",
+      "Behavior fine tell day public west.",
+      "Guess between worry goal board threat."
+    ]
+  },
+  {
+    "id": "place_024",
+    "name": "Cruz, Perkins and Scott Cafe",
+    "description": "Benefit without small one organization growth positive. Agreement down edge choice. Value gun treat serious American forward.\nTry well know half.",
+    "tags": [
+      "tea",
+      "fast service",
+      "dessert",
+      "open late",
+      "luxury"
+    ],
+    "ambience": [
+      "dimly lit",
+      "modern",
+      "cozy"
+    ],
+    "popularity": "high",
+    "rating": 4.2,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "10:00",
+      "22:00"
+    ],
+    "lat": 10.765397,
+    "lon": 106.685624,
+    "busy_hours": [
+      8,
+      10,
+      4
+    ],
+    "photos": [
+      "https://placeimg.com/432/539/any",
+      "https://placekitten.com/867/957"
+    ],
+    "reviews": [
+      "Resource son may.",
+      "In smile miss piece first plan.",
+      "Campaign life two recognize unit."
+    ]
+  },
+  {
+    "id": "place_025",
+    "name": "Miller-Simmons Cafe",
+    "description": "Four various structure. By you no across. Among cost special action the program office.\nResource order along seem prove memory fast.",
+    "tags": [
+      "noodle",
+      "romantic",
+      "wifi",
+      "dessert",
+      "dinner"
+    ],
+    "ambience": [
+      "cozy",
+      "vintage",
+      "vibrant"
+    ],
+    "popularity": "moderate",
+    "rating": 3.7,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "08:00",
+      "21:00"
+    ],
+    "lat": 10.778707,
+    "lon": 106.710013,
+    "busy_hours": [
+      10,
+      19,
+      2
+    ],
+    "photos": [
+      "https://dummyimage.com/188x876",
+      "https://placekitten.com/404/632"
+    ],
+    "reviews": [
+      "Play another early interesting again.",
+      "Mr clearly family account clear bank today our.",
+      "Citizen box financial really hit how open."
+    ]
+  },
+  {
+    "id": "place_026",
+    "name": "Hayes-Garrett Cafe",
+    "description": "Peace consider end.\nYoung hit simply task between. Cell resource administration drive guy want bad course.",
+    "tags": [
+      "dessert",
+      "fast service",
+      "air-conditioned",
+      "quiet",
+      "luxury"
+    ],
+    "ambience": [
+      "vintage",
+      "modern",
+      "greenery"
+    ],
+    "popularity": "moderate",
+    "rating": 3.6,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "09:00",
+      "20:00"
+    ],
+    "lat": 10.792823,
+    "lon": 106.684302,
+    "busy_hours": [
+      21,
+      14,
+      5
+    ],
+    "photos": [
+      "https://placekitten.com/166/175",
+      "https://placeimg.com/242/742/any"
+    ],
+    "reviews": [
+      "State feel hand themselves.",
+      "Crime maybe close camera risk day.",
+      "World drive party scene."
+    ]
+  },
+  {
+    "id": "place_027",
+    "name": "Snyder Inc Cafe",
+    "description": "Face store art under later woman. Last beyond hot could place. Part future TV pretty.",
+    "tags": [
+      "vegan",
+      "fast service",
+      "dessert",
+      "coffee",
+      "dinner"
+    ],
+    "ambience": [
+      "modern",
+      "dimly lit",
+      "lively"
+    ],
+    "popularity": "moderate",
+    "rating": 3.7,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "09:00",
+      "18:00"
+    ],
+    "lat": 10.780454,
+    "lon": 106.687754,
+    "busy_hours": [
+      9,
+      11,
+      1
+    ],
+    "photos": [
+      "https://placekitten.com/185/350",
+      "https://placeimg.com/358/248/any"
+    ],
+    "reviews": [
+      "Since stay professional memory president.",
+      "Suffer hear follow once itself wish early.",
+      "Less ok project participant between Mrs."
+    ]
+  },
+  {
+    "id": "place_028",
+    "name": "Martin and Sons Cafe",
+    "description": "Letter many old recognize perform perhaps difference part. Every PM yourself water present. Floor already speech law soon industry.",
+    "tags": [
+      "wifi",
+      "luxury",
+      "breakfast",
+      "kid friendly",
+      "dinner"
+    ],
+    "ambience": [
+      "minimalist",
+      "lively",
+      "bright"
+    ],
+    "popularity": "high",
+    "rating": 3.4,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "10:00",
+      "19:00"
+    ],
+    "lat": 10.786736,
+    "lon": 106.703626,
+    "busy_hours": [
+      23,
+      22,
+      4
+    ],
+    "photos": [
+      "https://dummyimage.com/83x189",
+      "https://www.lorempixel.com/566/86"
+    ],
+    "reviews": [
+      "Everybody between win join.",
+      "City generation look boy movement decade address.",
+      "Tv food stock Republican continue relationship grow."
+    ]
+  },
+  {
+    "id": "place_029",
+    "name": "Davis-White Cafe",
+    "description": "After send two ability into. Deal data instead bit south. Energy collection sell return.",
+    "tags": [
+      "outdoor seating",
+      "coffee",
+      "dessert",
+      "air-conditioned",
+      "breakfast"
+    ],
+    "ambience": [
+      "vintage",
+      "greenery",
+      "vibrant"
+    ],
+    "popularity": "low",
+    "rating": 4.7,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "09:00",
+      "22:00"
+    ],
+    "lat": 10.784202,
+    "lon": 106.688329,
+    "busy_hours": [
+      8,
+      10,
+      5
+    ],
+    "photos": [
+      "https://www.lorempixel.com/542/802",
+      "https://www.lorempixel.com/69/97"
+    ],
+    "reviews": [
+      "Listen true war share field national economic left.",
+      "Top score opportunity mind teach.",
+      "Sometimes hundred hand natural."
+    ]
+  },
+  {
+    "id": "place_030",
+    "name": "George-Salas Cafe",
+    "description": "Total growth find meeting wall involve own. Ability might itself different represent third new. Interview sing lawyer deal quite.",
+    "tags": [
+      "luxury",
+      "noodle",
+      "quiet",
+      "tea",
+      "co-working"
+    ],
+    "ambience": [
+      "minimalist",
+      "lively",
+      "greenery"
+    ],
+    "popularity": "moderate",
+    "rating": 3.3,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "09:00",
+      "20:00"
+    ],
+    "lat": 10.782214,
+    "lon": 106.684157,
+    "busy_hours": [
+      17,
+      6,
+      21
+    ],
+    "photos": [
+      "https://placekitten.com/147/468",
+      "https://placekitten.com/611/756"
+    ],
+    "reviews": [
+      "Two cause much ok research box certainly.",
+      "Strong option myself we heart letter claim former.",
+      "Example tonight father involve."
+    ]
+  },
+  {
+    "id": "place_031",
+    "name": "Lopez, Yu and Rodriguez Cafe",
+    "description": "Matter size see few.\nAt stop bad chair risk happy.\nBut situation bank should tree. This fact message range seek leg.",
+    "tags": [
+      "dinner",
+      "breakfast",
+      "air-conditioned",
+      "outdoor seating",
+      "casual"
+    ],
+    "ambience": [
+      "vibrant",
+      "quiet",
+      "vintage"
+    ],
+    "popularity": "moderate",
+    "rating": 3.1,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "07:00",
+      "18:00"
+    ],
+    "lat": 10.781825,
+    "lon": 106.686334,
+    "busy_hours": [
+      15,
+      9,
+      21
+    ],
+    "photos": [
+      "https://www.lorempixel.com/682/905",
+      "https://placekitten.com/650/787"
+    ],
+    "reviews": [
+      "Would realize there learn save crime situation.",
+      "Number teacher tonight wide region data room.",
+      "Size population against first accept tell even."
+    ]
+  },
+  {
+    "id": "place_032",
+    "name": "Watson, Lester and Bentley Cafe",
+    "description": "Wear order wear common skill husband. Wall play popular bill.\nFall experience billion someone recognize program. Subject first down admit.",
+    "tags": [
+      "kid friendly",
+      "coffee",
+      "lunch",
+      "romantic",
+      "air-conditioned"
+    ],
+    "ambience": [
+      "greenery",
+      "minimalist",
+      "quiet"
+    ],
+    "popularity": "moderate",
+    "rating": 3.9,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "08:00",
+      "21:00"
+    ],
+    "lat": 10.767032,
+    "lon": 106.702689,
+    "busy_hours": [
+      12,
+      1,
+      22
+    ],
+    "photos": [
+      "https://dummyimage.com/219x517",
+      "https://placekitten.com/792/315"
+    ],
+    "reviews": [
+      "Wall participant rest rich not.",
+      "Enter worker place.",
+      "By town most future eye."
+    ]
+  },
+  {
+    "id": "place_033",
+    "name": "Barnes, Smith and Curry Cafe",
+    "description": "Off sea amount man.",
+    "tags": [
+      "noodle",
+      "romantic",
+      "kid friendly",
+      "outdoor seating",
+      "pet friendly"
+    ],
+    "ambience": [
+      "lively",
+      "dimly lit",
+      "modern"
+    ],
+    "popularity": "high",
+    "rating": 4.9,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "08:00",
+      "19:00"
+    ],
+    "lat": 10.769991,
+    "lon": 106.696378,
+    "busy_hours": [
+      16,
+      21,
+      4
+    ],
+    "photos": [
+      "https://www.lorempixel.com/518/744",
+      "https://placekitten.com/239/469"
+    ],
+    "reviews": [
+      "Election want painting.",
+      "Nor small cup tonight too reach.",
+      "Whatever learn resource door edge rise ability."
+    ]
+  },
+  {
+    "id": "place_034",
+    "name": "Dougherty, Ortega and Mckinney Cafe",
+    "description": "That that get news. Beyond senior fall doctor item.\nMedical visit edge financial civil trade recent. Health surface same.",
+    "tags": [
+      "outdoor seating",
+      "coffee",
+      "pet friendly",
+      "quiet",
+      "breakfast"
+    ],
+    "ambience": [
+      "bright",
+      "vintage",
+      "greenery"
+    ],
+    "popularity": "high",
+    "rating": 4.6,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "06:00",
+      "20:00"
+    ],
+    "lat": 10.792202,
+    "lon": 106.69618,
+    "busy_hours": [
+      11,
+      7,
+      16
+    ],
+    "photos": [
+      "https://placekitten.com/995/557",
+      "https://www.lorempixel.com/131/419"
+    ],
+    "reviews": [
+      "Prepare simple action professional far very.",
+      "Baby whom radio official candidate wear instead.",
+      "From able describe although also identify."
+    ]
+  },
+  {
+    "id": "place_035",
+    "name": "Castro-Ferrell Cafe",
+    "description": "Idea always world exist space. Tax huge safe operation budget much.",
+    "tags": [
+      "lunch",
+      "dessert",
+      "wifi",
+      "romantic",
+      "air-conditioned"
+    ],
+    "ambience": [
+      "vibrant",
+      "bright",
+      "vintage"
+    ],
+    "popularity": "low",
+    "rating": 3.2,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "06:00",
+      "22:00"
+    ],
+    "lat": 10.794026,
+    "lon": 106.691482,
+    "busy_hours": [
+      1,
+      11,
+      9
+    ],
+    "photos": [
+      "https://placeimg.com/326/976/any",
+      "https://www.lorempixel.com/801/206"
+    ],
+    "reviews": [
+      "Spring force long peace hour with serious wear.",
+      "Create base whom huge article become.",
+      "Long in week population."
+    ]
+  },
+  {
+    "id": "place_036",
+    "name": "Walker, Cooley and Washington Cafe",
+    "description": "Scene somebody ready hit teach world. War establish crime goal.",
+    "tags": [
+      "dinner",
+      "luxury",
+      "coffee",
+      "pet friendly",
+      "dessert"
+    ],
+    "ambience": [
+      "bright",
+      "greenery",
+      "quiet"
+    ],
+    "popularity": "moderate",
+    "rating": 3.4,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "06:00",
+      "18:00"
+    ],
+    "lat": 10.782952,
+    "lon": 106.695284,
+    "busy_hours": [
+      0,
+      15,
+      21
+    ],
+    "photos": [
+      "https://placeimg.com/580/547/any",
+      "https://dummyimage.com/379x313"
+    ],
+    "reviews": [
+      "Summer cause part find own almost life.",
+      "Foreign time case good while decide.",
+      "Call nothing ball yeah article."
+    ]
+  },
+  {
+    "id": "place_037",
+    "name": "Riggs, Wright and Hunt Cafe",
+    "description": "Know member eight citizen indicate. So natural win social pick must.\nGas reason break whole.\nPut wide watch foreign time TV involve. She sense tell.",
+    "tags": [
+      "vegan",
+      "bbq",
+      "live music",
+      "breakfast",
+      "fast service"
+    ],
+    "ambience": [
+      "vintage",
+      "greenery",
+      "lively"
+    ],
+    "popularity": "high",
+    "rating": 4.7,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "09:00",
+      "20:00"
+    ],
+    "lat": 10.763458,
+    "lon": 106.692605,
+    "busy_hours": [
+      15,
+      13,
+      22
+    ],
+    "photos": [
+      "https://placeimg.com/50/600/any",
+      "https://dummyimage.com/624x605"
+    ],
+    "reviews": [
+      "Million job knowledge trip possible collection.",
+      "Of sell senior you still nor election.",
+      "Beat current street ten."
+    ]
+  },
+  {
+    "id": "place_038",
+    "name": "Allen, Smith and Smith Cafe",
+    "description": "Prevent machine treatment drop. Arrive oil small.\nTravel pass computer magazine. Support task create series her these.",
+    "tags": [
+      "breakfast",
+      "outdoor seating",
+      "dessert",
+      "luxury",
+      "kid friendly"
+    ],
+    "ambience": [
+      "minimalist",
+      "vintage",
+      "vibrant"
+    ],
+    "popularity": "high",
+    "rating": 4.2,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "10:00",
+      "20:00"
+    ],
+    "lat": 10.762458,
+    "lon": 106.718302,
+    "busy_hours": [
+      10,
+      0,
+      6
+    ],
+    "photos": [
+      "https://dummyimage.com/204x520",
+      "https://dummyimage.com/213x256"
+    ],
+    "reviews": [
+      "Seem number if former put month sea now.",
+      "Character southern trip.",
+      "Two item everybody voice."
+    ]
+  },
+  {
+    "id": "place_039",
+    "name": "Roberts-Krause Cafe",
+    "description": "Physical ask sing police. Loss guy herself program eight. General turn truth class industry walk.",
+    "tags": [
+      "dinner",
+      "coffee",
+      "air-conditioned",
+      "noodle",
+      "kid friendly"
+    ],
+    "ambience": [
+      "lively",
+      "cozy",
+      "bright"
+    ],
+    "popularity": "low",
+    "rating": 4.5,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "07:00",
+      "22:00"
+    ],
+    "lat": 10.774005,
+    "lon": 106.695352,
+    "busy_hours": [
+      7,
+      11,
+      10
+    ],
+    "photos": [
+      "https://www.lorempixel.com/959/253",
+      "https://www.lorempixel.com/968/184"
+    ],
+    "reviews": [
+      "Available herself machine nice area something.",
+      "Possible ask although range.",
+      "Even term everything."
+    ]
+  },
+  {
+    "id": "place_040",
+    "name": "White Ltd Cafe",
+    "description": "Theory nothing soon anything law Congress. Business energy answer expert camera couple next none.",
+    "tags": [
+      "bbq",
+      "casual",
+      "noodle",
+      "co-working",
+      "air-conditioned"
+    ],
+    "ambience": [
+      "bright",
+      "vibrant",
+      "lively"
+    ],
+    "popularity": "high",
+    "rating": 3.3,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "10:00",
+      "18:00"
+    ],
+    "lat": 10.775517,
+    "lon": 106.710939,
+    "busy_hours": [
+      22,
+      5,
+      16
+    ],
+    "photos": [
+      "https://dummyimage.com/877x283",
+      "https://dummyimage.com/244x599"
+    ],
+    "reviews": [
+      "Might the foreign save picture law.",
+      "Cause occur life.",
+      "Always design floor such democratic paper today book."
+    ]
+  },
+  {
+    "id": "place_041",
+    "name": "Campbell, Oneal and Smith Cafe",
+    "description": "Trial forget treatment first mind entire. Car at I book head black.\nMain task allow card project soon. Management realize yard education.",
+    "tags": [
+      "fast service",
+      "breakfast",
+      "lunch",
+      "vegan",
+      "romantic"
+    ],
+    "ambience": [
+      "greenery",
+      "bright",
+      "dimly lit"
+    ],
+    "popularity": "moderate",
+    "rating": 4.3,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "06:00",
+      "22:00"
+    ],
+    "lat": 10.79096,
+    "lon": 106.684437,
+    "busy_hours": [
+      0,
+      10,
+      15
+    ],
+    "photos": [
+      "https://www.lorempixel.com/963/759",
+      "https://placeimg.com/724/44/any"
+    ],
+    "reviews": [
+      "Different same idea front.",
+      "Even involve whatever treatment.",
+      "Effect ever still word."
+    ]
+  },
+  {
+    "id": "place_042",
+    "name": "Snyder-Davis Cafe",
+    "description": "Child wear arm notice. Already history myself couple training or record.",
+    "tags": [
+      "breakfast",
+      "dinner",
+      "noodle",
+      "quiet",
+      "tea"
+    ],
+    "ambience": [
+      "greenery",
+      "dimly lit",
+      "bright"
+    ],
+    "popularity": "moderate",
+    "rating": 3.6,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "08:00",
+      "18:00"
+    ],
+    "lat": 10.788135,
+    "lon": 106.705048,
+    "busy_hours": [
+      7,
+      18,
+      12
+    ],
+    "photos": [
+      "https://placeimg.com/896/713/any",
+      "https://dummyimage.com/554x450"
+    ],
+    "reviews": [
+      "Too identify body.",
+      "Executive consider music live hospital join their.",
+      "Road position nor specific despite window."
+    ]
+  },
+  {
+    "id": "place_043",
+    "name": "Adams-Smith Cafe",
+    "description": "Message now whose subject town almost. Body child small near possible mission.",
+    "tags": [
+      "vegan",
+      "noodle",
+      "lunch",
+      "fast service",
+      "live music"
+    ],
+    "ambience": [
+      "quiet",
+      "vintage",
+      "modern"
+    ],
+    "popularity": "moderate",
+    "rating": 3.0,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "06:00",
+      "19:00"
+    ],
+    "lat": 10.769228,
+    "lon": 106.687277,
+    "busy_hours": [
+      12,
+      7,
+      23
+    ],
+    "photos": [
+      "https://placeimg.com/65/574/any",
+      "https://www.lorempixel.com/91/392"
+    ],
+    "reviews": [
+      "Make check second enjoy admit whatever.",
+      "Weight always theory discover run prepare.",
+      "Share whole by force field."
+    ]
+  },
+  {
+    "id": "place_044",
+    "name": "Ramsey-Gibson Cafe",
+    "description": "Yourself maintain way author business structure voice. Right only receive poor age student recently cup.\nSociety attention behavior.",
+    "tags": [
+      "breakfast",
+      "vegan",
+      "casual",
+      "kid friendly",
+      "romantic"
+    ],
+    "ambience": [
+      "vibrant",
+      "quiet",
+      "modern"
+    ],
+    "popularity": "moderate",
+    "rating": 4.4,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "06:00",
+      "22:00"
+    ],
+    "lat": 10.789514,
+    "lon": 106.711046,
+    "busy_hours": [
+      8,
+      17,
+      12
+    ],
+    "photos": [
+      "https://placeimg.com/1024/591/any",
+      "https://placekitten.com/204/309"
+    ],
+    "reviews": [
+      "Property lead PM her really lawyer.",
+      "Doctor stock whole.",
+      "Deep lay method development give charge."
+    ]
+  },
+  {
+    "id": "place_045",
+    "name": "Boyer-Montes Cafe",
+    "description": "See become there enough. Truth stuff anyone explain he. Ago anyone available together mother.\nKey really result source. Activity order answer late.",
+    "tags": [
+      "outdoor seating",
+      "coffee",
+      "air-conditioned",
+      "lunch",
+      "breakfast"
+    ],
+    "ambience": [
+      "bright",
+      "quiet",
+      "modern"
+    ],
+    "popularity": "high",
+    "rating": 4.0,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "07:00",
+      "22:00"
+    ],
+    "lat": 10.791335,
+    "lon": 106.710579,
+    "busy_hours": [
+      12,
+      19,
+      20
+    ],
+    "photos": [
+      "https://placekitten.com/518/81",
+      "https://www.lorempixel.com/975/95"
+    ],
+    "reviews": [
+      "Eight eat floor senior age federal.",
+      "Half position city enter catch company.",
+      "Interesting history discussion chair pressure lay."
+    ]
+  },
+  {
+    "id": "place_046",
+    "name": "Hammond-Ayers Cafe",
+    "description": "At certain after including side customer station. Involve threat fear and. Treat can debate improve cover.",
+    "tags": [
+      "dessert",
+      "outdoor seating",
+      "vegan",
+      "dinner",
+      "wifi"
+    ],
+    "ambience": [
+      "vibrant",
+      "greenery",
+      "modern"
+    ],
+    "popularity": "low",
+    "rating": 3.2,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "08:00",
+      "21:00"
+    ],
+    "lat": 10.782809,
+    "lon": 106.701149,
+    "busy_hours": [
+      1,
+      0,
+      6
+    ],
+    "photos": [
+      "https://dummyimage.com/474x702",
+      "https://placeimg.com/363/386/any"
+    ],
+    "reviews": [
+      "Manager state see everything adult again.",
+      "Sure as party thing growth.",
+      "Hard social type evening property process."
+    ]
+  },
+  {
+    "id": "place_047",
+    "name": "Hicks Ltd Cafe",
+    "description": "Partner them though military sea alone. Major your affect agreement book machine. Day allow skin sort production center amount.",
+    "tags": [
+      "wifi",
+      "fast service",
+      "outdoor seating",
+      "quiet",
+      "luxury"
+    ],
+    "ambience": [
+      "quiet",
+      "minimalist",
+      "modern"
+    ],
+    "popularity": "low",
+    "rating": 3.5,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "08:00",
+      "18:00"
+    ],
+    "lat": 10.764365,
+    "lon": 106.695041,
+    "busy_hours": [
+      12,
+      10,
+      0
+    ],
+    "photos": [
+      "https://www.lorempixel.com/951/541",
+      "https://www.lorempixel.com/979/808"
+    ],
+    "reviews": [
+      "Information whose rather forward first help.",
+      "Among thank medical away.",
+      "Once test these view safe fact."
+    ]
+  },
+  {
+    "id": "place_048",
+    "name": "Lopez, Wolfe and Kelly Cafe",
+    "description": "Carry make history check job. Rule trade ok rather strong. Election somebody where thing be.",
+    "tags": [
+      "casual",
+      "vegan",
+      "noodle",
+      "dinner",
+      "coffee"
+    ],
+    "ambience": [
+      "greenery",
+      "dimly lit",
+      "vibrant"
+    ],
+    "popularity": "low",
+    "rating": 4.8,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "09:00",
+      "19:00"
+    ],
+    "lat": 10.768269,
+    "lon": 106.70234,
+    "busy_hours": [
+      21,
+      2,
+      17
+    ],
+    "photos": [
+      "https://placekitten.com/954/689",
+      "https://dummyimage.com/129x140"
+    ],
+    "reviews": [
+      "Agency let organization commercial sense have.",
+      "Lay model music federal room.",
+      "Religious head past."
+    ]
+  },
+  {
+    "id": "place_049",
+    "name": "Cruz-Abbott Cafe",
+    "description": "Least indeed production forward school resource. East chair ground support area. Push common successful under area.",
+    "tags": [
+      "kid friendly",
+      "casual",
+      "open late",
+      "dessert",
+      "fast service"
+    ],
+    "ambience": [
+      "cozy",
+      "vintage",
+      "dimly lit"
+    ],
+    "popularity": "high",
+    "rating": 4.4,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "10:00",
+      "21:00"
+    ],
+    "lat": 10.764057,
+    "lon": 106.686784,
+    "busy_hours": [
+      5,
+      1,
+      20
+    ],
+    "photos": [
+      "https://placekitten.com/548/454",
+      "https://placeimg.com/1016/700/any"
+    ],
+    "reviews": [
+      "Certain six establish name son pick.",
+      "Method institution ahead option if loss.",
+      "Lead modern watch beyond thus participant out whatever."
+    ]
+  },
+  {
+    "id": "place_050",
+    "name": "Snyder-Wall Cafe",
+    "description": "Natural sister follow another worker. Most of TV. Road create rise benefit wonder lead thus. Defense different career.",
+    "tags": [
+      "open late",
+      "wifi",
+      "romantic",
+      "bbq",
+      "live music"
+    ],
+    "ambience": [
+      "modern",
+      "cozy",
+      "greenery"
+    ],
+    "popularity": "high",
+    "rating": 3.6,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "09:00",
+      "19:00"
+    ],
+    "lat": 10.76703,
+    "lon": 106.686181,
+    "busy_hours": [
+      5,
+      23,
+      6
+    ],
+    "photos": [
+      "https://www.lorempixel.com/72/177",
+      "https://dummyimage.com/539x280"
+    ],
+    "reviews": [
+      "Behavior prepare kind fly audience establish.",
+      "Course effort just challenge structure.",
+      "Word factor model glass."
+    ]
+  },
+  {
+    "id": "place_051",
+    "name": "Martinez Group Cafe",
+    "description": "General help trouble court dinner degree recent appear. Office everyone clear top forward move. About concern stage.",
+    "tags": [
+      "breakfast",
+      "vegan",
+      "dessert",
+      "open late",
+      "dinner"
+    ],
+    "ambience": [
+      "vintage",
+      "lively",
+      "dimly lit"
+    ],
+    "popularity": "high",
+    "rating": 3.7,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "08:00",
+      "22:00"
+    ],
+    "lat": 10.786682,
+    "lon": 106.715729,
+    "busy_hours": [
+      10,
+      21,
+      20
+    ],
+    "photos": [
+      "https://placeimg.com/199/728/any",
+      "https://dummyimage.com/103x610"
+    ],
+    "reviews": [
+      "Pull free safe book PM argue must.",
+      "Indeed address more according.",
+      "Add number scientist seat."
+    ]
+  },
+  {
+    "id": "place_052",
+    "name": "Gutierrez-Williams Cafe",
+    "description": "Dinner heart pretty Republican card enter economy. Whose security let majority color method.",
+    "tags": [
+      "dinner",
+      "lunch",
+      "casual",
+      "luxury",
+      "kid friendly"
+    ],
+    "ambience": [
+      "bright",
+      "vintage",
+      "lively"
+    ],
+    "popularity": "high",
+    "rating": 5.0,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "08:00",
+      "18:00"
+    ],
+    "lat": 10.772516,
+    "lon": 106.710303,
+    "busy_hours": [
+      20,
+      23,
+      4
+    ],
+    "photos": [
+      "https://placekitten.com/916/841",
+      "https://dummyimage.com/614x737"
+    ],
+    "reviews": [
+      "Prove task protect.",
+      "Record around executive.",
+      "Could he already according enjoy give forward."
+    ]
+  },
+  {
+    "id": "place_053",
+    "name": "Fletcher, Hernandez and Lewis Cafe",
+    "description": "Medical movie behind customer. Plan must serious whose effect song. Direction both threat.",
+    "tags": [
+      "pet friendly",
+      "coffee",
+      "co-working",
+      "bbq",
+      "vegan"
+    ],
+    "ambience": [
+      "quiet",
+      "dimly lit",
+      "minimalist"
+    ],
+    "popularity": "moderate",
+    "rating": 3.3,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "09:00",
+      "20:00"
+    ],
+    "lat": 10.783247,
+    "lon": 106.687724,
+    "busy_hours": [
+      12,
+      15,
+      10
+    ],
+    "photos": [
+      "https://placekitten.com/772/864",
+      "https://placekitten.com/153/846"
+    ],
+    "reviews": [
+      "Ago particularly lawyer finish lawyer employee must chance.",
+      "Source American worker where.",
+      "Others sit front daughter begin rate number."
+    ]
+  },
+  {
+    "id": "place_054",
+    "name": "Garcia-Durham Cafe",
+    "description": "Player age fund political today. Account city staff go argue issue perhaps.",
+    "tags": [
+      "lunch",
+      "co-working",
+      "dinner",
+      "outdoor seating",
+      "bbq"
+    ],
+    "ambience": [
+      "vibrant",
+      "greenery",
+      "bright"
+    ],
+    "popularity": "moderate",
+    "rating": 4.1,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "10:00",
+      "23:00"
+    ],
+    "lat": 10.767831,
+    "lon": 106.711701,
+    "busy_hours": [
+      18,
+      6,
+      20
+    ],
+    "photos": [
+      "https://dummyimage.com/520x473",
+      "https://www.lorempixel.com/918/421"
+    ],
+    "reviews": [
+      "What police young.",
+      "Area new response nor fish.",
+      "Forward lawyer together personal son place talk."
+    ]
+  },
+  {
+    "id": "place_055",
+    "name": "Sanchez, Diaz and Mendoza Cafe",
+    "description": "Along vote agree seven week address. Soon culture laugh ball marriage huge or Congress. Inside size possible race enough entire ground.",
+    "tags": [
+      "noodle",
+      "wifi",
+      "pet friendly",
+      "romantic",
+      "kid friendly"
+    ],
+    "ambience": [
+      "bright",
+      "vintage",
+      "dimly lit"
+    ],
+    "popularity": "moderate",
+    "rating": 3.0,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "09:00",
+      "20:00"
+    ],
+    "lat": 10.791478,
+    "lon": 106.687494,
+    "busy_hours": [
+      23,
+      20,
+      15
+    ],
+    "photos": [
+      "https://dummyimage.com/411x994",
+      "https://placekitten.com/197/926"
+    ],
+    "reviews": [
+      "Why speech international Mrs career man table.",
+      "Hour charge blood year city matter.",
+      "Fill another avoid forward challenge."
+    ]
+  },
+  {
+    "id": "place_056",
+    "name": "Lopez, Garcia and Mckinney Cafe",
+    "description": "Truth capital responsibility foot. One thing hot town throw reflect glass. Blue recently road small rock cause decade.",
+    "tags": [
+      "dessert",
+      "dinner",
+      "luxury",
+      "quiet",
+      "noodle"
+    ],
+    "ambience": [
+      "vintage",
+      "bright",
+      "lively"
+    ],
+    "popularity": "high",
+    "rating": 4.3,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "08:00",
+      "20:00"
+    ],
+    "lat": 10.793445,
+    "lon": 106.713846,
+    "busy_hours": [
+      3,
+      23,
+      18
+    ],
+    "photos": [
+      "https://dummyimage.com/458x96",
+      "https://www.lorempixel.com/17/807"
+    ],
+    "reviews": [
+      "Upon bring operation morning actually.",
+      "Care artist black common court.",
+      "Option entire environment I lay."
+    ]
+  },
+  {
+    "id": "place_057",
+    "name": "Cook Group Cafe",
+    "description": "Test cold prevent address drop short. Congress these white fall.",
+    "tags": [
+      "romantic",
+      "live music",
+      "open late",
+      "dinner",
+      "lunch"
+    ],
+    "ambience": [
+      "lively",
+      "cozy",
+      "dimly lit"
+    ],
+    "popularity": "high",
+    "rating": 4.7,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "06:00",
+      "21:00"
+    ],
+    "lat": 10.786357,
+    "lon": 106.683321,
+    "busy_hours": [
+      1,
+      7,
+      18
+    ],
+    "photos": [
+      "https://placeimg.com/286/551/any",
+      "https://www.lorempixel.com/723/1006"
+    ],
+    "reviews": [
+      "Above forward knowledge food one at.",
+      "List let control site visit third.",
+      "Understand seek discussion believe."
+    ]
+  },
+  {
+    "id": "place_058",
+    "name": "Norris-Hutchinson Cafe",
+    "description": "Face history wrong information. Position when enjoy. Southern artist card law simply sport inside. Bed answer enjoy wrong including family war.",
+    "tags": [
+      "pet friendly",
+      "dinner",
+      "quiet",
+      "co-working",
+      "romantic"
+    ],
+    "ambience": [
+      "dimly lit",
+      "cozy",
+      "modern"
+    ],
+    "popularity": "high",
+    "rating": 3.1,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "06:00",
+      "22:00"
+    ],
+    "lat": 10.768685,
+    "lon": 106.717029,
+    "busy_hours": [
+      17,
+      0,
+      8
+    ],
+    "photos": [
+      "https://dummyimage.com/798x898",
+      "https://placekitten.com/543/356"
+    ],
+    "reviews": [
+      "Pm key design believe artist manage.",
+      "Establish majority challenge prevent society clear social campaign.",
+      "General everybody career time again learn little statement."
+    ]
+  },
+  {
+    "id": "place_059",
+    "name": "Cruz LLC Cafe",
+    "description": "Evidence full rate eye plan type resource. Believe analysis dinner career.\nStay bar different he. Enjoy end add behind image.",
+    "tags": [
+      "quiet",
+      "casual",
+      "tea",
+      "dinner",
+      "lunch"
+    ],
+    "ambience": [
+      "modern",
+      "lively",
+      "vintage"
+    ],
+    "popularity": "low",
+    "rating": 3.8,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "09:00",
+      "22:00"
+    ],
+    "lat": 10.779763,
+    "lon": 106.683167,
+    "busy_hours": [
+      19,
+      0,
+      18
+    ],
+    "photos": [
+      "https://placekitten.com/897/423",
+      "https://dummyimage.com/533x844"
+    ],
+    "reviews": [
+      "Room not strong us.",
+      "Financial offer traditional front sell moment skill case.",
+      "Skin travel score."
+    ]
+  },
+  {
+    "id": "place_060",
+    "name": "Martin, Alvarez and Jones Cafe",
+    "description": "On explain certainly. Anything cost direction herself modern subject option.",
+    "tags": [
+      "wifi",
+      "air-conditioned",
+      "breakfast",
+      "dinner",
+      "quiet"
+    ],
+    "ambience": [
+      "quiet",
+      "vibrant",
+      "greenery"
+    ],
+    "popularity": "high",
+    "rating": 4.3,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "07:00",
+      "22:00"
+    ],
+    "lat": 10.79351,
+    "lon": 106.694008,
+    "busy_hours": [
+      16,
+      11,
+      13
+    ],
+    "photos": [
+      "https://placeimg.com/938/54/any",
+      "https://dummyimage.com/580x952"
+    ],
+    "reviews": [
+      "Mind chair place.",
+      "Never art act special understand strong dream.",
+      "Increase realize treatment."
+    ]
+  },
+  {
+    "id": "place_061",
+    "name": "Hill-Smith Cafe",
+    "description": "Protect up that. Specific such service make. Response one seem task concern.",
+    "tags": [
+      "casual",
+      "open late",
+      "romantic",
+      "vegan",
+      "quiet"
+    ],
+    "ambience": [
+      "dimly lit",
+      "vintage",
+      "bright"
+    ],
+    "popularity": "high",
+    "rating": 4.5,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "07:00",
+      "19:00"
+    ],
+    "lat": 10.782238,
+    "lon": 106.705373,
+    "busy_hours": [
+      0,
+      17,
+      9
+    ],
+    "photos": [
+      "https://placeimg.com/762/428/any",
+      "https://placekitten.com/471/6"
+    ],
+    "reviews": [
+      "Learn seven sign wife door.",
+      "Part action data pretty purpose actually knowledge figure.",
+      "Book car meeting think on."
+    ]
+  },
+  {
+    "id": "place_062",
+    "name": "Diaz, Simpson and Watts Cafe",
+    "description": "Old perform face case of. Draw everybody lot arm. Near way simply remain very traditional. See couple quite.",
+    "tags": [
+      "live music",
+      "fast service",
+      "breakfast",
+      "tea",
+      "dinner"
+    ],
+    "ambience": [
+      "greenery",
+      "quiet",
+      "modern"
+    ],
+    "popularity": "high",
+    "rating": 4.9,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "10:00",
+      "22:00"
+    ],
+    "lat": 10.759418,
+    "lon": 106.690263,
+    "busy_hours": [
+      22,
+      11,
+      2
+    ],
+    "photos": [
+      "https://dummyimage.com/21x344",
+      "https://placeimg.com/558/813/any"
+    ],
+    "reviews": [
+      "Court step then art life goal.",
+      "Hotel little career analysis why think various.",
+      "Force fact word break happen sure maintain."
+    ]
+  },
+  {
+    "id": "place_063",
+    "name": "Hart Inc Cafe",
+    "description": "Security bed family page perform. Performance case majority voice share these scientist. Brother second theory because so evening give.",
+    "tags": [
+      "coffee",
+      "kid friendly",
+      "luxury",
+      "wifi",
+      "lunch"
+    ],
+    "ambience": [
+      "dimly lit",
+      "lively",
+      "minimalist"
+    ],
+    "popularity": "low",
+    "rating": 3.9,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "07:00",
+      "20:00"
+    ],
+    "lat": 10.774311,
+    "lon": 106.688371,
+    "busy_hours": [
+      11,
+      12,
+      4
+    ],
+    "photos": [
+      "https://placeimg.com/669/440/any",
+      "https://placeimg.com/84/420/any"
+    ],
+    "reviews": [
+      "Need civil church arrive author before exactly.",
+      "Product health yeah out bring kind consumer.",
+      "Trip end usually base."
+    ]
+  },
+  {
+    "id": "place_064",
+    "name": "Fletcher-Kirk Cafe",
+    "description": "Pretty simply father manager safe through. Explain expect agree impact mean ahead.",
+    "tags": [
+      "pet friendly",
+      "noodle",
+      "dessert",
+      "fast service",
+      "quiet"
+    ],
+    "ambience": [
+      "quiet",
+      "bright",
+      "cozy"
+    ],
+    "popularity": "moderate",
+    "rating": 3.0,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "08:00",
+      "19:00"
+    ],
+    "lat": 10.774161,
+    "lon": 106.705751,
+    "busy_hours": [
+      2,
+      7,
+      18
+    ],
+    "photos": [
+      "https://dummyimage.com/814x405",
+      "https://placeimg.com/992/407/any"
+    ],
+    "reviews": [
+      "Hit carry nothing not strategy thing.",
+      "Consumer another me star.",
+      "Positive article cause never hospital color woman."
+    ]
+  },
+  {
+    "id": "place_065",
+    "name": "Garcia Ltd Cafe",
+    "description": "Together popular TV long.\nCompany act region herself.\nPersonal mention leg easy just government. Culture ok off similar according sign option.",
+    "tags": [
+      "tea",
+      "fast service",
+      "kid friendly",
+      "wifi",
+      "breakfast"
+    ],
+    "ambience": [
+      "modern",
+      "minimalist",
+      "cozy"
+    ],
+    "popularity": "high",
+    "rating": 4.8,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "10:00",
+      "23:00"
+    ],
+    "lat": 10.780423,
+    "lon": 106.717028,
+    "busy_hours": [
+      5,
+      16,
+      20
+    ],
+    "photos": [
+      "https://www.lorempixel.com/915/561",
+      "https://placeimg.com/261/488/any"
+    ],
+    "reviews": [
+      "Add easy begin go near sport sometimes.",
+      "Per the against financial stop with.",
+      "Can firm several talk."
+    ]
+  },
+  {
+    "id": "place_066",
+    "name": "Page Group Cafe",
+    "description": "Together across discuss. She political task court what during.\nCheck or sign nice fund own. Relationship floor nor how nation one phone citizen.",
+    "tags": [
+      "quiet",
+      "wifi",
+      "romantic",
+      "casual",
+      "noodle"
+    ],
+    "ambience": [
+      "greenery",
+      "lively",
+      "minimalist"
+    ],
+    "popularity": "moderate",
+    "rating": 3.5,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "06:00",
+      "23:00"
+    ],
+    "lat": 10.759377,
+    "lon": 106.708281,
+    "busy_hours": [
+      12,
+      9,
+      0
+    ],
+    "photos": [
+      "https://dummyimage.com/802x836",
+      "https://www.lorempixel.com/480/542"
+    ],
+    "reviews": [
+      "On them politics here blue.",
+      "Music stage how throughout read apply particularly.",
+      "Agreement yes improve trade dinner."
+    ]
+  },
+  {
+    "id": "place_067",
+    "name": "Butler and Sons Cafe",
+    "description": "Wait political Democrat several. Worry stage ago myself decide whom station. Teach popular forget official.",
+    "tags": [
+      "dinner",
+      "casual",
+      "lunch",
+      "romantic",
+      "coffee"
+    ],
+    "ambience": [
+      "minimalist",
+      "vintage",
+      "lively"
+    ],
+    "popularity": "high",
+    "rating": 4.5,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "07:00",
+      "19:00"
+    ],
+    "lat": 10.767165,
+    "lon": 106.707484,
+    "busy_hours": [
+      22,
+      5,
+      15
+    ],
+    "photos": [
+      "https://dummyimage.com/786x16",
+      "https://placekitten.com/267/4"
+    ],
+    "reviews": [
+      "Far provide base president.",
+      "Another read light listen rate fast item.",
+      "Beautiful property foot pass trade which kitchen."
+    ]
+  },
+  {
+    "id": "place_068",
+    "name": "Powell-Young Cafe",
+    "description": "Throw protect information she. What office push water catch grow cover.\nSource she space talk factor adult.\nPolice really inside employee.",
+    "tags": [
+      "open late",
+      "tea",
+      "coffee",
+      "luxury",
+      "fast service"
+    ],
+    "ambience": [
+      "dimly lit",
+      "bright",
+      "greenery"
+    ],
+    "popularity": "low",
+    "rating": 4.6,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "09:00",
+      "23:00"
+    ],
+    "lat": 10.779062,
+    "lon": 106.699855,
+    "busy_hours": [
+      19,
+      18,
+      23
+    ],
+    "photos": [
+      "https://placekitten.com/780/1001",
+      "https://placekitten.com/652/405"
+    ],
+    "reviews": [
+      "Trial beat million far.",
+      "Herself party young husband meet two.",
+      "Mr memory its partner evidence debate win."
+    ]
+  },
+  {
+    "id": "place_069",
+    "name": "Williams Inc Cafe",
+    "description": "Better office themselves audience sister summer own. Your watch more bill. Particular television share relate personal.",
+    "tags": [
+      "noodle",
+      "dinner",
+      "quiet",
+      "casual",
+      "lunch"
+    ],
+    "ambience": [
+      "modern",
+      "dimly lit",
+      "quiet"
+    ],
+    "popularity": "moderate",
+    "rating": 4.1,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "08:00",
+      "20:00"
+    ],
+    "lat": 10.764196,
+    "lon": 106.695073,
+    "busy_hours": [
+      7,
+      12,
+      4
+    ],
+    "photos": [
+      "https://placeimg.com/853/835/any",
+      "https://dummyimage.com/651x72"
+    ],
+    "reviews": [
+      "Operation carry rule.",
+      "Official position guy likely join system.",
+      "Face important phone that treatment."
+    ]
+  },
+  {
+    "id": "place_070",
+    "name": "Bender Inc Cafe",
+    "description": "Describe us teach affect morning know. Recently source hand phone public expert.",
+    "tags": [
+      "noodle",
+      "bbq",
+      "casual",
+      "live music",
+      "fast service"
+    ],
+    "ambience": [
+      "dimly lit",
+      "quiet",
+      "vintage"
+    ],
+    "popularity": "moderate",
+    "rating": 4.1,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "07:00",
+      "23:00"
+    ],
+    "lat": 10.791401,
+    "lon": 106.695012,
+    "busy_hours": [
+      1,
+      18,
+      2
+    ],
+    "photos": [
+      "https://www.lorempixel.com/447/997",
+      "https://www.lorempixel.com/731/501"
+    ],
+    "reviews": [
+      "Help want Mr report history.",
+      "All consumer red everybody accept though west down.",
+      "Every cup among car while thus."
+    ]
+  },
+  {
+    "id": "place_071",
+    "name": "Buchanan-Bailey Cafe",
+    "description": "Edge south speech start. Message pass beyond hair car own ago. Land run today someone between.",
+    "tags": [
+      "coffee",
+      "bbq",
+      "dinner",
+      "luxury",
+      "breakfast"
+    ],
+    "ambience": [
+      "vintage",
+      "cozy",
+      "modern"
+    ],
+    "popularity": "low",
+    "rating": 4.6,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "06:00",
+      "18:00"
+    ],
+    "lat": 10.785553,
+    "lon": 106.706367,
+    "busy_hours": [
+      19,
+      2,
+      22
+    ],
+    "photos": [
+      "https://placekitten.com/943/286",
+      "https://placeimg.com/730/539/any"
+    ],
+    "reviews": [
+      "Road decide or.",
+      "May note agree whom say compare.",
+      "Nation east daughter most."
+    ]
+  },
+  {
+    "id": "place_072",
+    "name": "Delgado-Allen Cafe",
+    "description": "Environmental camera usually hotel question certain entire. Boy drive card material community cup or.",
+    "tags": [
+      "kid friendly",
+      "open late",
+      "air-conditioned",
+      "noodle",
+      "tea"
+    ],
+    "ambience": [
+      "greenery",
+      "lively",
+      "cozy"
+    ],
+    "popularity": "moderate",
+    "rating": 3.1,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "06:00",
+      "22:00"
+    ],
+    "lat": 10.786158,
+    "lon": 106.698672,
+    "busy_hours": [
+      22,
+      17,
+      12
+    ],
+    "photos": [
+      "https://placekitten.com/438/652",
+      "https://placeimg.com/692/459/any"
+    ],
+    "reviews": [
+      "System toward travel skin stop.",
+      "Experience tree her blue.",
+      "Discussion concern hour itself it kid year base."
+    ]
+  },
+  {
+    "id": "place_073",
+    "name": "Hall-Alvarez Cafe",
+    "description": "Give during that drop car. Everybody list production military a father serious physical.",
+    "tags": [
+      "dinner",
+      "quiet",
+      "coffee",
+      "dessert",
+      "air-conditioned"
+    ],
+    "ambience": [
+      "vintage",
+      "quiet",
+      "vibrant"
+    ],
+    "popularity": "high",
+    "rating": 3.1,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "10:00",
+      "18:00"
+    ],
+    "lat": 10.776832,
+    "lon": 106.687792,
+    "busy_hours": [
+      1,
+      7,
+      10
+    ],
+    "photos": [
+      "https://placekitten.com/99/133",
+      "https://dummyimage.com/24x51"
+    ],
+    "reviews": [
+      "Begin nature always professional set.",
+      "Budget must easy.",
+      "Consider stop card himself."
+    ]
+  },
+  {
+    "id": "place_074",
+    "name": "Johnson, Decker and Pacheco Cafe",
+    "description": "Gun water effect good. Discover girl approach send personal. Your shoulder leave increase.",
+    "tags": [
+      "casual",
+      "tea",
+      "co-working",
+      "lunch",
+      "coffee"
+    ],
+    "ambience": [
+      "bright",
+      "dimly lit",
+      "lively"
+    ],
+    "popularity": "high",
+    "rating": 4.5,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "08:00",
+      "22:00"
+    ],
+    "lat": 10.770586,
+    "lon": 106.714493,
+    "busy_hours": [
+      9,
+      5,
+      6
+    ],
+    "photos": [
+      "https://dummyimage.com/705x1019",
+      "https://placekitten.com/458/38"
+    ],
+    "reviews": [
+      "Lot popular throughout item our miss idea.",
+      "Skill help various approach determine list.",
+      "Social option before who beat relationship."
+    ]
+  },
+  {
+    "id": "place_075",
+    "name": "Salazar Group Cafe",
+    "description": "Require region officer adult. Who class north late thus hospital question.",
+    "tags": [
+      "fast service",
+      "coffee",
+      "outdoor seating",
+      "pet friendly",
+      "dinner"
+    ],
+    "ambience": [
+      "minimalist",
+      "vibrant",
+      "bright"
+    ],
+    "popularity": "moderate",
+    "rating": 4.1,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "10:00",
+      "19:00"
+    ],
+    "lat": 10.793614,
+    "lon": 106.702071,
+    "busy_hours": [
+      8,
+      19,
+      11
+    ],
+    "photos": [
+      "https://dummyimage.com/348x519",
+      "https://placekitten.com/145/929"
+    ],
+    "reviews": [
+      "Party kid phone data see think better.",
+      "Light spend speech cup.",
+      "End easy decision concern analysis through throughout practice."
+    ]
+  },
+  {
+    "id": "place_076",
+    "name": "Huynh, Rios and Martin Cafe",
+    "description": "Cell try hear beat. Compare keep however audience there per. Subject teacher crime even put reach later hot.",
+    "tags": [
+      "dessert",
+      "tea",
+      "coffee",
+      "dinner",
+      "co-working"
+    ],
+    "ambience": [
+      "greenery",
+      "vintage",
+      "dimly lit"
+    ],
+    "popularity": "moderate",
+    "rating": 4.5,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "10:00",
+      "22:00"
+    ],
+    "lat": 10.786322,
+    "lon": 106.717772,
+    "busy_hours": [
+      20,
+      1,
+      3
+    ],
+    "photos": [
+      "https://placeimg.com/693/752/any",
+      "https://dummyimage.com/108x605"
+    ],
+    "reviews": [
+      "Speak some likely specific relate off.",
+      "General reality like collection.",
+      "Artist successful notice."
+    ]
+  },
+  {
+    "id": "place_077",
+    "name": "Summers Inc Cafe",
+    "description": "Thing perhaps particularly hand particularly top. Growth bit pull ability development. Move argue woman who sort.",
+    "tags": [
+      "outdoor seating",
+      "open late",
+      "wifi",
+      "breakfast",
+      "lunch"
+    ],
+    "ambience": [
+      "lively",
+      "dimly lit",
+      "quiet"
+    ],
+    "popularity": "high",
+    "rating": 4.5,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "07:00",
+      "21:00"
+    ],
+    "lat": 10.763655,
+    "lon": 106.68867,
+    "busy_hours": [
+      6,
+      13,
+      22
+    ],
+    "photos": [
+      "https://placeimg.com/340/838/any",
+      "https://dummyimage.com/848x185"
+    ],
+    "reviews": [
+      "Partner decade catch indeed however account.",
+      "Note resource region international support doctor record.",
+      "First unit any."
+    ]
+  },
+  {
+    "id": "place_078",
+    "name": "Dean, Hines and Hunter Cafe",
+    "description": "Once PM despite next back. Meeting camera enjoy question certain sign.\nClear business number hair movie.\nClose skin whatever south third.",
+    "tags": [
+      "lunch",
+      "noodle",
+      "dinner",
+      "vegan",
+      "quiet"
+    ],
+    "ambience": [
+      "bright",
+      "vibrant",
+      "cozy"
+    ],
+    "popularity": "moderate",
+    "rating": 3.2,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "09:00",
+      "22:00"
+    ],
+    "lat": 10.780056,
+    "lon": 106.690783,
+    "busy_hours": [
+      16,
+      19,
+      22
+    ],
+    "photos": [
+      "https://dummyimage.com/606x909",
+      "https://placeimg.com/804/421/any"
+    ],
+    "reviews": [
+      "Among serious must at.",
+      "Green whose experience must paper list.",
+      "Road send writer skill society."
+    ]
+  },
+  {
+    "id": "place_079",
+    "name": "Hall-Bennett Cafe",
+    "description": "Professor station be such around he. Trip student push blood expert. Vote hard report worry sense sign.",
+    "tags": [
+      "quiet",
+      "luxury",
+      "breakfast",
+      "pet friendly",
+      "co-working"
+    ],
+    "ambience": [
+      "vintage",
+      "modern",
+      "dimly lit"
+    ],
+    "popularity": "low",
+    "rating": 3.3,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "07:00",
+      "22:00"
+    ],
+    "lat": 10.773092,
+    "lon": 106.688291,
+    "busy_hours": [
+      14,
+      11,
+      12
+    ],
+    "photos": [
+      "https://placeimg.com/58/540/any",
+      "https://www.lorempixel.com/501/757"
+    ],
+    "reviews": [
+      "Father should expect box.",
+      "Fall mother suddenly number since base.",
+      "Week treat owner."
+    ]
+  },
+  {
+    "id": "place_080",
+    "name": "Sullivan, Miller and Choi Cafe",
+    "description": "Me despite quickly each should.\nBoy performance your it expert simple. Space difference of itself.",
+    "tags": [
+      "coffee",
+      "air-conditioned",
+      "noodle",
+      "tea",
+      "open late"
+    ],
+    "ambience": [
+      "dimly lit",
+      "vibrant",
+      "vintage"
+    ],
+    "popularity": "moderate",
+    "rating": 3.9,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "08:00",
+      "20:00"
+    ],
+    "lat": 10.782311,
+    "lon": 106.71754,
+    "busy_hours": [
+      3,
+      17,
+      14
+    ],
+    "photos": [
+      "https://www.lorempixel.com/170/97",
+      "https://placekitten.com/915/91"
+    ],
+    "reviews": [
+      "Up finish respond interesting happen pay image with.",
+      "Vote group store condition former born.",
+      "Sea item perhaps decade."
+    ]
+  },
+  {
+    "id": "place_081",
+    "name": "Phillips-Cox Cafe",
+    "description": "Her professor fill camera class believe account. Thousand child young wide put identify talk.\nLetter last hear heart.",
+    "tags": [
+      "fast service",
+      "outdoor seating",
+      "noodle",
+      "co-working",
+      "bbq"
+    ],
+    "ambience": [
+      "vintage",
+      "modern",
+      "vibrant"
+    ],
+    "popularity": "high",
+    "rating": 3.6,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "08:00",
+      "22:00"
+    ],
+    "lat": 10.769972,
+    "lon": 106.71103,
+    "busy_hours": [
+      12,
+      17,
+      23
+    ],
+    "photos": [
+      "https://placekitten.com/781/588",
+      "https://dummyimage.com/65x379"
+    ],
+    "reviews": [
+      "Carry mouth think throw also despite eight.",
+      "Because baby century bank first again.",
+      "Across market serve serve officer play."
+    ]
+  },
+  {
+    "id": "place_082",
+    "name": "Malone, Frye and Lee Cafe",
+    "description": "Outside base statement strong eye.\nBegin heart discover security raise. Test check plant. International rich seek buy hear. Any situation he wonder.",
+    "tags": [
+      "quiet",
+      "kid friendly",
+      "open late",
+      "co-working",
+      "breakfast"
+    ],
+    "ambience": [
+      "vintage",
+      "lively",
+      "vibrant"
+    ],
+    "popularity": "moderate",
+    "rating": 4.0,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "09:00",
+      "18:00"
+    ],
+    "lat": 10.762057,
+    "lon": 106.710507,
+    "busy_hours": [
+      9,
+      21,
+      6
+    ],
+    "photos": [
+      "https://www.lorempixel.com/266/855",
+      "https://placekitten.com/943/869"
+    ],
+    "reviews": [
+      "Worry throughout agent deal such environment them.",
+      "Group both radio every several.",
+      "Book similar moment but."
+    ]
+  },
+  {
+    "id": "place_083",
+    "name": "Lewis-Dominguez Cafe",
+    "description": "Fill they those. Nature letter final professor worry receive. Window why several before image follow.",
+    "tags": [
+      "live music",
+      "dessert",
+      "fast service",
+      "casual",
+      "pet friendly"
+    ],
+    "ambience": [
+      "bright",
+      "dimly lit",
+      "vintage"
+    ],
+    "popularity": "low",
+    "rating": 4.0,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "06:00",
+      "20:00"
+    ],
+    "lat": 10.767521,
+    "lon": 106.696598,
+    "busy_hours": [
+      11,
+      10,
+      3
+    ],
+    "photos": [
+      "https://placekitten.com/20/415",
+      "https://placeimg.com/315/388/any"
+    ],
+    "reviews": [
+      "Yes sometimes speak ask.",
+      "Network wind oil career character.",
+      "Month smile interesting lawyer."
+    ]
+  },
+  {
+    "id": "place_084",
+    "name": "Johns-Torres Cafe",
+    "description": "Sure their sea build. Across send century section nature time result professional.",
+    "tags": [
+      "fast service",
+      "breakfast",
+      "co-working",
+      "dessert",
+      "open late"
+    ],
+    "ambience": [
+      "vintage",
+      "dimly lit",
+      "modern"
+    ],
+    "popularity": "low",
+    "rating": 3.5,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "07:00",
+      "19:00"
+    ],
+    "lat": 10.794807,
+    "lon": 106.707815,
+    "busy_hours": [
+      8,
+      14,
+      0
+    ],
+    "photos": [
+      "https://placeimg.com/645/456/any",
+      "https://placekitten.com/203/914"
+    ],
+    "reviews": [
+      "See size whom.",
+      "Television individual natural main her back gas.",
+      "Police necessary rule food."
+    ]
+  },
+  {
+    "id": "place_085",
+    "name": "Brown, Lindsey and Osborne Cafe",
+    "description": "Picture class style truth sound war. Various smile technology another point interesting arm. Structure fish picture seem foreign difficult.",
+    "tags": [
+      "vegan",
+      "noodle",
+      "fast service",
+      "air-conditioned",
+      "outdoor seating"
+    ],
+    "ambience": [
+      "bright",
+      "quiet",
+      "dimly lit"
+    ],
+    "popularity": "low",
+    "rating": 4.8,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "10:00",
+      "18:00"
+    ],
+    "lat": 10.788747,
+    "lon": 106.707963,
+    "busy_hours": [
+      18,
+      6,
+      0
+    ],
+    "photos": [
+      "https://placeimg.com/289/213/any",
+      "https://www.lorempixel.com/560/925"
+    ],
+    "reviews": [
+      "Film our world partner unit.",
+      "Lay foot practice foreign Mrs every blood.",
+      "Rather recently make statement."
+    ]
+  },
+  {
+    "id": "place_086",
+    "name": "Barnes, Brooks and Roy Cafe",
+    "description": "Position serious peace network year service yourself. But else impact majority. Organization poor avoid.",
+    "tags": [
+      "luxury",
+      "noodle",
+      "open late",
+      "bbq",
+      "dessert"
+    ],
+    "ambience": [
+      "modern",
+      "vibrant",
+      "cozy"
+    ],
+    "popularity": "low",
+    "rating": 3.1,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "09:00",
+      "22:00"
+    ],
+    "lat": 10.786779,
+    "lon": 106.713815,
+    "busy_hours": [
+      8,
+      3,
+      7
+    ],
+    "photos": [
+      "https://placekitten.com/568/903",
+      "https://placeimg.com/1009/408/any"
+    ],
+    "reviews": [
+      "Image sit serious realize summer future.",
+      "Soldier particularly state.",
+      "Item large agreement peace else."
+    ]
+  },
+  {
+    "id": "place_087",
+    "name": "Brown PLC Cafe",
+    "description": "Four how record court bank body money. Person citizen attack develop.",
+    "tags": [
+      "pet friendly",
+      "romantic",
+      "open late",
+      "dinner",
+      "wifi"
+    ],
+    "ambience": [
+      "vintage",
+      "dimly lit",
+      "quiet"
+    ],
+    "popularity": "low",
+    "rating": 4.9,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "08:00",
+      "20:00"
+    ],
+    "lat": 10.76472,
+    "lon": 106.716708,
+    "busy_hours": [
+      23,
+      2,
+      14
+    ],
+    "photos": [
+      "https://dummyimage.com/842x847",
+      "https://placeimg.com/367/130/any"
+    ],
+    "reviews": [
+      "Buy air vote set.",
+      "Threat space recent price ground industry level market.",
+      "Court south race of important blood behavior different."
+    ]
+  },
+  {
+    "id": "place_088",
+    "name": "Pierce-Gardner Cafe",
+    "description": "Ball better try laugh father challenge eat. Many as certain beautiful leader low she buy.",
+    "tags": [
+      "outdoor seating",
+      "open late",
+      "tea",
+      "coffee",
+      "luxury"
+    ],
+    "ambience": [
+      "vintage",
+      "modern",
+      "minimalist"
+    ],
+    "popularity": "moderate",
+    "rating": 4.5,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "06:00",
+      "22:00"
+    ],
+    "lat": 10.764946,
+    "lon": 106.697087,
+    "busy_hours": [
+      13,
+      7,
+      22
+    ],
+    "photos": [
+      "https://placeimg.com/595/308/any",
+      "https://www.lorempixel.com/30/606"
+    ],
+    "reviews": [
+      "Happen tonight bill suddenly.",
+      "Last more together history travel.",
+      "Trip such rule top source brother describe."
+    ]
+  },
+  {
+    "id": "place_089",
+    "name": "Moran-Adams Cafe",
+    "description": "Other make from never hand ready office natural. Between reveal those tree direction.\nHusband thus society reduce ten want. Small feel ten course.",
+    "tags": [
+      "luxury",
+      "lunch",
+      "breakfast",
+      "open late",
+      "noodle"
+    ],
+    "ambience": [
+      "vibrant",
+      "lively",
+      "minimalist"
+    ],
+    "popularity": "high",
+    "rating": 3.0,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "06:00",
+      "18:00"
+    ],
+    "lat": 10.779644,
+    "lon": 106.689974,
+    "busy_hours": [
+      22,
+      14,
+      4
+    ],
+    "photos": [
+      "https://placekitten.com/1019/221",
+      "https://placeimg.com/77/149/any"
+    ],
+    "reviews": [
+      "Tell cut explain value.",
+      "Rest these sea plan attack read.",
+      "Act avoid room."
+    ]
+  },
+  {
+    "id": "place_090",
+    "name": "Smith PLC Cafe",
+    "description": "Participant everybody election hot media. Hear family free politics condition large.",
+    "tags": [
+      "lunch",
+      "outdoor seating",
+      "co-working",
+      "casual",
+      "tea"
+    ],
+    "ambience": [
+      "dimly lit",
+      "vibrant",
+      "vintage"
+    ],
+    "popularity": "high",
+    "rating": 4.4,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "09:00",
+      "21:00"
+    ],
+    "lat": 10.759515,
+    "lon": 106.700235,
+    "busy_hours": [
+      15,
+      2,
+      3
+    ],
+    "photos": [
+      "https://dummyimage.com/258x573",
+      "https://placeimg.com/573/468/any"
+    ],
+    "reviews": [
+      "Production arrive already poor loss.",
+      "Moment generation million sport enjoy believe.",
+      "Receive rate enjoy these PM."
+    ]
+  },
+  {
+    "id": "place_091",
+    "name": "Levy-Campbell Cafe",
+    "description": "Find actually society mouth. Return benefit hundred choose partner world. Staff hard food claim.",
+    "tags": [
+      "romantic",
+      "air-conditioned",
+      "tea",
+      "dinner",
+      "open late"
+    ],
+    "ambience": [
+      "vibrant",
+      "lively",
+      "minimalist"
+    ],
+    "popularity": "moderate",
+    "rating": 3.6,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "06:00",
+      "23:00"
+    ],
+    "lat": 10.792028,
+    "lon": 106.692563,
+    "busy_hours": [
+      20,
+      6,
+      0
+    ],
+    "photos": [
+      "https://placeimg.com/181/761/any",
+      "https://dummyimage.com/187x958"
+    ],
+    "reviews": [
+      "Skin turn economy realize subject least kid.",
+      "Every age owner third.",
+      "Shoulder throughout the style."
+    ]
+  },
+  {
+    "id": "place_092",
+    "name": "Fleming-Harper Cafe",
+    "description": "Beautiful necessary sort area treatment somebody site.",
+    "tags": [
+      "co-working",
+      "quiet",
+      "outdoor seating",
+      "kid friendly",
+      "open late"
+    ],
+    "ambience": [
+      "vibrant",
+      "cozy",
+      "vintage"
+    ],
+    "popularity": "moderate",
+    "rating": 4.8,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "06:00",
+      "20:00"
+    ],
+    "lat": 10.766796,
+    "lon": 106.718248,
+    "busy_hours": [
+      19,
+      1,
+      6
+    ],
+    "photos": [
+      "https://placekitten.com/859/947",
+      "https://dummyimage.com/898x129"
+    ],
+    "reviews": [
+      "Bit enjoy commercial understand first detail truth.",
+      "Everything father represent move.",
+      "Character foreign maintain loss play new television."
+    ]
+  },
+  {
+    "id": "place_093",
+    "name": "Wilson Inc Cafe",
+    "description": "Deal station figure bad. Interest represent law Mr cut finally region.\nUnder age yard author whether draw of. Nearly well then fact.",
+    "tags": [
+      "co-working",
+      "wifi",
+      "open late",
+      "romantic",
+      "fast service"
+    ],
+    "ambience": [
+      "cozy",
+      "vintage",
+      "lively"
+    ],
+    "popularity": "moderate",
+    "rating": 4.7,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "06:00",
+      "21:00"
+    ],
+    "lat": 10.781347,
+    "lon": 106.704276,
+    "busy_hours": [
+      5,
+      14,
+      17
+    ],
+    "photos": [
+      "https://www.lorempixel.com/668/204",
+      "https://dummyimage.com/64x502"
+    ],
+    "reviews": [
+      "Instead third response per next.",
+      "Agency simple add positive improve court measure ago.",
+      "Movement involve another PM they system foreign final."
+    ]
+  },
+  {
+    "id": "place_094",
+    "name": "Davenport and Sons Cafe",
+    "description": "Money manager fast. Above shake government off wind I. Result wait measure next man new consider.",
+    "tags": [
+      "outdoor seating",
+      "noodle",
+      "breakfast",
+      "vegan",
+      "quiet"
+    ],
+    "ambience": [
+      "dimly lit",
+      "lively",
+      "cozy"
+    ],
+    "popularity": "moderate",
+    "rating": 4.6,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "06:00",
+      "23:00"
+    ],
+    "lat": 10.763893,
+    "lon": 106.703339,
+    "busy_hours": [
+      14,
+      3,
+      1
+    ],
+    "photos": [
+      "https://placeimg.com/194/665/any",
+      "https://www.lorempixel.com/27/630"
+    ],
+    "reviews": [
+      "Time among series compare leave kid guy.",
+      "Company human dark student finally.",
+      "Door morning tell two explain."
+    ]
+  },
+  {
+    "id": "place_095",
+    "name": "Wilcox, Randall and Black Cafe",
+    "description": "Mrs time hard blue opportunity. Source strategy able prevent might.\nFact return try just whose. Call small investment born American reflect so.",
+    "tags": [
+      "noodle",
+      "fast service",
+      "quiet",
+      "casual",
+      "bbq"
+    ],
+    "ambience": [
+      "greenery",
+      "modern",
+      "dimly lit"
+    ],
+    "popularity": "high",
+    "rating": 3.4,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "06:00",
+      "21:00"
+    ],
+    "lat": 10.781287,
+    "lon": 106.703367,
+    "busy_hours": [
+      16,
+      5,
+      0
+    ],
+    "photos": [
+      "https://dummyimage.com/332x716",
+      "https://www.lorempixel.com/221/733"
+    ],
+    "reviews": [
+      "Under him American design any agree.",
+      "Money just toward as place.",
+      "Culture authority role interest place paper."
+    ]
+  },
+  {
+    "id": "place_096",
+    "name": "Norris-Thomas Cafe",
+    "description": "Manage drive market dog culture laugh always. Certainly example law majority. Relationship I book place measure.",
+    "tags": [
+      "quiet",
+      "coffee",
+      "casual",
+      "breakfast",
+      "pet friendly"
+    ],
+    "ambience": [
+      "dimly lit",
+      "bright",
+      "modern"
+    ],
+    "popularity": "high",
+    "rating": 4.0,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "10:00",
+      "19:00"
+    ],
+    "lat": 10.767282,
+    "lon": 106.704851,
+    "busy_hours": [
+      8,
+      21,
+      4
+    ],
+    "photos": [
+      "https://placeimg.com/866/158/any",
+      "https://www.lorempixel.com/565/500"
+    ],
+    "reviews": [
+      "Example amount daughter first agreement.",
+      "Large Congress paper friend argue loss glass ahead.",
+      "Now example goal politics."
+    ]
+  },
+  {
+    "id": "place_097",
+    "name": "Velasquez, Melton and Hardin Cafe",
+    "description": "Yeah its rather up her cost whose. Least course particularly building stand fact. Plant team coach minute college.",
+    "tags": [
+      "romantic",
+      "vegan",
+      "luxury",
+      "fast service",
+      "dinner"
+    ],
+    "ambience": [
+      "cozy",
+      "greenery",
+      "bright"
+    ],
+    "popularity": "low",
+    "rating": 4.0,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "10:00",
+      "22:00"
+    ],
+    "lat": 10.776824,
+    "lon": 106.701004,
+    "busy_hours": [
+      15,
+      0,
+      4
+    ],
+    "photos": [
+      "https://dummyimage.com/482x128",
+      "https://www.lorempixel.com/254/530"
+    ],
+    "reviews": [
+      "Professor popular magazine difficult hundred attack.",
+      "Ability teach late former.",
+      "Individual model state."
+    ]
+  },
+  {
+    "id": "place_098",
+    "name": "Baxter-Stephens Cafe",
+    "description": "Remember campaign safe beyond school organization half. Hand night store raise name among impact. May drop include middle.",
+    "tags": [
+      "open late",
+      "live music",
+      "dessert",
+      "pet friendly",
+      "vegan"
+    ],
+    "ambience": [
+      "cozy",
+      "greenery",
+      "vibrant"
+    ],
+    "popularity": "moderate",
+    "rating": 4.8,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "06:00",
+      "23:00"
+    ],
+    "lat": 10.794654,
+    "lon": 106.713341,
+    "busy_hours": [
+      19,
+      4,
+      3
+    ],
+    "photos": [
+      "https://placeimg.com/562/791/any",
+      "https://placeimg.com/711/451/any"
+    ],
+    "reviews": [
+      "Back thought position determine member threat effort democratic.",
+      "Story bag blue ready person a.",
+      "Anyone hair raise then song event a."
+    ]
+  },
+  {
+    "id": "place_099",
+    "name": "Wilson, Hill and Edwards Cafe",
+    "description": "Drop financial read represent. Other management commercial control son.",
+    "tags": [
+      "quiet",
+      "kid friendly",
+      "noodle",
+      "tea",
+      "vegan"
+    ],
+    "ambience": [
+      "lively",
+      "minimalist",
+      "greenery"
+    ],
+    "popularity": "high",
+    "rating": 3.5,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "08:00",
+      "23:00"
+    ],
+    "lat": 10.789264,
+    "lon": 106.714642,
+    "busy_hours": [
+      22,
+      14,
+      3
+    ],
+    "photos": [
+      "https://www.lorempixel.com/574/34",
+      "https://placekitten.com/498/178"
+    ],
+    "reviews": [
+      "Fight position parent baby create religious.",
+      "Phone parent none teacher.",
+      "Possible start energy degree safe."
+    ]
+  },
+  {
+    "id": "place_100",
+    "name": "Pierce Group Cafe",
+    "description": "Answer plant leader best avoid.\nSimilar six fall including spend ever Congress mention. Attack sell recent animal rise unit.",
+    "tags": [
+      "breakfast",
+      "open late",
+      "fast service",
+      "romantic",
+      "bbq"
+    ],
+    "ambience": [
+      "modern",
+      "greenery",
+      "lively"
+    ],
+    "popularity": "moderate",
+    "rating": 4.5,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "10:00",
+      "21:00"
+    ],
+    "lat": 10.791317,
+    "lon": 106.693712,
+    "busy_hours": [
+      6,
+      4,
+      10
+    ],
+    "photos": [
+      "https://www.lorempixel.com/927/434",
+      "https://www.lorempixel.com/755/156"
+    ],
+    "reviews": [
+      "Keep identify within light pass event.",
+      "Marriage unit at pressure.",
+      "Measure onto consider full suddenly."
+    ]
+  },
+  {
+    "id": "place_101",
+    "name": "Jordan and Sons Cafe",
+    "description": "Enjoy probably while like race generation me. Morning prepare hot well movie and wear. Light hard member game like out before.",
+    "tags": [
+      "lunch",
+      "open late",
+      "wifi",
+      "pet friendly",
+      "kid friendly"
+    ],
+    "ambience": [
+      "cozy",
+      "vibrant",
+      "minimalist"
+    ],
+    "popularity": "low",
+    "rating": 3.5,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "07:00",
+      "21:00"
+    ],
+    "lat": 10.779385,
+    "lon": 106.69824,
+    "busy_hours": [
+      10,
+      8,
+      7
+    ],
+    "photos": [
+      "https://www.lorempixel.com/490/368",
+      "https://dummyimage.com/673x24"
+    ],
+    "reviews": [
+      "Fear project glass statement.",
+      "Serious some environment enter material.",
+      "Tonight own structure pick clearly."
+    ]
+  },
+  {
+    "id": "place_102",
+    "name": "Sheppard-Santos Cafe",
+    "description": "Low carry third news including his. Different however remember pay stock already plant. Few agreement there voice peace indeed senior.",
+    "tags": [
+      "bbq",
+      "open late",
+      "dessert",
+      "dinner",
+      "co-working"
+    ],
+    "ambience": [
+      "vibrant",
+      "minimalist",
+      "lively"
+    ],
+    "popularity": "low",
+    "rating": 3.9,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "09:00",
+      "20:00"
+    ],
+    "lat": 10.762632,
+    "lon": 106.708849,
+    "busy_hours": [
+      9,
+      5,
+      0
+    ],
+    "photos": [
+      "https://www.lorempixel.com/824/481",
+      "https://www.lorempixel.com/652/265"
+    ],
+    "reviews": [
+      "Deal kitchen whether only professor.",
+      "Fall budget travel management fast spend.",
+      "Little figure front share."
+    ]
+  },
+  {
+    "id": "place_103",
+    "name": "Holmes-Henderson Cafe",
+    "description": "Hope population official. Former role crime example food everything. Carry reason news else large.",
+    "tags": [
+      "dinner",
+      "quiet",
+      "fast service",
+      "open late",
+      "outdoor seating"
+    ],
+    "ambience": [
+      "cozy",
+      "bright",
+      "greenery"
+    ],
+    "popularity": "high",
+    "rating": 4.1,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "06:00",
+      "20:00"
+    ],
+    "lat": 10.775127,
+    "lon": 106.703629,
+    "busy_hours": [
+      1,
+      20,
+      19
+    ],
+    "photos": [
+      "https://placeimg.com/964/59/any",
+      "https://www.lorempixel.com/505/19"
+    ],
+    "reviews": [
+      "Medical ability message moment.",
+      "Finish evening discuss wide debate.",
+      "Close husband age during each."
+    ]
+  },
+  {
+    "id": "place_104",
+    "name": "Baker-Wilson Cafe",
+    "description": "Majority result official beyond. Policy lose somebody hand. Party trouble parent herself.",
+    "tags": [
+      "outdoor seating",
+      "coffee",
+      "tea",
+      "lunch",
+      "wifi"
+    ],
+    "ambience": [
+      "lively",
+      "minimalist",
+      "dimly lit"
+    ],
+    "popularity": "moderate",
+    "rating": 3.2,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "08:00",
+      "20:00"
+    ],
+    "lat": 10.767264,
+    "lon": 106.686853,
+    "busy_hours": [
+      20,
+      9,
+      22
+    ],
+    "photos": [
+      "https://placekitten.com/370/361",
+      "https://placekitten.com/797/51"
+    ],
+    "reviews": [
+      "Arrive type agent summer tend.",
+      "Color total by season.",
+      "Already bit key student here clear continue."
+    ]
+  },
+  {
+    "id": "place_105",
+    "name": "Acosta-Shaw Cafe",
+    "description": "Kid you clearly suffer spend again.",
+    "tags": [
+      "co-working",
+      "lunch",
+      "coffee",
+      "air-conditioned",
+      "fast service"
+    ],
+    "ambience": [
+      "minimalist",
+      "greenery",
+      "lively"
+    ],
+    "popularity": "high",
+    "rating": 4.1,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "07:00",
+      "21:00"
+    ],
+    "lat": 10.782726,
+    "lon": 106.688075,
+    "busy_hours": [
+      6,
+      16,
+      9
+    ],
+    "photos": [
+      "https://placekitten.com/117/342",
+      "https://placeimg.com/494/448/any"
+    ],
+    "reviews": [
+      "Late than with ahead.",
+      "Level discover either even her.",
+      "Simple impact sign floor."
+    ]
+  },
+  {
+    "id": "place_106",
+    "name": "Watkins, Mills and Sellers Cafe",
+    "description": "Parent something value side simply. Thought method must.\nPolice under minute clearly these. Stay director just morning own.",
+    "tags": [
+      "quiet",
+      "pet friendly",
+      "coffee",
+      "co-working",
+      "bbq"
+    ],
+    "ambience": [
+      "vibrant",
+      "dimly lit",
+      "minimalist"
+    ],
+    "popularity": "high",
+    "rating": 3.9,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "07:00",
+      "22:00"
+    ],
+    "lat": 10.794347,
+    "lon": 106.704775,
+    "busy_hours": [
+      14,
+      8,
+      0
+    ],
+    "photos": [
+      "https://placeimg.com/807/933/any",
+      "https://placeimg.com/406/366/any"
+    ],
+    "reviews": [
+      "Performance any provide at conference.",
+      "Bit third contain him college.",
+      "Affect save thing similar air purpose."
+    ]
+  },
+  {
+    "id": "place_107",
+    "name": "White, Bullock and Smith Cafe",
+    "description": "Recognize however sound last name knowledge wall. Across before treat laugh. Never win apply natural back.",
+    "tags": [
+      "outdoor seating",
+      "coffee",
+      "vegan",
+      "tea",
+      "pet friendly"
+    ],
+    "ambience": [
+      "lively",
+      "cozy",
+      "dimly lit"
+    ],
+    "popularity": "high",
+    "rating": 3.5,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "10:00",
+      "20:00"
+    ],
+    "lat": 10.780647,
+    "lon": 106.712307,
+    "busy_hours": [
+      21,
+      9,
+      2
+    ],
+    "photos": [
+      "https://placeimg.com/393/997/any",
+      "https://dummyimage.com/662x292"
+    ],
+    "reviews": [
+      "Stage campaign audience town.",
+      "Address heart can marriage name four raise.",
+      "Cost may fact throughout program."
+    ]
+  },
+  {
+    "id": "place_108",
+    "name": "Price Inc Cafe",
+    "description": "Expect loss paper can contain believe subject fear. Imagine accept lot play true something.",
+    "tags": [
+      "co-working",
+      "bbq",
+      "lunch",
+      "casual",
+      "dinner"
+    ],
+    "ambience": [
+      "cozy",
+      "modern",
+      "vibrant"
+    ],
+    "popularity": "moderate",
+    "rating": 3.5,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "10:00",
+      "21:00"
+    ],
+    "lat": 10.776432,
+    "lon": 106.688605,
+    "busy_hours": [
+      16,
+      22,
+      0
+    ],
+    "photos": [
+      "https://www.lorempixel.com/398/743",
+      "https://www.lorempixel.com/344/372"
+    ],
+    "reviews": [
+      "High especially Mrs nor.",
+      "Author out debate teach behind.",
+      "Course herself world Democrat our energy."
+    ]
+  },
+  {
+    "id": "place_109",
+    "name": "Roberts Ltd Cafe",
+    "description": "Safe so interview size keep. Long purpose service. Car church movement summer only range control task.",
+    "tags": [
+      "luxury",
+      "tea",
+      "dinner",
+      "romantic",
+      "wifi"
+    ],
+    "ambience": [
+      "greenery",
+      "modern",
+      "bright"
+    ],
+    "popularity": "low",
+    "rating": 3.5,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "06:00",
+      "22:00"
+    ],
+    "lat": 10.762378,
+    "lon": 106.690334,
+    "busy_hours": [
+      2,
+      21,
+      13
+    ],
+    "photos": [
+      "https://placekitten.com/396/145",
+      "https://placeimg.com/112/217/any"
+    ],
+    "reviews": [
+      "Democratic door former big southern.",
+      "Force firm administration economic.",
+      "Structure personal baby worry gas throughout."
+    ]
+  },
+  {
+    "id": "place_110",
+    "name": "Klein Inc Cafe",
+    "description": "General star must under game place. Throw future mention force whole reach chair.",
+    "tags": [
+      "wifi",
+      "pet friendly",
+      "noodle",
+      "open late",
+      "bbq"
+    ],
+    "ambience": [
+      "vibrant",
+      "minimalist",
+      "quiet"
+    ],
+    "popularity": "moderate",
+    "rating": 3.7,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "07:00",
+      "20:00"
+    ],
+    "lat": 10.765269,
+    "lon": 106.714625,
+    "busy_hours": [
+      20,
+      17,
+      19
+    ],
+    "photos": [
+      "https://placeimg.com/770/98/any",
+      "https://placeimg.com/5/383/any"
+    ],
+    "reviews": [
+      "Kid be matter person.",
+      "Policy away stand human general early.",
+      "Onto school service animal reality imagine."
+    ]
+  },
+  {
+    "id": "place_111",
+    "name": "Pace Ltd Cafe",
+    "description": "Already play civil only yes these choice.\nYard father born officer. Could speak memory who fall sit want. Customer part sister.",
+    "tags": [
+      "luxury",
+      "pet friendly",
+      "bbq",
+      "dessert",
+      "wifi"
+    ],
+    "ambience": [
+      "vintage",
+      "bright",
+      "lively"
+    ],
+    "popularity": "high",
+    "rating": 3.0,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "10:00",
+      "22:00"
+    ],
+    "lat": 10.77339,
+    "lon": 106.693488,
+    "busy_hours": [
+      8,
+      17,
+      7
+    ],
+    "photos": [
+      "https://placekitten.com/166/522",
+      "https://placeimg.com/180/393/any"
+    ],
+    "reviews": [
+      "Reveal machine eight base still line agreement help.",
+      "Public discover now operation arrive approach thing.",
+      "Health computer material live include nearly."
+    ]
+  },
+  {
+    "id": "place_112",
+    "name": "Bonilla, Frederick and Mckinney Cafe",
+    "description": "Computer pretty particular fear when. Every because sometimes whose loss. Over situation tonight experience line.",
+    "tags": [
+      "romantic",
+      "tea",
+      "bbq",
+      "air-conditioned",
+      "co-working"
+    ],
+    "ambience": [
+      "bright",
+      "dimly lit",
+      "quiet"
+    ],
+    "popularity": "high",
+    "rating": 3.2,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "08:00",
+      "18:00"
+    ],
+    "lat": 10.767032,
+    "lon": 106.705435,
+    "busy_hours": [
+      17,
+      13,
+      14
+    ],
+    "photos": [
+      "https://dummyimage.com/403x477",
+      "https://www.lorempixel.com/256/95"
+    ],
+    "reviews": [
+      "Enough task seven color raise many.",
+      "Race their return much.",
+      "Between try maintain even."
+    ]
+  },
+  {
+    "id": "place_113",
+    "name": "Sampson Inc Cafe",
+    "description": "Onto peace public. Figure morning education mother last machine recently cup.",
+    "tags": [
+      "outdoor seating",
+      "quiet",
+      "casual",
+      "live music",
+      "fast service"
+    ],
+    "ambience": [
+      "dimly lit",
+      "bright",
+      "cozy"
+    ],
+    "popularity": "low",
+    "rating": 4.0,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "09:00",
+      "21:00"
+    ],
+    "lat": 10.778767,
+    "lon": 106.696401,
+    "busy_hours": [
+      4,
+      19,
+      18
+    ],
+    "photos": [
+      "https://placekitten.com/218/735",
+      "https://dummyimage.com/1019x146"
+    ],
+    "reviews": [
+      "Budget daughter break behavior help return.",
+      "Cost it camera force member simple.",
+      "Campaign position network cell clear."
+    ]
+  },
+  {
+    "id": "place_114",
+    "name": "Payne, Fischer and Diaz Cafe",
+    "description": "Magazine mind of surface early near. Relationship several employee nice me hear.",
+    "tags": [
+      "open late",
+      "casual",
+      "vegan",
+      "noodle",
+      "air-conditioned"
+    ],
+    "ambience": [
+      "cozy",
+      "minimalist",
+      "lively"
+    ],
+    "popularity": "high",
+    "rating": 4.0,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "08:00",
+      "22:00"
+    ],
+    "lat": 10.77675,
+    "lon": 106.716687,
+    "busy_hours": [
+      16,
+      20,
+      19
+    ],
+    "photos": [
+      "https://dummyimage.com/232x9",
+      "https://placeimg.com/954/323/any"
+    ],
+    "reviews": [
+      "Particular dark movement type current north film.",
+      "Agent girl two character stop media candidate that.",
+      "Himself article pattern few identify program."
+    ]
+  },
+  {
+    "id": "place_115",
+    "name": "Graham, Mccormick and Rodriguez Cafe",
+    "description": "Treat whether a. Ok measure a market lose when. Play nice education debate deal gas animal.",
+    "tags": [
+      "romantic",
+      "dinner",
+      "vegan",
+      "kid friendly",
+      "dessert"
+    ],
+    "ambience": [
+      "modern",
+      "bright",
+      "cozy"
+    ],
+    "popularity": "low",
+    "rating": 4.6,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "09:00",
+      "22:00"
+    ],
+    "lat": 10.768475,
+    "lon": 106.717765,
+    "busy_hours": [
+      18,
+      4,
+      22
+    ],
+    "photos": [
+      "https://placeimg.com/965/980/any",
+      "https://www.lorempixel.com/434/520"
+    ],
+    "reviews": [
+      "Trade consumer upon great some.",
+      "Like somebody college boy fight.",
+      "Mean far name recent market."
+    ]
+  },
+  {
+    "id": "place_116",
+    "name": "Meyer-Moore Cafe",
+    "description": "Better best chance blood. Product watch minute industry song support. Middle brother late candidate imagine staff much write.",
+    "tags": [
+      "vegan",
+      "open late",
+      "lunch",
+      "breakfast",
+      "luxury"
+    ],
+    "ambience": [
+      "bright",
+      "greenery",
+      "quiet"
+    ],
+    "popularity": "low",
+    "rating": 4.6,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "06:00",
+      "21:00"
+    ],
+    "lat": 10.777918,
+    "lon": 106.689642,
+    "busy_hours": [
+      21,
+      5,
+      0
+    ],
+    "photos": [
+      "https://placekitten.com/978/679",
+      "https://placekitten.com/654/552"
+    ],
+    "reviews": [
+      "Run recognize performance exactly election win participant.",
+      "Source magazine at.",
+      "Important cut skill concern soon think challenge despite."
+    ]
+  },
+  {
+    "id": "place_117",
+    "name": "Sweeney, Brown and Mccoy Cafe",
+    "description": "Before personal wait military financial difficult choose. Across new action account.\nAmerican Mr nearly.",
+    "tags": [
+      "bbq",
+      "air-conditioned",
+      "kid friendly",
+      "tea",
+      "wifi"
+    ],
+    "ambience": [
+      "quiet",
+      "dimly lit",
+      "modern"
+    ],
+    "popularity": "high",
+    "rating": 4.0,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "09:00",
+      "18:00"
+    ],
+    "lat": 10.76992,
+    "lon": 106.690529,
+    "busy_hours": [
+      2,
+      4,
+      0
+    ],
+    "photos": [
+      "https://placeimg.com/227/60/any",
+      "https://placeimg.com/349/66/any"
+    ],
+    "reviews": [
+      "Draw partner pay when.",
+      "Executive quickly never alone measure improve.",
+      "Past size water pressure fund no."
+    ]
+  },
+  {
+    "id": "place_118",
+    "name": "Berry-Hartman Cafe",
+    "description": "Way least night figure recently style share worry. Which politics let shake miss well. Design race think approach style.",
+    "tags": [
+      "casual",
+      "luxury",
+      "air-conditioned",
+      "outdoor seating",
+      "wifi"
+    ],
+    "ambience": [
+      "dimly lit",
+      "cozy",
+      "minimalist"
+    ],
+    "popularity": "high",
+    "rating": 4.7,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "07:00",
+      "21:00"
+    ],
+    "lat": 10.779861,
+    "lon": 106.700787,
+    "busy_hours": [
+      5,
+      14,
+      12
+    ],
+    "photos": [
+      "https://www.lorempixel.com/234/946",
+      "https://www.lorempixel.com/951/967"
+    ],
+    "reviews": [
+      "Hit article player meeting.",
+      "Like leg training forget industry only.",
+      "Grow level forget agent politics game me."
+    ]
+  },
+  {
+    "id": "place_119",
+    "name": "Macdonald-York Cafe",
+    "description": "Only television of effect safe will recent. Finally down south floor special indeed. Concern field another worker.",
+    "tags": [
+      "vegan",
+      "breakfast",
+      "lunch",
+      "coffee",
+      "bbq"
+    ],
+    "ambience": [
+      "vintage",
+      "modern",
+      "cozy"
+    ],
+    "popularity": "low",
+    "rating": 4.5,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "06:00",
+      "22:00"
+    ],
+    "lat": 10.78179,
+    "lon": 106.71149,
+    "busy_hours": [
+      10,
+      23,
+      19
+    ],
+    "photos": [
+      "https://www.lorempixel.com/306/237",
+      "https://placekitten.com/223/717"
+    ],
+    "reviews": [
+      "Hundred doctor have according behind building.",
+      "Society system walk political character team history.",
+      "White every new."
+    ]
+  },
+  {
+    "id": "place_120",
+    "name": "Atkinson, King and Bartlett Cafe",
+    "description": "National too method red. Few family director example.",
+    "tags": [
+      "lunch",
+      "vegan",
+      "pet friendly",
+      "open late",
+      "air-conditioned"
+    ],
+    "ambience": [
+      "minimalist",
+      "lively",
+      "bright"
+    ],
+    "popularity": "moderate",
+    "rating": 3.5,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "07:00",
+      "20:00"
+    ],
+    "lat": 10.783077,
+    "lon": 106.684836,
+    "busy_hours": [
+      16,
+      1,
+      10
+    ],
+    "photos": [
+      "https://placeimg.com/958/1/any",
+      "https://www.lorempixel.com/565/410"
+    ],
+    "reviews": [
+      "Exist though guess final.",
+      "Step likely research company agree difference total write.",
+      "Chair evening kitchen child."
+    ]
+  },
+  {
+    "id": "place_121",
+    "name": "Taylor PLC Cafe",
+    "description": "Mission recently court impact radio. Now food usually group large meeting. Table somebody western site long politics.",
+    "tags": [
+      "luxury",
+      "co-working",
+      "outdoor seating",
+      "kid friendly",
+      "bbq"
+    ],
+    "ambience": [
+      "vintage",
+      "bright",
+      "cozy"
+    ],
+    "popularity": "low",
+    "rating": 4.1,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "09:00",
+      "21:00"
+    ],
+    "lat": 10.790313,
+    "lon": 106.697075,
+    "busy_hours": [
+      12,
+      5,
+      8
+    ],
+    "photos": [
+      "https://dummyimage.com/125x911",
+      "https://placekitten.com/511/335"
+    ],
+    "reviews": [
+      "Statement ability music room involve serve threat.",
+      "Girl modern skin grow moment oil.",
+      "Popular nature most may nice somebody box dinner."
+    ]
+  },
+  {
+    "id": "place_122",
+    "name": "Cisneros-Gilbert Cafe",
+    "description": "Center there attention experience produce mother. Production court chair race. Per method develop miss. Nice land side different two company law.",
+    "tags": [
+      "breakfast",
+      "quiet",
+      "kid friendly",
+      "wifi",
+      "pet friendly"
+    ],
+    "ambience": [
+      "lively",
+      "modern",
+      "dimly lit"
+    ],
+    "popularity": "low",
+    "rating": 4.5,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "10:00",
+      "18:00"
+    ],
+    "lat": 10.788768,
+    "lon": 106.717704,
+    "busy_hours": [
+      16,
+      10,
+      20
+    ],
+    "photos": [
+      "https://dummyimage.com/725x265",
+      "https://placekitten.com/297/131"
+    ],
+    "reviews": [
+      "Her garden organization teacher professor star.",
+      "Final him view store reason agent listen.",
+      "By possible maintain blue very clear give."
+    ]
+  },
+  {
+    "id": "place_123",
+    "name": "Miller and Sons Cafe",
+    "description": "Event others then make democratic sit improve.\nSon speech respond explain. That Mrs else seat.\nWait cover old into approach who.",
+    "tags": [
+      "live music",
+      "lunch",
+      "casual",
+      "tea",
+      "dinner"
+    ],
+    "ambience": [
+      "quiet",
+      "modern",
+      "greenery"
+    ],
+    "popularity": "high",
+    "rating": 4.6,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "08:00",
+      "23:00"
+    ],
+    "lat": 10.792691,
+    "lon": 106.709919,
+    "busy_hours": [
+      1,
+      12,
+      2
+    ],
+    "photos": [
+      "https://www.lorempixel.com/612/457",
+      "https://placekitten.com/249/615"
+    ],
+    "reviews": [
+      "Project significant job.",
+      "Assume her answer exist.",
+      "Through painting rule suggest could southern buy."
+    ]
+  },
+  {
+    "id": "place_124",
+    "name": "Collins, Harper and Payne Cafe",
+    "description": "Morning ground rock scene meet they. Reflect debate six few agree nation.",
+    "tags": [
+      "co-working",
+      "dessert",
+      "outdoor seating",
+      "breakfast",
+      "dinner"
+    ],
+    "ambience": [
+      "cozy",
+      "dimly lit",
+      "minimalist"
+    ],
+    "popularity": "moderate",
+    "rating": 3.4,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "09:00",
+      "18:00"
+    ],
+    "lat": 10.762005,
+    "lon": 106.713662,
+    "busy_hours": [
+      23,
+      17,
+      18
+    ],
+    "photos": [
+      "https://www.lorempixel.com/432/202",
+      "https://placeimg.com/342/108/any"
+    ],
+    "reviews": [
+      "Stand deep certain television.",
+      "Speak one improve tonight partner.",
+      "Film young either defense plan service produce."
+    ]
+  },
+  {
+    "id": "place_125",
+    "name": "Jones-Hendricks Cafe",
+    "description": "Large another pretty home guess detail. State eight respond develop method. Another job dog meeting.",
+    "tags": [
+      "air-conditioned",
+      "casual",
+      "lunch",
+      "fast service",
+      "quiet"
+    ],
+    "ambience": [
+      "minimalist",
+      "dimly lit",
+      "modern"
+    ],
+    "popularity": "high",
+    "rating": 5.0,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "10:00",
+      "22:00"
+    ],
+    "lat": 10.787201,
+    "lon": 106.692934,
+    "busy_hours": [
+      18,
+      15,
+      3
+    ],
+    "photos": [
+      "https://placeimg.com/1017/217/any",
+      "https://dummyimage.com/625x922"
+    ],
+    "reviews": [
+      "Back city what exactly door fast.",
+      "Ready health serious skin.",
+      "Sea sister everyone office option."
+    ]
+  },
+  {
+    "id": "place_126",
+    "name": "Williams-Aguirre Cafe",
+    "description": "Positive wonder body. Difficult half last practice. True be couple not forget respond red.",
+    "tags": [
+      "breakfast",
+      "dinner",
+      "noodle",
+      "air-conditioned",
+      "dessert"
+    ],
+    "ambience": [
+      "lively",
+      "bright",
+      "vintage"
+    ],
+    "popularity": "high",
+    "rating": 3.5,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "09:00",
+      "22:00"
+    ],
+    "lat": 10.773545,
+    "lon": 106.689884,
+    "busy_hours": [
+      3,
+      19,
+      7
+    ],
+    "photos": [
+      "https://www.lorempixel.com/659/993",
+      "https://www.lorempixel.com/882/865"
+    ],
+    "reviews": [
+      "Agency arm off even financial artist man.",
+      "Lay politics tough song.",
+      "Should food value executive."
+    ]
+  },
+  {
+    "id": "place_127",
+    "name": "Hall-Hall Cafe",
+    "description": "Seek fly account rise economy appear make. Enough story rest song customer.\nStand five detail really hold dinner young artist.",
+    "tags": [
+      "outdoor seating",
+      "kid friendly",
+      "casual",
+      "noodle",
+      "tea"
+    ],
+    "ambience": [
+      "vibrant",
+      "dimly lit",
+      "modern"
+    ],
+    "popularity": "high",
+    "rating": 3.6,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "08:00",
+      "22:00"
+    ],
+    "lat": 10.779855,
+    "lon": 106.71227,
+    "busy_hours": [
+      18,
+      8,
+      19
+    ],
+    "photos": [
+      "https://placeimg.com/405/415/any",
+      "https://dummyimage.com/52x986"
+    ],
+    "reviews": [
+      "Form state record forget.",
+      "Tree protect impact yourself shake the provide.",
+      "Card well success every return require bar approach."
+    ]
+  },
+  {
+    "id": "place_128",
+    "name": "Hall, Huff and Robinson Cafe",
+    "description": "Late people his little garden difficult cell. Open rise short organization. These although law executive leader knowledge.",
+    "tags": [
+      "fast service",
+      "romantic",
+      "vegan",
+      "coffee",
+      "tea"
+    ],
+    "ambience": [
+      "quiet",
+      "bright",
+      "modern"
+    ],
+    "popularity": "low",
+    "rating": 4.7,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "07:00",
+      "20:00"
+    ],
+    "lat": 10.772459,
+    "lon": 106.71193,
+    "busy_hours": [
+      4,
+      0,
+      20
+    ],
+    "photos": [
+      "https://placekitten.com/439/435",
+      "https://placekitten.com/606/977"
+    ],
+    "reviews": [
+      "Represent list white goal former pull view.",
+      "News rise difference special.",
+      "Society physical camera onto difference film."
+    ]
+  },
+  {
+    "id": "place_129",
+    "name": "Espinoza and Sons Cafe",
+    "description": "Citizen ever term drop. Language offer range region strong you later.",
+    "tags": [
+      "open late",
+      "fast service",
+      "coffee",
+      "casual",
+      "kid friendly"
+    ],
+    "ambience": [
+      "modern",
+      "vintage",
+      "lively"
+    ],
+    "popularity": "high",
+    "rating": 3.2,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "09:00",
+      "19:00"
+    ],
+    "lat": 10.784472,
+    "lon": 106.689172,
+    "busy_hours": [
+      16,
+      9,
+      14
+    ],
+    "photos": [
+      "https://dummyimage.com/462x907",
+      "https://www.lorempixel.com/1005/763"
+    ],
+    "reviews": [
+      "From range put more out pass.",
+      "Require state find view along understand.",
+      "Such rise book fire."
+    ]
+  },
+  {
+    "id": "place_130",
+    "name": "Johnson Inc Cafe",
+    "description": "Use fine small national interesting. Receive country including local.\nCreate various paper imagine similar. Picture bed perhaps would attack.",
+    "tags": [
+      "kid friendly",
+      "vegan",
+      "pet friendly",
+      "wifi",
+      "noodle"
+    ],
+    "ambience": [
+      "quiet",
+      "vibrant",
+      "bright"
+    ],
+    "popularity": "low",
+    "rating": 3.1,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "07:00",
+      "19:00"
+    ],
+    "lat": 10.787902,
+    "lon": 106.684661,
+    "busy_hours": [
+      12,
+      22,
+      21
+    ],
+    "photos": [
+      "https://www.lorempixel.com/1023/495",
+      "https://placeimg.com/292/513/any"
+    ],
+    "reviews": [
+      "Everybody choice walk determine.",
+      "Smile late into six through serve.",
+      "Conference product beyond require modern born fear."
+    ]
+  },
+  {
+    "id": "place_131",
+    "name": "Schmidt-Smith Cafe",
+    "description": "Wrong site work whose concern here south. Health example want wide girl. Little still in box.",
+    "tags": [
+      "noodle",
+      "luxury",
+      "casual",
+      "pet friendly",
+      "outdoor seating"
+    ],
+    "ambience": [
+      "dimly lit",
+      "greenery",
+      "lively"
+    ],
+    "popularity": "high",
+    "rating": 3.6,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "06:00",
+      "21:00"
+    ],
+    "lat": 10.7822,
+    "lon": 106.707296,
+    "busy_hours": [
+      2,
+      22,
+      14
+    ],
+    "photos": [
+      "https://www.lorempixel.com/432/622",
+      "https://www.lorempixel.com/95/988"
+    ],
+    "reviews": [
+      "Enter list central.",
+      "Build structure threat available itself control decade.",
+      "Building hand source age list mother."
+    ]
+  },
+  {
+    "id": "place_132",
+    "name": "Burton, Morales and Santiago Cafe",
+    "description": "Whose seem kitchen rock. Sell rich our decide interview. Notice number executive boy these she TV.",
+    "tags": [
+      "casual",
+      "wifi",
+      "open late",
+      "lunch",
+      "quiet"
+    ],
+    "ambience": [
+      "minimalist",
+      "greenery",
+      "quiet"
+    ],
+    "popularity": "moderate",
+    "rating": 3.8,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "08:00",
+      "22:00"
+    ],
+    "lat": 10.773509,
+    "lon": 106.7074,
+    "busy_hours": [
+      6,
+      8,
+      23
+    ],
+    "photos": [
+      "https://www.lorempixel.com/867/181",
+      "https://placekitten.com/814/832"
+    ],
+    "reviews": [
+      "Firm recent book though.",
+      "Rate technology far goal.",
+      "Lose meet tell station Congress tree dog sound."
+    ]
+  },
+  {
+    "id": "place_133",
+    "name": "Higgins and Sons Cafe",
+    "description": "Friend life fish chair treat. General sing former. Everything more particularly fly wait safe degree your.",
+    "tags": [
+      "breakfast",
+      "casual",
+      "noodle",
+      "live music",
+      "wifi"
+    ],
+    "ambience": [
+      "greenery",
+      "bright",
+      "modern"
+    ],
+    "popularity": "moderate",
+    "rating": 3.4,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "08:00",
+      "22:00"
+    ],
+    "lat": 10.778983,
+    "lon": 106.714193,
+    "busy_hours": [
+      6,
+      9,
+      11
+    ],
+    "photos": [
+      "https://placeimg.com/34/229/any",
+      "https://www.lorempixel.com/983/172"
+    ],
+    "reviews": [
+      "Help easy rock require enter range.",
+      "Bill agreement memory number.",
+      "Class including build small pull ask."
+    ]
+  },
+  {
+    "id": "place_134",
+    "name": "Bruce PLC Cafe",
+    "description": "Scene mean turn help movie suggest four. Here quite base natural reality share. Whom throughout seat. Imagine common trade.",
+    "tags": [
+      "lunch",
+      "casual",
+      "dessert",
+      "air-conditioned",
+      "live music"
+    ],
+    "ambience": [
+      "dimly lit",
+      "modern",
+      "bright"
+    ],
+    "popularity": "high",
+    "rating": 3.1,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "07:00",
+      "22:00"
+    ],
+    "lat": 10.769591,
+    "lon": 106.708683,
+    "busy_hours": [
+      6,
+      22,
+      2
+    ],
+    "photos": [
+      "https://placekitten.com/959/259",
+      "https://www.lorempixel.com/966/920"
+    ],
+    "reviews": [
+      "Her great benefit.",
+      "Customer especially assume ahead sound laugh although.",
+      "Back start blood offer section market."
+    ]
+  },
+  {
+    "id": "place_135",
+    "name": "Johnson-Holloway Cafe",
+    "description": "Impact dinner second easy miss window machine. Computer expert poor court.",
+    "tags": [
+      "co-working",
+      "dessert",
+      "luxury",
+      "dinner",
+      "bbq"
+    ],
+    "ambience": [
+      "vintage",
+      "bright",
+      "cozy"
+    ],
+    "popularity": "moderate",
+    "rating": 4.2,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "08:00",
+      "19:00"
+    ],
+    "lat": 10.784773,
+    "lon": 106.696196,
+    "busy_hours": [
+      4,
+      2,
+      14
+    ],
+    "photos": [
+      "https://placeimg.com/722/391/any",
+      "https://dummyimage.com/476x670"
+    ],
+    "reviews": [
+      "Soon bring people one myself may.",
+      "Ago public news news color.",
+      "Candidate past long late make them."
+    ]
+  },
+  {
+    "id": "place_136",
+    "name": "Gallegos-Woodard Cafe",
+    "description": "Finally move leg grow born. Bring politics Mr doctor care. Picture performance few indicate writer inside appear.",
+    "tags": [
+      "co-working",
+      "fast service",
+      "lunch",
+      "breakfast",
+      "open late"
+    ],
+    "ambience": [
+      "quiet",
+      "minimalist",
+      "vibrant"
+    ],
+    "popularity": "low",
+    "rating": 4.0,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "09:00",
+      "18:00"
+    ],
+    "lat": 10.787664,
+    "lon": 106.712764,
+    "busy_hours": [
+      4,
+      11,
+      18
+    ],
+    "photos": [
+      "https://placekitten.com/242/781",
+      "https://dummyimage.com/92x410"
+    ],
+    "reviews": [
+      "Gun fall property door customer paper weight bad.",
+      "Despite radio get near training learn worry.",
+      "Mean product within finish month."
+    ]
+  },
+  {
+    "id": "place_137",
+    "name": "Cox PLC Cafe",
+    "description": "Audience just ahead staff window final idea. Nature leader my.",
+    "tags": [
+      "romantic",
+      "air-conditioned",
+      "outdoor seating",
+      "bbq",
+      "fast service"
+    ],
+    "ambience": [
+      "vibrant",
+      "vintage",
+      "lively"
+    ],
+    "popularity": "high",
+    "rating": 4.7,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "08:00",
+      "21:00"
+    ],
+    "lat": 10.782152,
+    "lon": 106.695004,
+    "busy_hours": [
+      11,
+      1,
+      14
+    ],
+    "photos": [
+      "https://placeimg.com/289/250/any",
+      "https://placeimg.com/356/771/any"
+    ],
+    "reviews": [
+      "Trip Congress doctor green concern education idea.",
+      "Alone identify position customer effort give.",
+      "Them deal plant either effort so crime."
+    ]
+  },
+  {
+    "id": "place_138",
+    "name": "Trevino-Kennedy Cafe",
+    "description": "Trial everybody short leader owner long respond. Fear bring art any central any. Good sound article measure sure risk according.",
+    "tags": [
+      "bbq",
+      "coffee",
+      "breakfast",
+      "lunch",
+      "kid friendly"
+    ],
+    "ambience": [
+      "lively",
+      "minimalist",
+      "modern"
+    ],
+    "popularity": "moderate",
+    "rating": 4.0,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "06:00",
+      "22:00"
+    ],
+    "lat": 10.774974,
+    "lon": 106.716443,
+    "busy_hours": [
+      2,
+      0,
+      21
+    ],
+    "photos": [
+      "https://placekitten.com/190/946",
+      "https://placekitten.com/424/227"
+    ],
+    "reviews": [
+      "Season list along good firm politics.",
+      "Career director act clear.",
+      "Item represent prepare poor your agent."
+    ]
+  },
+  {
+    "id": "place_139",
+    "name": "Mckee-Carter Cafe",
+    "description": "Town reduce place just technology. Half data customer. Pay town best.",
+    "tags": [
+      "fast service",
+      "bbq",
+      "pet friendly",
+      "lunch",
+      "open late"
+    ],
+    "ambience": [
+      "cozy",
+      "modern",
+      "dimly lit"
+    ],
+    "popularity": "low",
+    "rating": 4.0,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "09:00",
+      "21:00"
+    ],
+    "lat": 10.767947,
+    "lon": 106.690583,
+    "busy_hours": [
+      22,
+      17,
+      3
+    ],
+    "photos": [
+      "https://placeimg.com/910/392/any",
+      "https://placeimg.com/660/435/any"
+    ],
+    "reviews": [
+      "Agree society respond think.",
+      "Respond base professional enjoy ago.",
+      "Unit whatever art people sense with watch."
+    ]
+  },
+  {
+    "id": "place_140",
+    "name": "Marks Inc Cafe",
+    "description": "Understand next scene through group public. Next foot expect computer Mr. Little suffer talk mean life.",
+    "tags": [
+      "bbq",
+      "tea",
+      "outdoor seating",
+      "open late",
+      "kid friendly"
+    ],
+    "ambience": [
+      "vintage",
+      "bright",
+      "lively"
+    ],
+    "popularity": "low",
+    "rating": 4.0,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "07:00",
+      "22:00"
+    ],
+    "lat": 10.77302,
+    "lon": 106.6909,
+    "busy_hours": [
+      22,
+      19,
+      23
+    ],
+    "photos": [
+      "https://placeimg.com/985/185/any",
+      "https://placekitten.com/30/657"
+    ],
+    "reviews": [
+      "Energy while experience think college where artist.",
+      "Design choice mother paper guess history arm.",
+      "Natural fly past will compare share."
+    ]
+  },
+  {
+    "id": "place_141",
+    "name": "Tran-Hansen Cafe",
+    "description": "Style senior box with almost life. Go you market include among thing rock yes. Know term away leader evening carry. Week across newspaper I.",
+    "tags": [
+      "noodle",
+      "quiet",
+      "lunch",
+      "fast service",
+      "tea"
+    ],
+    "ambience": [
+      "quiet",
+      "dimly lit",
+      "vintage"
+    ],
+    "popularity": "moderate",
+    "rating": 3.5,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "08:00",
+      "22:00"
+    ],
+    "lat": 10.76897,
+    "lon": 106.689481,
+    "busy_hours": [
+      14,
+      11,
+      6
+    ],
+    "photos": [
+      "https://placekitten.com/924/199",
+      "https://www.lorempixel.com/847/166"
+    ],
+    "reviews": [
+      "Sea community trouble raise city control.",
+      "They a defense number about too.",
+      "Station eye fire expect give citizen."
+    ]
+  },
+  {
+    "id": "place_142",
+    "name": "Williams, Harris and Meyer Cafe",
+    "description": "Road former later staff success far. Surface nothing sure exist relate.",
+    "tags": [
+      "vegan",
+      "dinner",
+      "co-working",
+      "bbq",
+      "live music"
+    ],
+    "ambience": [
+      "quiet",
+      "dimly lit",
+      "vibrant"
+    ],
+    "popularity": "low",
+    "rating": 3.5,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "08:00",
+      "22:00"
+    ],
+    "lat": 10.774416,
+    "lon": 106.688225,
+    "busy_hours": [
+      9,
+      7,
+      15
+    ],
+    "photos": [
+      "https://placekitten.com/292/2",
+      "https://www.lorempixel.com/648/442"
+    ],
+    "reviews": [
+      "Religious personal exist your long over east.",
+      "Impact around agency year poor know.",
+      "Pay treat Mrs."
+    ]
+  },
+  {
+    "id": "place_143",
+    "name": "Edwards-Smith Cafe",
+    "description": "Name key commercial machine. Half beyond ago list weight common deep. Seem deep father both any every true. Building stand shoulder to not.",
+    "tags": [
+      "dessert",
+      "bbq",
+      "lunch",
+      "wifi",
+      "outdoor seating"
+    ],
+    "ambience": [
+      "lively",
+      "dimly lit",
+      "cozy"
+    ],
+    "popularity": "low",
+    "rating": 4.0,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "08:00",
+      "20:00"
+    ],
+    "lat": 10.769701,
+    "lon": 106.694669,
+    "busy_hours": [
+      21,
+      4,
+      9
+    ],
+    "photos": [
+      "https://placekitten.com/584/607",
+      "https://placekitten.com/798/689"
+    ],
+    "reviews": [
+      "Democratic join institution computer.",
+      "Information another cup store and best.",
+      "Final indicate if paper."
+    ]
+  },
+  {
+    "id": "place_144",
+    "name": "Ryan, Campos and Williams Cafe",
+    "description": "Free already thought and final candidate reach. Choice thing cause series himself month financial.",
+    "tags": [
+      "outdoor seating",
+      "romantic",
+      "pet friendly",
+      "breakfast",
+      "quiet"
+    ],
+    "ambience": [
+      "vintage",
+      "quiet",
+      "bright"
+    ],
+    "popularity": "moderate",
+    "rating": 4.0,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "10:00",
+      "21:00"
+    ],
+    "lat": 10.771254,
+    "lon": 106.684841,
+    "busy_hours": [
+      6,
+      3,
+      13
+    ],
+    "photos": [
+      "https://placeimg.com/490/84/any",
+      "https://www.lorempixel.com/927/873"
+    ],
+    "reviews": [
+      "Dinner purpose consumer five wonder a.",
+      "Republican ability seek.",
+      "Sell cultural friend establish agent low."
+    ]
+  },
+  {
+    "id": "place_145",
+    "name": "Wright-Watson Cafe",
+    "description": "Can dark job establish. Production instead cause marriage then same. Morning body always those air public better hour.",
+    "tags": [
+      "coffee",
+      "dinner",
+      "vegan",
+      "tea",
+      "fast service"
+    ],
+    "ambience": [
+      "bright",
+      "vibrant",
+      "lively"
+    ],
+    "popularity": "high",
+    "rating": 3.2,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "08:00",
+      "18:00"
+    ],
+    "lat": 10.794334,
+    "lon": 106.712537,
+    "busy_hours": [
+      9,
+      1,
+      0
+    ],
+    "photos": [
+      "https://placekitten.com/559/1002",
+      "https://www.lorempixel.com/834/428"
+    ],
+    "reviews": [
+      "Remember despite produce executive civil as leader.",
+      "Thing identify station lot rate late.",
+      "Forward my resource another."
+    ]
+  },
+  {
+    "id": "place_146",
+    "name": "Larsen and Sons Cafe",
+    "description": "Order off cost drive beautiful be. Whole bring teach Mrs environment. Sport focus realize agree bed.",
+    "tags": [
+      "noodle",
+      "dinner",
+      "live music",
+      "vegan",
+      "wifi"
+    ],
+    "ambience": [
+      "greenery",
+      "vibrant",
+      "bright"
+    ],
+    "popularity": "low",
+    "rating": 4.6,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "06:00",
+      "20:00"
+    ],
+    "lat": 10.790174,
+    "lon": 106.717673,
+    "busy_hours": [
+      7,
+      2,
+      18
+    ],
+    "photos": [
+      "https://dummyimage.com/897x171",
+      "https://placekitten.com/484/482"
+    ],
+    "reviews": [
+      "Since guess worry decade now.",
+      "Onto set hand laugh summer soon likely.",
+      "Spend sort daughter performance."
+    ]
+  },
+  {
+    "id": "place_147",
+    "name": "Castro-May Cafe",
+    "description": "Heavy possible never that note nothing appear. Offer wish glass nearly. Return a increase paper during. Media question heart.",
+    "tags": [
+      "luxury",
+      "air-conditioned",
+      "dinner",
+      "live music",
+      "quiet"
+    ],
+    "ambience": [
+      "vintage",
+      "quiet",
+      "bright"
+    ],
+    "popularity": "moderate",
+    "rating": 4.8,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "09:00",
+      "19:00"
+    ],
+    "lat": 10.76346,
+    "lon": 106.712164,
+    "busy_hours": [
+      6,
+      12,
+      18
+    ],
+    "photos": [
+      "https://placekitten.com/942/331",
+      "https://placekitten.com/307/258"
+    ],
+    "reviews": [
+      "Reality even fly shoulder.",
+      "Simply step give model benefit.",
+      "Everybody treat your little face character."
+    ]
+  },
+  {
+    "id": "place_148",
+    "name": "Roberts, Petersen and Black Cafe",
+    "description": "Suggest up moment remember list. Character reduce window usually. Effort often thus hold.\nSection must family. Test article charge floor fill run.",
+    "tags": [
+      "quiet",
+      "fast service",
+      "vegan",
+      "air-conditioned",
+      "tea"
+    ],
+    "ambience": [
+      "minimalist",
+      "bright",
+      "dimly lit"
+    ],
+    "popularity": "high",
+    "rating": 4.1,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "07:00",
+      "22:00"
+    ],
+    "lat": 10.766112,
+    "lon": 106.689297,
+    "busy_hours": [
+      0,
+      23,
+      2
+    ],
+    "photos": [
+      "https://dummyimage.com/384x651",
+      "https://placekitten.com/531/750"
+    ],
+    "reviews": [
+      "Break view already.",
+      "Future in local design although third north white.",
+      "Now will a."
+    ]
+  },
+  {
+    "id": "place_149",
+    "name": "Austin, Gonzales and Austin Cafe",
+    "description": "Last image would while. Body onto forward artist.\nSon do develop.",
+    "tags": [
+      "air-conditioned",
+      "co-working",
+      "coffee",
+      "quiet",
+      "wifi"
+    ],
+    "ambience": [
+      "lively",
+      "quiet",
+      "vibrant"
+    ],
+    "popularity": "moderate",
+    "rating": 3.9,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "10:00",
+      "21:00"
+    ],
+    "lat": 10.783415,
+    "lon": 106.69881,
+    "busy_hours": [
+      6,
+      3,
+      17
+    ],
+    "photos": [
+      "https://dummyimage.com/773x583",
+      "https://placeimg.com/286/719/any"
+    ],
+    "reviews": [
+      "Once never strong natural top start never.",
+      "Down leave positive middle.",
+      "Term stage yes truth must red."
+    ]
+  },
+  {
+    "id": "place_150",
+    "name": "Crawford Ltd Cafe",
+    "description": "Onto teacher money. Positive raise possible care. Result another course rather building able.",
+    "tags": [
+      "fast service",
+      "casual",
+      "breakfast",
+      "co-working",
+      "air-conditioned"
+    ],
+    "ambience": [
+      "minimalist",
+      "modern",
+      "vibrant"
+    ],
+    "popularity": "moderate",
+    "rating": 4.1,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "09:00",
+      "19:00"
+    ],
+    "lat": 10.77356,
+    "lon": 106.696466,
+    "busy_hours": [
+      21,
+      22,
+      10
+    ],
+    "photos": [
+      "https://www.lorempixel.com/263/161",
+      "https://www.lorempixel.com/179/373"
+    ],
+    "reviews": [
+      "Unit dinner college business where person.",
+      "Car fish final project develop true enter.",
+      "Land official everyone."
+    ]
+  },
+  {
+    "id": "place_151",
+    "name": "Wilson, Jones and Hayden Cafe",
+    "description": "Pay religious face guess. Everyone know there usually.\nAddress matter series hard happen water.",
+    "tags": [
+      "air-conditioned",
+      "lunch",
+      "wifi",
+      "kid friendly",
+      "casual"
+    ],
+    "ambience": [
+      "modern",
+      "dimly lit",
+      "cozy"
+    ],
+    "popularity": "moderate",
+    "rating": 3.1,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "08:00",
+      "18:00"
+    ],
+    "lat": 10.771923,
+    "lon": 106.700965,
+    "busy_hours": [
+      16,
+      11,
+      1
+    ],
+    "photos": [
+      "https://dummyimage.com/881x404",
+      "https://www.lorempixel.com/1009/934"
+    ],
+    "reviews": [
+      "Test coach his executive vote.",
+      "Order build him land.",
+      "Interesting foot hit his event."
+    ]
+  },
+  {
+    "id": "place_152",
+    "name": "Callahan LLC Cafe",
+    "description": "Movement anything tonight pretty expect. Many strong fight pretty worry your. Close team teacher structure.",
+    "tags": [
+      "tea",
+      "outdoor seating",
+      "fast service",
+      "romantic",
+      "open late"
+    ],
+    "ambience": [
+      "quiet",
+      "bright",
+      "minimalist"
+    ],
+    "popularity": "low",
+    "rating": 4.0,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "07:00",
+      "23:00"
+    ],
+    "lat": 10.775357,
+    "lon": 106.714131,
+    "busy_hours": [
+      4,
+      11,
+      22
+    ],
+    "photos": [
+      "https://dummyimage.com/445x741",
+      "https://dummyimage.com/557x735"
+    ],
+    "reviews": [
+      "Talk hotel boy later science.",
+      "Instead parent investment economic big.",
+      "Every discussion difficult among every better pull street."
+    ]
+  },
+  {
+    "id": "place_153",
+    "name": "Nguyen Inc Cafe",
+    "description": "Several claim situation ability maintain. Last sure number window put.",
+    "tags": [
+      "quiet",
+      "vegan",
+      "wifi",
+      "luxury",
+      "bbq"
+    ],
+    "ambience": [
+      "modern",
+      "bright",
+      "dimly lit"
+    ],
+    "popularity": "low",
+    "rating": 3.6,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "06:00",
+      "21:00"
+    ],
+    "lat": 10.761999,
+    "lon": 106.707432,
+    "busy_hours": [
+      8,
+      22,
+      13
+    ],
+    "photos": [
+      "https://placeimg.com/684/89/any",
+      "https://dummyimage.com/53x953"
+    ],
+    "reviews": [
+      "Stage feel social until happen eat together.",
+      "Parent thing again.",
+      "Necessary less mind feeling science."
+    ]
+  },
+  {
+    "id": "place_154",
+    "name": "Barker Group Cafe",
+    "description": "Interesting also voice common style project ten interest. Class image game together theory admit.",
+    "tags": [
+      "casual",
+      "live music",
+      "fast service",
+      "luxury",
+      "romantic"
+    ],
+    "ambience": [
+      "vibrant",
+      "quiet",
+      "modern"
+    ],
+    "popularity": "moderate",
+    "rating": 4.8,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "10:00",
+      "23:00"
+    ],
+    "lat": 10.788802,
+    "lon": 106.70187,
+    "busy_hours": [
+      16,
+      15,
+      2
+    ],
+    "photos": [
+      "https://www.lorempixel.com/260/962",
+      "https://dummyimage.com/523x825"
+    ],
+    "reviews": [
+      "Picture energy which agree.",
+      "Page against grow.",
+      "Land physical case another despite."
+    ]
+  },
+  {
+    "id": "place_155",
+    "name": "Lewis, Mann and Armstrong Cafe",
+    "description": "At experience past mouth. By view election myself herself.\nTheory low in four about cover. Go Democrat final a imagine article.",
+    "tags": [
+      "lunch",
+      "outdoor seating",
+      "live music",
+      "breakfast",
+      "casual"
+    ],
+    "ambience": [
+      "dimly lit",
+      "vibrant",
+      "cozy"
+    ],
+    "popularity": "moderate",
+    "rating": 4.1,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "08:00",
+      "20:00"
+    ],
+    "lat": 10.793915,
+    "lon": 106.701039,
+    "busy_hours": [
+      1,
+      2,
+      19
+    ],
+    "photos": [
+      "https://placekitten.com/40/477",
+      "https://dummyimage.com/887x148"
+    ],
+    "reviews": [
+      "Democrat detail technology determine want everyone officer world.",
+      "Know remain firm carry pretty center.",
+      "Successful different a recent find."
+    ]
+  },
+  {
+    "id": "place_156",
+    "name": "Rocha-Noble Cafe",
+    "description": "Wonder ask commercial hot area only. Student throw bag field of information. Song nature bad relationship affect she certain.",
+    "tags": [
+      "open late",
+      "outdoor seating",
+      "vegan",
+      "co-working",
+      "lunch"
+    ],
+    "ambience": [
+      "vibrant",
+      "greenery",
+      "vintage"
+    ],
+    "popularity": "moderate",
+    "rating": 4.8,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "10:00",
+      "19:00"
+    ],
+    "lat": 10.775398,
+    "lon": 106.703098,
+    "busy_hours": [
+      0,
+      12,
+      7
+    ],
+    "photos": [
+      "https://placekitten.com/522/801",
+      "https://placekitten.com/804/163"
+    ],
+    "reviews": [
+      "Room behind safe against leave growth.",
+      "Send college key enjoy.",
+      "Necessary say most food."
+    ]
+  },
+  {
+    "id": "place_157",
+    "name": "Thompson-Jackson Cafe",
+    "description": "Too color worry despite quality budget front room. Moment strong still generation deep. On each develop tonight laugh. Son fine heart.",
+    "tags": [
+      "noodle",
+      "romantic",
+      "dinner",
+      "co-working",
+      "pet friendly"
+    ],
+    "ambience": [
+      "dimly lit",
+      "greenery",
+      "minimalist"
+    ],
+    "popularity": "high",
+    "rating": 4.7,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "08:00",
+      "18:00"
+    ],
+    "lat": 10.773629,
+    "lon": 106.712446,
+    "busy_hours": [
+      16,
+      10,
+      11
+    ],
+    "photos": [
+      "https://dummyimage.com/585x1021",
+      "https://placekitten.com/233/106"
+    ],
+    "reviews": [
+      "Raise but tend why medical.",
+      "Ten each training including campaign party father.",
+      "Listen statement whole blue same character."
+    ]
+  },
+  {
+    "id": "place_158",
+    "name": "Medina, Rose and Dunn Cafe",
+    "description": "Smile do stage. Require spend what big whom.\nPoint yard create find former sea record national. Player election clear contain add describe.",
+    "tags": [
+      "air-conditioned",
+      "open late",
+      "breakfast",
+      "co-working",
+      "fast service"
+    ],
+    "ambience": [
+      "bright",
+      "minimalist",
+      "modern"
+    ],
+    "popularity": "high",
+    "rating": 4.8,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "09:00",
+      "21:00"
+    ],
+    "lat": 10.773082,
+    "lon": 106.696177,
+    "busy_hours": [
+      15,
+      0,
+      19
+    ],
+    "photos": [
+      "https://dummyimage.com/939x673",
+      "https://placekitten.com/171/304"
+    ],
+    "reviews": [
+      "On yeah how kid room.",
+      "Order partner that.",
+      "Environment where camera media take understand president."
+    ]
+  },
+  {
+    "id": "place_159",
+    "name": "Perkins, Perez and Allen Cafe",
+    "description": "Reduce notice seem group say doctor. Benefit nor season small.\nSkill by generation help always effect themselves.",
+    "tags": [
+      "noodle",
+      "air-conditioned",
+      "luxury",
+      "breakfast",
+      "quiet"
+    ],
+    "ambience": [
+      "vintage",
+      "vibrant",
+      "cozy"
+    ],
+    "popularity": "moderate",
+    "rating": 4.8,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "07:00",
+      "19:00"
+    ],
+    "lat": 10.791628,
+    "lon": 106.68586,
+    "busy_hours": [
+      22,
+      14,
+      15
+    ],
+    "photos": [
+      "https://placeimg.com/608/145/any",
+      "https://dummyimage.com/868x784"
+    ],
+    "reviews": [
+      "Clear easy see.",
+      "Quality church treat discuss play market.",
+      "Pressure however scene theory look."
+    ]
+  },
+  {
+    "id": "place_160",
+    "name": "Lewis, Jacobs and Morton Cafe",
+    "description": "Position story tree only. Create site professional blue.",
+    "tags": [
+      "noodle",
+      "luxury",
+      "vegan",
+      "coffee",
+      "kid friendly"
+    ],
+    "ambience": [
+      "cozy",
+      "vibrant",
+      "lively"
+    ],
+    "popularity": "moderate",
+    "rating": 4.2,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "07:00",
+      "22:00"
+    ],
+    "lat": 10.768671,
+    "lon": 106.709441,
+    "busy_hours": [
+      6,
+      8,
+      2
+    ],
+    "photos": [
+      "https://dummyimage.com/9x463",
+      "https://www.lorempixel.com/575/175"
+    ],
+    "reviews": [
+      "Reach find control point research.",
+      "Record very visit support technology.",
+      "Wind into policy three full."
+    ]
+  },
+  {
+    "id": "place_161",
+    "name": "Moyer PLC Cafe",
+    "description": "Since forget treat research mother play keep. Best world often scene wind do exist reflect. Let despite record reach.",
+    "tags": [
+      "romantic",
+      "outdoor seating",
+      "wifi",
+      "vegan",
+      "coffee"
+    ],
+    "ambience": [
+      "vintage",
+      "lively",
+      "vibrant"
+    ],
+    "popularity": "moderate",
+    "rating": 3.7,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "06:00",
+      "20:00"
+    ],
+    "lat": 10.779914,
+    "lon": 106.683686,
+    "busy_hours": [
+      4,
+      15,
+      9
+    ],
+    "photos": [
+      "https://placeimg.com/881/794/any",
+      "https://placeimg.com/764/594/any"
+    ],
+    "reviews": [
+      "Role however drive explain car believe him.",
+      "Building way defense institution beautiful play.",
+      "These feeling American all he leg feeling at."
+    ]
+  },
+  {
+    "id": "place_162",
+    "name": "Williams, Morris and Cochran Cafe",
+    "description": "Short thousand scene try quality mouth. Better they professional week.\nRelate peace class case hand space.",
+    "tags": [
+      "outdoor seating",
+      "coffee",
+      "fast service",
+      "breakfast",
+      "live music"
+    ],
+    "ambience": [
+      "greenery",
+      "vintage",
+      "lively"
+    ],
+    "popularity": "low",
+    "rating": 3.8,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "10:00",
+      "21:00"
+    ],
+    "lat": 10.77725,
+    "lon": 106.703842,
+    "busy_hours": [
+      9,
+      20,
+      5
+    ],
+    "photos": [
+      "https://dummyimage.com/935x680",
+      "https://dummyimage.com/779x465"
+    ],
+    "reviews": [
+      "Difference factor evening capital ask explain.",
+      "Product use six ok quickly born.",
+      "Charge brother who."
+    ]
+  },
+  {
+    "id": "place_163",
+    "name": "Franklin, Williams and Gutierrez Cafe",
+    "description": "Top eye success four ready agent require. Interview foreign make.",
+    "tags": [
+      "dessert",
+      "breakfast",
+      "casual",
+      "bbq",
+      "pet friendly"
+    ],
+    "ambience": [
+      "quiet",
+      "greenery",
+      "minimalist"
+    ],
+    "popularity": "high",
+    "rating": 4.8,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "08:00",
+      "23:00"
+    ],
+    "lat": 10.790052,
+    "lon": 106.712252,
+    "busy_hours": [
+      14,
+      2,
+      9
+    ],
+    "photos": [
+      "https://dummyimage.com/582x314",
+      "https://placeimg.com/523/453/any"
+    ],
+    "reviews": [
+      "President TV wish.",
+      "Inside seven life feeling yard west challenge.",
+      "Also catch social whose me."
+    ]
+  },
+  {
+    "id": "place_164",
+    "name": "Baker Group Cafe",
+    "description": "Increase agency consider health. Tv whether pattern walk.\nNation television head simple office. Reduce garden assume style consumer.",
+    "tags": [
+      "lunch",
+      "vegan",
+      "pet friendly",
+      "tea",
+      "dessert"
+    ],
+    "ambience": [
+      "bright",
+      "modern",
+      "vibrant"
+    ],
+    "popularity": "low",
+    "rating": 4.9,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "08:00",
+      "19:00"
+    ],
+    "lat": 10.78547,
+    "lon": 106.702334,
+    "busy_hours": [
+      1,
+      14,
+      23
+    ],
+    "photos": [
+      "https://www.lorempixel.com/541/608",
+      "https://www.lorempixel.com/948/30"
+    ],
+    "reviews": [
+      "Hold executive although rock table fall hard.",
+      "Far commercial heavy them anything.",
+      "Stage management town project president full budget."
+    ]
+  },
+  {
+    "id": "place_165",
+    "name": "Perez, Martin and Fuller Cafe",
+    "description": "Suffer study film. Summer but seek office in political. Nearly part south just career everything cut forget. Blood glass show statement significant.",
+    "tags": [
+      "air-conditioned",
+      "outdoor seating",
+      "breakfast",
+      "coffee",
+      "lunch"
+    ],
+    "ambience": [
+      "lively",
+      "cozy",
+      "dimly lit"
+    ],
+    "popularity": "moderate",
+    "rating": 3.8,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "08:00",
+      "21:00"
+    ],
+    "lat": 10.787044,
+    "lon": 106.706122,
+    "busy_hours": [
+      11,
+      5,
+      8
+    ],
+    "photos": [
+      "https://dummyimage.com/12x863",
+      "https://placeimg.com/590/547/any"
+    ],
+    "reviews": [
+      "Run appear pattern service attorney actually last.",
+      "Weight consider large always continue language eye.",
+      "Factor month remember occur such subject."
+    ]
+  },
+  {
+    "id": "place_166",
+    "name": "Henry and Sons Cafe",
+    "description": "Direction another television star policy believe. Series hit left. Fall the field perform become.",
+    "tags": [
+      "luxury",
+      "outdoor seating",
+      "bbq",
+      "vegan",
+      "breakfast"
+    ],
+    "ambience": [
+      "quiet",
+      "bright",
+      "vintage"
+    ],
+    "popularity": "moderate",
+    "rating": 3.0,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "06:00",
+      "19:00"
+    ],
+    "lat": 10.78562,
+    "lon": 106.712159,
+    "busy_hours": [
+      0,
+      19,
+      12
+    ],
+    "photos": [
+      "https://www.lorempixel.com/791/326",
+      "https://placeimg.com/276/413/any"
+    ],
+    "reviews": [
+      "Difficult collection out ago order imagine.",
+      "Office note them capital dog rule fine.",
+      "Do event institution sea performance suggest."
+    ]
+  },
+  {
+    "id": "place_167",
+    "name": "Cooper, Conner and Singh Cafe",
+    "description": "Law increase say action focus watch order. Onto off truth mouth oil protect then.",
+    "tags": [
+      "live music",
+      "kid friendly",
+      "bbq",
+      "romantic",
+      "dinner"
+    ],
+    "ambience": [
+      "minimalist",
+      "quiet",
+      "cozy"
+    ],
+    "popularity": "low",
+    "rating": 3.7,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "06:00",
+      "20:00"
+    ],
+    "lat": 10.788546,
+    "lon": 106.687628,
+    "busy_hours": [
+      9,
+      10,
+      17
+    ],
+    "photos": [
+      "https://www.lorempixel.com/515/737",
+      "https://placeimg.com/992/157/any"
+    ],
+    "reviews": [
+      "Must Congress camera operation begin around matter.",
+      "Accept goal response house.",
+      "Trade claim art apply fast."
+    ]
+  },
+  {
+    "id": "place_168",
+    "name": "Sullivan, Smith and Guerrero Cafe",
+    "description": "Thank stuff clearly order. Action fill beautiful teacher.\nWhose model rich eye firm difference. Sit care expert.",
+    "tags": [
+      "live music",
+      "wifi",
+      "lunch",
+      "kid friendly",
+      "noodle"
+    ],
+    "ambience": [
+      "lively",
+      "vibrant",
+      "dimly lit"
+    ],
+    "popularity": "moderate",
+    "rating": 3.4,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "06:00",
+      "22:00"
+    ],
+    "lat": 10.785628,
+    "lon": 106.706468,
+    "busy_hours": [
+      21,
+      11,
+      9
+    ],
+    "photos": [
+      "https://www.lorempixel.com/930/549",
+      "https://www.lorempixel.com/369/340"
+    ],
+    "reviews": [
+      "Commercial usually newspaper.",
+      "Door foreign address without remain left concern.",
+      "Call little chair professor."
+    ]
+  },
+  {
+    "id": "place_169",
+    "name": "Sanford, Howell and Evans Cafe",
+    "description": "Town red force. Role week room purpose service number success. Who commercial far executive film.",
+    "tags": [
+      "dessert",
+      "live music",
+      "tea",
+      "romantic",
+      "air-conditioned"
+    ],
+    "ambience": [
+      "greenery",
+      "bright",
+      "quiet"
+    ],
+    "popularity": "high",
+    "rating": 3.5,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "06:00",
+      "20:00"
+    ],
+    "lat": 10.792512,
+    "lon": 106.709906,
+    "busy_hours": [
+      20,
+      2,
+      13
+    ],
+    "photos": [
+      "https://www.lorempixel.com/194/309",
+      "https://www.lorempixel.com/727/776"
+    ],
+    "reviews": [
+      "Large source return fast guess investment.",
+      "Crime billion thus others son heavy first local.",
+      "Who manager fight fall."
+    ]
+  },
+  {
+    "id": "place_170",
+    "name": "Frost PLC Cafe",
+    "description": "Debate approach perform dark.\nAdd feeling key one chair again.",
+    "tags": [
+      "dinner",
+      "live music",
+      "luxury",
+      "kid friendly",
+      "outdoor seating"
+    ],
+    "ambience": [
+      "cozy",
+      "vibrant",
+      "lively"
+    ],
+    "popularity": "low",
+    "rating": 4.0,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "07:00",
+      "18:00"
+    ],
+    "lat": 10.762325,
+    "lon": 106.69624,
+    "busy_hours": [
+      8,
+      19,
+      18
+    ],
+    "photos": [
+      "https://www.lorempixel.com/80/293",
+      "https://placekitten.com/937/868"
+    ],
+    "reviews": [
+      "Between book seek reach dinner.",
+      "Avoid trial scientist brother their.",
+      "Laugh three reality responsibility benefit."
+    ]
+  },
+  {
+    "id": "place_171",
+    "name": "Potter, Martin and Weiss Cafe",
+    "description": "Success nor want speech throw push consider. Much necessary page however talk me job.",
+    "tags": [
+      "casual",
+      "wifi",
+      "luxury",
+      "breakfast",
+      "kid friendly"
+    ],
+    "ambience": [
+      "cozy",
+      "greenery",
+      "vibrant"
+    ],
+    "popularity": "high",
+    "rating": 3.9,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "07:00",
+      "21:00"
+    ],
+    "lat": 10.771309,
+    "lon": 106.713887,
+    "busy_hours": [
+      20,
+      22,
+      12
+    ],
+    "photos": [
+      "https://dummyimage.com/917x745",
+      "https://www.lorempixel.com/524/89"
+    ],
+    "reviews": [
+      "Including probably food pattern position lose method.",
+      "I husband animal teach economy truth blue condition.",
+      "Somebody television benefit life how."
+    ]
+  },
+  {
+    "id": "place_172",
+    "name": "Kerr PLC Cafe",
+    "description": "Life show get exist.\nCondition since step behind. Evidence hear art wear mention there can find. Near expect red agree result relate success reality.",
+    "tags": [
+      "bbq",
+      "dinner",
+      "outdoor seating",
+      "luxury",
+      "vegan"
+    ],
+    "ambience": [
+      "vibrant",
+      "vintage",
+      "dimly lit"
+    ],
+    "popularity": "moderate",
+    "rating": 4.0,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "09:00",
+      "19:00"
+    ],
+    "lat": 10.789016,
+    "lon": 106.696819,
+    "busy_hours": [
+      12,
+      0,
+      3
+    ],
+    "photos": [
+      "https://placeimg.com/235/510/any",
+      "https://www.lorempixel.com/521/60"
+    ],
+    "reviews": [
+      "Seek successful environmental ask space.",
+      "Democratic room true yourself while.",
+      "City best discussion one."
+    ]
+  },
+  {
+    "id": "place_173",
+    "name": "Spencer-Ward Cafe",
+    "description": "Movie free authority learn get job receive test.\nAudience heavy claim friend. Back bad only different newspaper month PM.",
+    "tags": [
+      "casual",
+      "pet friendly",
+      "air-conditioned",
+      "lunch",
+      "luxury"
+    ],
+    "ambience": [
+      "dimly lit",
+      "greenery",
+      "cozy"
+    ],
+    "popularity": "low",
+    "rating": 4.7,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "07:00",
+      "21:00"
+    ],
+    "lat": 10.793892,
+    "lon": 106.707626,
+    "busy_hours": [
+      8,
+      20,
+      19
+    ],
+    "photos": [
+      "https://www.lorempixel.com/996/199",
+      "https://dummyimage.com/159x537"
+    ],
+    "reviews": [
+      "Item wish light culture place save.",
+      "Detail player act before significant every.",
+      "Certain allow record."
+    ]
+  },
+  {
+    "id": "place_174",
+    "name": "Jenkins-Ramos Cafe",
+    "description": "Much on baby pattern realize happen between artist. Receive art break down lawyer all.",
+    "tags": [
+      "lunch",
+      "luxury",
+      "open late",
+      "quiet",
+      "outdoor seating"
+    ],
+    "ambience": [
+      "minimalist",
+      "quiet",
+      "dimly lit"
+    ],
+    "popularity": "moderate",
+    "rating": 3.0,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "09:00",
+      "22:00"
+    ],
+    "lat": 10.763099,
+    "lon": 106.716031,
+    "busy_hours": [
+      23,
+      19,
+      7
+    ],
+    "photos": [
+      "https://dummyimage.com/833x243",
+      "https://dummyimage.com/344x976"
+    ],
+    "reviews": [
+      "Authority order lay.",
+      "Skill real policy wonder follow prove happy.",
+      "Various rise face second size country."
+    ]
+  },
+  {
+    "id": "place_175",
+    "name": "Hernandez and Sons Cafe",
+    "description": "True than generation. During next seven real.",
+    "tags": [
+      "noodle",
+      "co-working",
+      "live music",
+      "quiet",
+      "romantic"
+    ],
+    "ambience": [
+      "modern",
+      "vintage",
+      "quiet"
+    ],
+    "popularity": "low",
+    "rating": 3.9,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "08:00",
+      "20:00"
+    ],
+    "lat": 10.790629,
+    "lon": 106.685817,
+    "busy_hours": [
+      5,
+      0,
+      2
+    ],
+    "photos": [
+      "https://dummyimage.com/774x628",
+      "https://placekitten.com/376/626"
+    ],
+    "reviews": [
+      "Physical story clearly learn head outside network.",
+      "The guess sing staff base recently.",
+      "Possible follow same especially."
+    ]
+  },
+  {
+    "id": "place_176",
+    "name": "Hernandez and Sons Cafe",
+    "description": "Throw budget wish me wall firm grow. Affect beyond arrive create allow unit reason attorney.",
+    "tags": [
+      "wifi",
+      "dessert",
+      "open late",
+      "lunch",
+      "casual"
+    ],
+    "ambience": [
+      "dimly lit",
+      "quiet",
+      "vibrant"
+    ],
+    "popularity": "high",
+    "rating": 4.4,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "06:00",
+      "18:00"
+    ],
+    "lat": 10.768482,
+    "lon": 106.71081,
+    "busy_hours": [
+      16,
+      9,
+      11
+    ],
+    "photos": [
+      "https://dummyimage.com/518x131",
+      "https://placeimg.com/1001/514/any"
+    ],
+    "reviews": [
+      "Vote as ahead address watch travel receive.",
+      "Wall great three father including firm.",
+      "While major father south much."
+    ]
+  },
+  {
+    "id": "place_177",
+    "name": "Gonzalez-Mitchell Cafe",
+    "description": "Probably by true wait factor only. Behavior ten beat.\nEither citizen claim writer serious. Customer something without suffer stay make.",
+    "tags": [
+      "casual",
+      "kid friendly",
+      "luxury",
+      "romantic",
+      "wifi"
+    ],
+    "ambience": [
+      "minimalist",
+      "modern",
+      "vintage"
+    ],
+    "popularity": "low",
+    "rating": 3.4,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "08:00",
+      "18:00"
+    ],
+    "lat": 10.785504,
+    "lon": 106.692467,
+    "busy_hours": [
+      12,
+      3,
+      6
+    ],
+    "photos": [
+      "https://placekitten.com/405/764",
+      "https://dummyimage.com/247x504"
+    ],
+    "reviews": [
+      "Particular possible health standard population argue before peace.",
+      "None defense American call stay design together.",
+      "Teacher might writer data federal author structure future."
+    ]
+  },
+  {
+    "id": "place_178",
+    "name": "Kim, Kim and Gutierrez Cafe",
+    "description": "Look general form cup together ask. Interesting husband decade rest.\nMrs couple simple about.",
+    "tags": [
+      "dessert",
+      "co-working",
+      "breakfast",
+      "air-conditioned",
+      "lunch"
+    ],
+    "ambience": [
+      "bright",
+      "vibrant",
+      "dimly lit"
+    ],
+    "popularity": "low",
+    "rating": 4.1,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "06:00",
+      "23:00"
+    ],
+    "lat": 10.786389,
+    "lon": 106.71546,
+    "busy_hours": [
+      16,
+      21,
+      17
+    ],
+    "photos": [
+      "https://dummyimage.com/165x926",
+      "https://dummyimage.com/899x37"
+    ],
+    "reviews": [
+      "Expect sense house big color truth laugh stop.",
+      "Fund throw industry nation modern worker relationship here.",
+      "Call time who wrong win who despite."
+    ]
+  },
+  {
+    "id": "place_179",
+    "name": "Davis Ltd Cafe",
+    "description": "Value there pressure fish day last although. Interest window avoid.",
+    "tags": [
+      "noodle",
+      "live music",
+      "tea",
+      "bbq",
+      "vegan"
+    ],
+    "ambience": [
+      "minimalist",
+      "greenery",
+      "quiet"
+    ],
+    "popularity": "high",
+    "rating": 3.0,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "10:00",
+      "18:00"
+    ],
+    "lat": 10.790504,
+    "lon": 106.701216,
+    "busy_hours": [
+      14,
+      12,
+      15
+    ],
+    "photos": [
+      "https://placekitten.com/261/368",
+      "https://placeimg.com/35/786/any"
+    ],
+    "reviews": [
+      "Family set road rate center actually.",
+      "Wonder home window home help walk them.",
+      "Quality charge order health fast."
+    ]
+  },
+  {
+    "id": "place_180",
+    "name": "Wright Group Cafe",
+    "description": "Help mean upon resource. Shoulder I program might pay view. Hair apply think fine third.",
+    "tags": [
+      "lunch",
+      "outdoor seating",
+      "casual",
+      "dessert",
+      "bbq"
+    ],
+    "ambience": [
+      "cozy",
+      "vintage",
+      "modern"
+    ],
+    "popularity": "high",
+    "rating": 3.8,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "10:00",
+      "18:00"
+    ],
+    "lat": 10.767914,
+    "lon": 106.68834,
+    "busy_hours": [
+      4,
+      15,
+      1
+    ],
+    "photos": [
+      "https://placekitten.com/941/957",
+      "https://placekitten.com/756/963"
+    ],
+    "reviews": [
+      "Collection either year ask.",
+      "Country hit business.",
+      "Better article call fund trouble."
+    ]
+  },
+  {
+    "id": "place_181",
+    "name": "Ashley, Cunningham and Powers Cafe",
+    "description": "Interest pull material bring return. No side on really whom around there.",
+    "tags": [
+      "luxury",
+      "dinner",
+      "dessert",
+      "co-working",
+      "outdoor seating"
+    ],
+    "ambience": [
+      "quiet",
+      "minimalist",
+      "vibrant"
+    ],
+    "popularity": "high",
+    "rating": 3.7,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "07:00",
+      "23:00"
+    ],
+    "lat": 10.781669,
+    "lon": 106.710571,
+    "busy_hours": [
+      20,
+      5,
+      17
+    ],
+    "photos": [
+      "https://www.lorempixel.com/819/459",
+      "https://dummyimage.com/1001x543"
+    ],
+    "reviews": [
+      "Five involve job model including collection.",
+      "Anything send to very time there war.",
+      "His sing drug."
+    ]
+  },
+  {
+    "id": "place_182",
+    "name": "Morrison, Lee and Cole Cafe",
+    "description": "Worry institution standard book relationship will herself. Within soldier receive certain meet task child develop.",
+    "tags": [
+      "live music",
+      "fast service",
+      "coffee",
+      "lunch",
+      "outdoor seating"
+    ],
+    "ambience": [
+      "minimalist",
+      "vintage",
+      "vibrant"
+    ],
+    "popularity": "moderate",
+    "rating": 3.9,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "06:00",
+      "19:00"
+    ],
+    "lat": 10.759193,
+    "lon": 106.690994,
+    "busy_hours": [
+      22,
+      10,
+      1
+    ],
+    "photos": [
+      "https://placeimg.com/384/87/any",
+      "https://placeimg.com/581/942/any"
+    ],
+    "reviews": [
+      "Of crime maybe avoid.",
+      "Stand increase specific beyond law thought.",
+      "Change very series reveal own financial itself under."
+    ]
+  },
+  {
+    "id": "place_183",
+    "name": "Macias, Saunders and Lane Cafe",
+    "description": "Team sure boy loss shoulder. My prepare he military. Control nation this.\nEnd still executive low employee.",
+    "tags": [
+      "casual",
+      "air-conditioned",
+      "dinner",
+      "pet friendly",
+      "co-working"
+    ],
+    "ambience": [
+      "cozy",
+      "lively",
+      "quiet"
+    ],
+    "popularity": "low",
+    "rating": 4.8,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "07:00",
+      "23:00"
+    ],
+    "lat": 10.768618,
+    "lon": 106.706886,
+    "busy_hours": [
+      16,
+      4,
+      20
+    ],
+    "photos": [
+      "https://dummyimage.com/17x404",
+      "https://dummyimage.com/206x68"
+    ],
+    "reviews": [
+      "His even individual allow rise tree center.",
+      "Ability enough two hot.",
+      "Call mean suggest between throughout."
+    ]
+  },
+  {
+    "id": "place_184",
+    "name": "Vargas-Kennedy Cafe",
+    "description": "Door another run sign lot office. Fill no area. Lead open very street special.",
+    "tags": [
+      "fast service",
+      "bbq",
+      "noodle",
+      "breakfast",
+      "open late"
+    ],
+    "ambience": [
+      "cozy",
+      "quiet",
+      "vintage"
+    ],
+    "popularity": "high",
+    "rating": 3.9,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "10:00",
+      "22:00"
+    ],
+    "lat": 10.780394,
+    "lon": 106.696949,
+    "busy_hours": [
+      6,
+      14,
+      13
+    ],
+    "photos": [
+      "https://placeimg.com/674/505/any",
+      "https://www.lorempixel.com/725/462"
+    ],
+    "reviews": [
+      "Shake feeling hold tax TV expect production.",
+      "Drop Mr one test.",
+      "Poor set job stock PM."
+    ]
+  },
+  {
+    "id": "place_185",
+    "name": "Lewis, Brock and Davis Cafe",
+    "description": "Size himself kitchen contain. Radio type drop you it.",
+    "tags": [
+      "quiet",
+      "co-working",
+      "fast service",
+      "coffee",
+      "open late"
+    ],
+    "ambience": [
+      "vintage",
+      "lively",
+      "minimalist"
+    ],
+    "popularity": "moderate",
+    "rating": 4.2,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "09:00",
+      "23:00"
+    ],
+    "lat": 10.762872,
+    "lon": 106.707432,
+    "busy_hours": [
+      0,
+      9,
+      22
+    ],
+    "photos": [
+      "https://placekitten.com/694/614",
+      "https://dummyimage.com/410x873"
+    ],
+    "reviews": [
+      "Use recent take two.",
+      "Free in statement free past.",
+      "Buy enter there material low drive."
+    ]
+  },
+  {
+    "id": "place_186",
+    "name": "Cruz, Howell and Meyer Cafe",
+    "description": "Beat assume kid player.\nLet woman president station situation simple activity. Floor response usually laugh.",
+    "tags": [
+      "noodle",
+      "quiet",
+      "wifi",
+      "romantic",
+      "breakfast"
+    ],
+    "ambience": [
+      "cozy",
+      "minimalist",
+      "greenery"
+    ],
+    "popularity": "low",
+    "rating": 4.9,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "06:00",
+      "18:00"
+    ],
+    "lat": 10.791627,
+    "lon": 106.711366,
+    "busy_hours": [
+      22,
+      9,
+      20
+    ],
+    "photos": [
+      "https://placeimg.com/360/471/any",
+      "https://www.lorempixel.com/935/206"
+    ],
+    "reviews": [
+      "Describe space various space.",
+      "Cause key truth there.",
+      "Ahead movement enough will economy break throughout."
+    ]
+  },
+  {
+    "id": "place_187",
+    "name": "Kline-Munoz Cafe",
+    "description": "Sense town show ten. Cell race page plan a.\nBe later executive arm both international plan plant. Weight mean develop idea push some.",
+    "tags": [
+      "kid friendly",
+      "bbq",
+      "air-conditioned",
+      "quiet",
+      "tea"
+    ],
+    "ambience": [
+      "bright",
+      "modern",
+      "quiet"
+    ],
+    "popularity": "low",
+    "rating": 3.7,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "06:00",
+      "22:00"
+    ],
+    "lat": 10.794206,
+    "lon": 106.691924,
+    "busy_hours": [
+      10,
+      22,
+      14
+    ],
+    "photos": [
+      "https://www.lorempixel.com/200/350",
+      "https://dummyimage.com/0x989"
+    ],
+    "reviews": [
+      "Positive model rock military community hand book dark.",
+      "Score total truth anything body argue source.",
+      "Action south meeting various material determine wrong."
+    ]
+  },
+  {
+    "id": "place_188",
+    "name": "Stanley-Norman Cafe",
+    "description": "Director more business share. Position sense party age might appear partner.",
+    "tags": [
+      "pet friendly",
+      "romantic",
+      "breakfast",
+      "coffee",
+      "outdoor seating"
+    ],
+    "ambience": [
+      "modern",
+      "dimly lit",
+      "quiet"
+    ],
+    "popularity": "moderate",
+    "rating": 4.5,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "09:00",
+      "23:00"
+    ],
+    "lat": 10.762712,
+    "lon": 106.708075,
+    "busy_hours": [
+      3,
+      22,
+      6
+    ],
+    "photos": [
+      "https://dummyimage.com/800x479",
+      "https://placekitten.com/39/720"
+    ],
+    "reviews": [
+      "Thank employee improve scientist notice should partner.",
+      "Trouble teach front bad turn degree manager.",
+      "Trade seek executive attack common personal."
+    ]
+  },
+  {
+    "id": "place_189",
+    "name": "Schmidt, Robinson and Perkins Cafe",
+    "description": "Myself pay today huge eye recognize bring. Generation impact deep community onto. Store billion series back vote west.",
+    "tags": [
+      "fast service",
+      "pet friendly",
+      "luxury",
+      "bbq",
+      "co-working"
+    ],
+    "ambience": [
+      "vintage",
+      "dimly lit",
+      "lively"
+    ],
+    "popularity": "low",
+    "rating": 3.9,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "08:00",
+      "23:00"
+    ],
+    "lat": 10.79242,
+    "lon": 106.698816,
+    "busy_hours": [
+      4,
+      11,
+      17
+    ],
+    "photos": [
+      "https://placeimg.com/160/284/any",
+      "https://dummyimage.com/248x907"
+    ],
+    "reviews": [
+      "Expect every someone source listen.",
+      "Travel very cup size.",
+      "Court pretty manage simple."
+    ]
+  },
+  {
+    "id": "place_190",
+    "name": "Bowman-Fisher Cafe",
+    "description": "Low many across face cost level scene. Better night dark. The range thought draw yeah think indicate.",
+    "tags": [
+      "wifi",
+      "bbq",
+      "dinner",
+      "vegan",
+      "tea"
+    ],
+    "ambience": [
+      "modern",
+      "quiet",
+      "minimalist"
+    ],
+    "popularity": "low",
+    "rating": 3.4,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "07:00",
+      "18:00"
+    ],
+    "lat": 10.774756,
+    "lon": 106.714921,
+    "busy_hours": [
+      12,
+      0,
+      5
+    ],
+    "photos": [
+      "https://dummyimage.com/804x902",
+      "https://dummyimage.com/787x666"
+    ],
+    "reviews": [
+      "Professional line role fish ago.",
+      "Home off spring often.",
+      "My wrong although we back hundred."
+    ]
+  },
+  {
+    "id": "place_191",
+    "name": "Jimenez-Miller Cafe",
+    "description": "Who beat speech interview ever financial student.\nPrevent generation push enjoy. Red very return matter responsibility.",
+    "tags": [
+      "bbq",
+      "tea",
+      "luxury",
+      "breakfast",
+      "coffee"
+    ],
+    "ambience": [
+      "cozy",
+      "quiet",
+      "bright"
+    ],
+    "popularity": "moderate",
+    "rating": 4.9,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "08:00",
+      "19:00"
+    ],
+    "lat": 10.792946,
+    "lon": 106.715795,
+    "busy_hours": [
+      6,
+      8,
+      22
+    ],
+    "photos": [
+      "https://placeimg.com/250/988/any",
+      "https://www.lorempixel.com/17/964"
+    ],
+    "reviews": [
+      "Article find day cup provide.",
+      "Factor ask eight person space sure black.",
+      "Quality card machine then."
+    ]
+  },
+  {
+    "id": "place_192",
+    "name": "Bradley, Campbell and Butler Cafe",
+    "description": "Sing wife anyone involve whether series join. Yourself particularly little put. White better get everybody.",
+    "tags": [
+      "outdoor seating",
+      "dessert",
+      "wifi",
+      "open late",
+      "kid friendly"
+    ],
+    "ambience": [
+      "modern",
+      "dimly lit",
+      "lively"
+    ],
+    "popularity": "high",
+    "rating": 3.8,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "10:00",
+      "22:00"
+    ],
+    "lat": 10.782611,
+    "lon": 106.699253,
+    "busy_hours": [
+      22,
+      16,
+      14
+    ],
+    "photos": [
+      "https://placeimg.com/489/435/any",
+      "https://placekitten.com/360/864"
+    ],
+    "reviews": [
+      "One imagine toward evidence crime movement hot.",
+      "Hair next third sport.",
+      "Compare hear both management heavy."
+    ]
+  },
+  {
+    "id": "place_193",
+    "name": "Hahn-Baker Cafe",
+    "description": "Third ever occur she magazine save store.",
+    "tags": [
+      "vegan",
+      "noodle",
+      "tea",
+      "co-working",
+      "dinner"
+    ],
+    "ambience": [
+      "vintage",
+      "dimly lit",
+      "cozy"
+    ],
+    "popularity": "low",
+    "rating": 3.6,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "08:00",
+      "21:00"
+    ],
+    "lat": 10.776575,
+    "lon": 106.717631,
+    "busy_hours": [
+      22,
+      19,
+      17
+    ],
+    "photos": [
+      "https://dummyimage.com/108x51",
+      "https://placeimg.com/821/753/any"
+    ],
+    "reviews": [
+      "Door one by doctor score.",
+      "Both case center raise eight quickly.",
+      "Law produce candidate."
+    ]
+  },
+  {
+    "id": "place_194",
+    "name": "King, Hall and Wong Cafe",
+    "description": "Agency always democratic or media. Sport now nature ask cell opportunity claim. Investment past arm.",
+    "tags": [
+      "wifi",
+      "air-conditioned",
+      "romantic",
+      "live music",
+      "vegan"
+    ],
+    "ambience": [
+      "dimly lit",
+      "modern",
+      "lively"
+    ],
+    "popularity": "high",
+    "rating": 3.6,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "09:00",
+      "19:00"
+    ],
+    "lat": 10.793397,
+    "lon": 106.686226,
+    "busy_hours": [
+      9,
+      8,
+      21
+    ],
+    "photos": [
+      "https://placeimg.com/541/325/any",
+      "https://placeimg.com/661/291/any"
+    ],
+    "reviews": [
+      "Dream tell recently miss agent knowledge.",
+      "Part two realize include where certain.",
+      "Significant word story air civil mouth responsibility."
+    ]
+  },
+  {
+    "id": "place_195",
+    "name": "Lara and Sons Cafe",
+    "description": "Do resource walk say ready board. Measure plan law design. Tonight rise maybe professor theory so fall. Stay the kind with choose.",
+    "tags": [
+      "pet friendly",
+      "casual",
+      "bbq",
+      "co-working",
+      "breakfast"
+    ],
+    "ambience": [
+      "modern",
+      "vintage",
+      "lively"
+    ],
+    "popularity": "moderate",
+    "rating": 3.8,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "09:00",
+      "20:00"
+    ],
+    "lat": 10.790309,
+    "lon": 106.718436,
+    "busy_hours": [
+      21,
+      0,
+      13
+    ],
+    "photos": [
+      "https://dummyimage.com/581x434",
+      "https://dummyimage.com/698x427"
+    ],
+    "reviews": [
+      "Hot box resource management shake then director.",
+      "Class next education seven.",
+      "Hour simply one list above on."
+    ]
+  },
+  {
+    "id": "place_196",
+    "name": "Mckenzie LLC Cafe",
+    "description": "Kid game many perhaps eight year evening. Relate anyone someone night name however wear.",
+    "tags": [
+      "luxury",
+      "air-conditioned",
+      "pet friendly",
+      "wifi",
+      "romantic"
+    ],
+    "ambience": [
+      "lively",
+      "greenery",
+      "minimalist"
+    ],
+    "popularity": "low",
+    "rating": 4.8,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "10:00",
+      "21:00"
+    ],
+    "lat": 10.760252,
+    "lon": 106.692251,
+    "busy_hours": [
+      9,
+      10,
+      18
+    ],
+    "photos": [
+      "https://dummyimage.com/649x676",
+      "https://placekitten.com/487/174"
+    ],
+    "reviews": [
+      "Bit four find but decade cell speech.",
+      "Ago no month special house season.",
+      "Over including model check many skin dream."
+    ]
+  },
+  {
+    "id": "place_197",
+    "name": "Allen and Sons Cafe",
+    "description": "Bag article fact federal summer huge. Necessary explain watch arm specific put.",
+    "tags": [
+      "lunch",
+      "quiet",
+      "air-conditioned",
+      "dessert",
+      "dinner"
+    ],
+    "ambience": [
+      "dimly lit",
+      "minimalist",
+      "lively"
+    ],
+    "popularity": "low",
+    "rating": 4.6,
+    "review_sentiment": "mixed",
+    "opening_hours": [
+      "08:00",
+      "21:00"
+    ],
+    "lat": 10.784231,
+    "lon": 106.704648,
+    "busy_hours": [
+      2,
+      15,
+      0
+    ],
+    "photos": [
+      "https://placeimg.com/884/188/any",
+      "https://placeimg.com/586/816/any"
+    ],
+    "reviews": [
+      "Anything model recognize street.",
+      "Less necessary society.",
+      "Short southern box no job foreign become."
+    ]
+  },
+  {
+    "id": "place_198",
+    "name": "Davis, Orr and Nelson Cafe",
+    "description": "Relationship TV industry. Daughter above deal like.",
+    "tags": [
+      "kid friendly",
+      "open late",
+      "noodle",
+      "casual",
+      "dessert"
+    ],
+    "ambience": [
+      "lively",
+      "minimalist",
+      "greenery"
+    ],
+    "popularity": "high",
+    "rating": 4.6,
+    "review_sentiment": "negative",
+    "opening_hours": [
+      "06:00",
+      "18:00"
+    ],
+    "lat": 10.765783,
+    "lon": 106.711743,
+    "busy_hours": [
+      20,
+      9,
+      3
+    ],
+    "photos": [
+      "https://placeimg.com/94/570/any",
+      "https://placekitten.com/915/841"
+    ],
+    "reviews": [
+      "Laugh let star stock several would trial.",
+      "Organization lay adult along development reduce around.",
+      "Executive three foreign so prepare war."
+    ]
+  },
+  {
+    "id": "place_199",
+    "name": "Cameron-Rivera Cafe",
+    "description": "Sound improve same half fight. Ground institution green meet now sure great. Maintain suggest animal whom allow hold wonder.",
+    "tags": [
+      "romantic",
+      "co-working",
+      "open late",
+      "tea",
+      "coffee"
+    ],
+    "ambience": [
+      "vintage",
+      "lively",
+      "cozy"
+    ],
+    "popularity": "low",
+    "rating": 3.5,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "07:00",
+      "22:00"
+    ],
+    "lat": 10.781589,
+    "lon": 106.703196,
+    "busy_hours": [
+      22,
+      14,
+      6
+    ],
+    "photos": [
+      "https://dummyimage.com/1009x803",
+      "https://www.lorempixel.com/300/137"
+    ],
+    "reviews": [
+      "Rather second name music thing.",
+      "Trade camera through million technology leader realize.",
+      "Prevent order produce free."
+    ]
+  },
+  {
+    "id": "place_200",
+    "name": "Hill-Gomez Cafe",
+    "description": "Pressure cell bill my when institution may. Feeling PM product particularly site.",
+    "tags": [
+      "romantic",
+      "breakfast",
+      "dessert",
+      "tea",
+      "air-conditioned"
+    ],
+    "ambience": [
+      "minimalist",
+      "quiet",
+      "cozy"
+    ],
+    "popularity": "moderate",
+    "rating": 4.8,
+    "review_sentiment": "positive",
+    "opening_hours": [
+      "08:00",
+      "23:00"
+    ],
+    "lat": 10.759767,
+    "lon": 106.709764,
+    "busy_hours": [
+      3,
+      21,
+      7
+    ],
+    "photos": [
+      "https://placeimg.com/792/472/any",
+      "https://www.lorempixel.com/546/395"
+    ],
+    "reviews": [
+      "So church service development.",
+      "Kitchen firm past investment up.",
+      "Style here sit information leader."
+    ]
+  }
+]
