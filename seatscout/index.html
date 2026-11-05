@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>SeatScout · live seat map</title>
+<meta name="description" content="SeatScout turns a café camera into a live seat map. YOLO11 runs in your browser, and a small state machine decides when a seat is taken, held or free.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400..800&family=IBM+Plex+Mono:wght@400;500&family=Press+Start+2P&display=swap">
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' shape-rendering='crispEdges'%3E%3Crect width='16' height='16' fill='%230F380F'/%3E%3Cpath fill='%239BBC0F' d='M4 3h8v6H4zM3 10h10v2H3zM4 12h1v2H4zM11 12h1v2h-1z'/%3E%3C/svg%3E">
+<script src="https://cdn.jsdelivr.net/npm/onnxruntime-web@1.20.1/dist/ort.webgpu.min.js"></script>
+</head>
+<body>
+<header class="top">
+  <a class="logo" href="./"><span class="px" aria-hidden="true"></span>SEATSCOUT</a>
+  <p class="tag">A live seat map from the camera a café already has. YOLO11 runs in this tab.</p>
+  <nav class="links"><a href="#how">How it works</a><a class="gh" href="https://github.com/SEATSCOUT-SOCIAL-APP-TEAM/AI-Engine-Prototype/tree/main/docs/seatscout" target="_blank" rel="noopener">Code on GitHub</a></nav>
+</header>
+
+<main class="app">
+  <section class="cam card" aria-label="Camera">
+    <div class="bar">
+      <div class="src" role="group" aria-label="Video source">
+        <select id="sample" aria-label="Sample clip">
+          <option value="39586">Sample: two friends at a table</option>
+          <option value="6310">Sample: a meeting in a café</option>
+          <option value="6474">Sample: a busy restaurant</option>
+        </select>
+        <button class="btn" id="webcam" type="button" aria-pressed="false">Webcam</button>
+        <label class="btn" for="file">Your video<input id="file" type="file" accept="video/*" hidden></label>
+      </div>
+      <div class="tools">
+        <button class="btn" id="play" type="button">Pause</button>
+        <button class="btn" id="edit" type="button" aria-pressed="false">Edit seats</button>
+      </div>
+    </div>
+    <div class="view" id="view">
+      <canvas id="screen" aria-label="Camera view with seat zones and detections"></canvas>
+      <div class="loading" id="loading"><p class="l-h">Loading YOLO11n</p><p class="l-s" id="l-s">10.7 MB, once. Then everything runs on your device.</p><i class="l-bar"><b id="l-bar"></b></i></div>
+      <p class="hint" id="hint" hidden>Drag on the video to draw a seat. Click a seat to remove it.</p>
+    </div>
+    <div class="status">
+      <span id="st-model">YOLO11n</span><span id="st-ms">–</span><span id="st-count">–</span>
+      <label class="tog"><input type="checkbox" id="privacy" checked><span></span>Pixelate people</label>
+      <label class="tog"><input type="checkbox" id="boxes" checked><span></span>Show detections</label>
+    </div>
+    <p class="fine" id="credit">Sample clips stream from Mixkit (free licence). With the webcam or your own video, frames are processed in this tab and never uploaded.</p>
+  </section>
+
+  <section class="side">
+    <div class="card plan">
+      <div class="c-h"><h2>Restaurant layout</h2><div class="counts" aria-live="polite"><span class="free"><b id="n-free">0</b> free</span><span class="taken"><b id="n-taken">0</b> taken</span><span class="away"><b id="n-away">0</b> away</span><span class="check"><b id="n-check">0</b> check</span></div></div>
+      <div class="floor" id="floor" aria-label="Seats on a floor plan"></div>
+    </div>
+    <div class="card">
+      <div class="c-h"><h2>Seats</h2><button class="btn sm" id="auto" type="button">Place seats on people</button></div>
+      <ul class="seats" id="seats"></ul>
+      <p class="fine" id="seats-note">On a sample clip, “Step away” hides that guest from the detector, so you can watch the rules work. With the webcam, just get up.</p>
+    </div>
+    <div class="card alerts" id="alerts-card">
+      <div class="c-h"><h2>Staff</h2><span class="mini" id="alerts-n">No alerts</span></div>
+      <ul class="alerts-l" id="alerts"></ul>
+    </div>
+    <details class="card rules">
+      <summary>Rules and timings</summary>
+      <label class="rng"><span>Away after nobody is seen for <b id="v-absence">1.5 s</b></span><input id="absence" type="range" min="500" max="5000" step="250" value="1500"></label>
+      <label class="rng"><span>Free again after away, with nothing left <b id="v-grace">8 s</b></span><input id="grace" type="range" min="3000" max="60000" step="1000" value="8000"></label>
+      <label class="rng"><span>Staff check after away, with belongings left <b id="v-limit">20 s</b></span><input id="limit" type="range" min="5000" max="120000" step="1000" value="20000"></label>
+      <p class="fine">Seconds here so you can see it happen. In a café these would be minutes.</p>
+    </details>
+  </section>
+
+  <section class="card log-c">
+    <div class="c-h"><h2>What happened</h2><button class="btn sm" id="clear-log" type="button">Clear</button></div>
+    <ol class="log" id="log"></ol>
+  </section>
+
+  <section class="card how" id="how">
+    <h2>How it works</h2>
+    <ol class="steps">
+      <li><b>01 Video</b><span>A café's CCTV. Here: a sample clip, your webcam, or a file.</span></li>
+      <li><b>02 Detect</b><span>YOLO11n finds people, and things like bags, laptops, cups and phones.</span></li>
+      <li><b>03 Assign</b><span>Each seat is a zone on the image. A person counts if they cover a quarter of it.</span></li>
+      <li><b>04 Decide</b><span>Free, Taken, Away or Check, with a clock per seat and a grace period.</span></li>
+      <li><b>05 Show</b><span>The layout updates live. Staff get a nudge when a seat needs a look.</span></li>
+    </ol>
+    <p class="fine">Seat rules: <a href="https://github.com/SEATSCOUT-SOCIAL-APP-TEAM/AI-Engine-Prototype/blob/main/docs/seatscout/seats.js" target="_blank" rel="noopener">seats.js</a>. Detector: <a href="https://github.com/SEATSCOUT-SOCIAL-APP-TEAM/AI-Engine-Prototype/blob/main/docs/seatscout/detector.js" target="_blank" rel="noopener">detector.js</a>, YOLO11n by Ultralytics (AGPL-3.0), exported to ONNX and run with ONNX Runtime Web. Vision pipeline and seat rules designed by Dong Anh Nguyen; the 2024 detector was built by Srihari Murali. This page re-implements it for the browser.</p>
+  </section>
+</main>
+<script type="module" src="app.js"></script>
+</body>
+</html>
