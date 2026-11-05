@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SeatScout team · demos</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400..800&family=Press+Start+2P&display=swap">
+<style>
+:root{--g0:#0F380F;--g1:#306230;--g3:#9BBC0F;--g4:#C9DD8B;--ink:#0F1A0F}
+*{box-sizing:border-box} body{margin:0;min-height:100vh;background:#F6F8EE;color:var(--ink);font:16px/1.5 Archivo,Arial,sans-serif;display:grid;place-items:center;padding:24px}
+main{width:min(880px,100%);display:grid;gap:18px}
+h1{margin:0;font:400 18px/1.4 "Press Start 2P",monospace;color:var(--g0)} p{margin:0}
+.cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+a.card{display:grid;gap:8px;padding:22px;border-radius:22px;background:#fff;box-shadow:0 0 0 1px rgba(15,56,15,.14);text-decoration:none;color:inherit;transition:transform .2s}
+a.card:hover{transform:translateY(-3px)} a.card.dark{background:var(--g0);color:var(--g4)}
+.k{font:400 10px/1.6 "Press Start 2P",monospace;color:var(--g1)} .dark .k{color:var(--g3)}
+.t{font-weight:800;font-size:22px;line-height:1.15} .go{font-weight:700;margin-top:6px}
+@media (max-width:640px){.cards{grid-template-columns:1fr}}
+</style>
+</head>
+<body><main>
+<h1>SEATSCOUT TEAM</h1>
+<p>Two prototypes from the SeatScout team. Both run in your browser.</p>
+<div class="cards">
+  <a class="card dark" href="seatscout/"><span class="k">SEATSCOUT · 2024</span><span class="t">A live seat map from a café camera</span><span>YOLO11 finds people and what they leave behind; the seat rules decide Free, Taken, Away or Check.</span><span class="go">Open the live demo →</span></a>
+  <a class="card" href="https://donganh1409.github.io/perfect-cafe-finder/"><span class="k">CAFE FINDER · 2025</span><span class="t">Find the café that feels like you</span><span>A personalised café search. This repository holds its Python engine; the app lives in its own repository.</span><span class="go">Open the app →</span></a>
+</div>
+<p><a href="https://github.com/SEATSCOUT-SOCIAL-APP-TEAM/AI-Engine-Prototype">Source on GitHub</a></p>
+</main></body></html>
